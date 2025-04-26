@@ -304,20 +304,11 @@ El modelo de ingresos de ArtCollab contempla diversas fuentes:
 ## 3.1. To-Be Scenario Mapping
 
 **Autor:**
-
-|   | Búsqueda del ilustrador | Contratación de ilustradores | Publicación del libro | Publicitar el libro |
-|---|-----------------------|------------------------------|-----------------------|---------------------|
-| Doing | | | | |
-| Thinking | | | | |
-| Feeling | | | | |
+![to be escritor](https://github.com/user-attachments/assets/a8f7d240-80cd-4381-b507-1e6493a795c9)
 
 **Ilustrador:**
+![to be ilustrador](https://github.com/user-attachments/assets/bf90d974-0b01-4d37-9cbf-f8a14bb8989e)
 
-|   | Búsqueda de ofertas laborales | Evaluación de ofertas laborales | Negociación de terminos | Presentación de avances |
-|---|-----------------------|------------------------------|-----------------------|---------------------|
-| Doing | | | | |
-| Thinking | | | | |
-| Feeling | | | | |
 
 ## 3.2. User Stories
 
@@ -971,10 +962,12 @@ dibujar</p>
 ## 3.4. Impact Mapping
 
 **Escritor:**
-![IM1](Images/chapter3/escritor_Impact.png)  
+![impact map escritor](https://github.com/user-attachments/assets/9578058c-bc36-4fd2-b831-3f3ce730197d)
+
 
 **Ilustrador:**
-![IM2](Images/chapter3/ilustrador_impact.png)  
+![impact map ilustrador](https://github.com/user-attachments/assets/3e708763-8eb9-4598-ba41-ba140eeee8e8)
+
 
 ## Capítulo IV: Product Design
 ### 4.1. Style Guidelines
