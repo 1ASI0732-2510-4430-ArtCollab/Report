@@ -279,10 +279,293 @@ El modelo de ingresos de ArtCollab contempla diversas fuentes:
 
 #### 1.2.2. Lean UX Process
 ##### 1.2.2.1. Lean UX Problem Statements
+## Domain
+
+ArtCollab se sitúa en la intersección de la industria editorial digital y las plataformas de creación colaborativa, enfocándose específicamente en el nicho de los libros ilustrados. Este segmento combina narrativa literaria con arte visual, pero ha sido ampliamente ignorado por plataformas populares de autopublicación o lectura digital, que priorizan obras textuales o cómics serializados.
+
+## Customer Segments
+
+- **Ilustradores / Artistas Visuales Digitales:**
+  - Profesionales o aspirantes que buscan visibilidad, oportunidades de colaboración, monetización justa y construcción de portafolio.
+
+- **Escritores / Narradores Digitales:**
+  - Autores interesados en enriquecer sus historias con ilustraciones, encontrar colaboradores artísticos y compartir su obra con una audiencia global.
+
+## Pain Points
+
+- **Ilustradores / Artistas Visuales Digitales:**
+  - Falta de plataformas que valoren su trabajo como actividad profesional, no como "pasatiempo".
+  - Ausencia de oportunidades sostenibles para monetizar su arte en libros.
+  - Invisibilidad en plataformas centradas solo en texto o cómic serializado.
+
+- **Escritores / Narradores Digitales:**
+  - Dificultad para encontrar colaboradores visuales confiables y con estilos adecuados.
+  - Limitaciones técnicas o económicas para autopublicar libros ilustrados.
+  - Falta de espacios para diferenciarse en un mercado saturado de narrativa textual.
+
+## Gap
+
+No existe actualmente una plataforma integral que:
+- Se enfoque exclusivamente en libros ilustrados digitales.
+- Facilite activamente la conexión entre escritores e ilustradores.
+- Ofrezca herramientas de publicación, monetización y promoción adaptadas a la colaboración interdisciplinaria.
+- Garantice condiciones dignas, transparentes y sostenibles para creadores independientes.
+
+## Vision / Strategy
+
+- **Visión:**  
+  Convertirse en el ecosistema líder en creación, difusión y monetización de libros ilustrados digitales en Latinoamérica, ofreciendo una experiencia colaborativa, justa y creativa para artistas y narradores.
+
+- **Estrategia:**  
+  - Crear una plataforma web con funcionalidades enfocadas en el trabajo colaborativo entre escritor e ilustrador.
+  - Establecer un modelo de monetización justo y transparente.
+  - Fomentar comunidad, portafolio, visibilidad y herramientas de crecimiento profesional.
+  - Iniciar con el mercado peruano y escalar a nivel regional y global.
+
+## Initial Segment
+
+- Ilustradores digitales jóvenes que buscan visibilidad y oportunidades reales de colaboración y monetización.
+- Escritores independientes que desean publicar libros ilustrados sin depender de editoriales tradicionales.
+
 ##### 1.2.2.2. Lean UX Assumptions
+# Business Assumptions
+
+- La creciente producción de contenido visual y narrativo en plataformas digitales evidencia la necesidad de espacios más especializados y colaborativos.
+- Existe una comunidad activa de ilustradores y escritores que buscan nuevas formas de visibilidad, colaboración y monetización.
+- La auto-publicación y los modelos de economía colaborativa están en aumento, lo que favorece iniciativas como **ArtCollab**.
+- El actual ecosistema de plataformas (Instagram, Wattpad, Behance) no resuelve completamente la necesidad de colaboración directa y co-creación entre artistas visuales y escritores.
+- Artistas y escritores están dispuestos a migrar a una nueva plataforma si se les garantiza una comunidad activa, oportunidades reales de colaboración y beneficios económicos.
+- Las universidades, colectivos artísticos y escuelas creativas podrían convertirse en aliados estratégicos para promover la adopción.
+- El modelo **freemium** con funcionalidades premium para monetización, promoción o visibilidad aumentada es viable en este nicho.
+- La narrativa ilustrada está creciendo en formatos digitales como cómics, libros infantiles y novelas gráficas, representando una oportunidad de negocio creciente.
+
+# Business Outcomes
+
+- Generar una comunidad sólida de ilustradores y escritores activos en la plataforma en los primeros **6 meses** (**1000+ usuarios**).
+- Facilitar la creación de al menos **500 proyectos colaborativos** en el primer año.
+- Monetizar los primeros **100 libros ilustrados** a través de modelos como suscripciones, descargas pagas o crowdfunding.
+- Posicionar a **ArtCollab** como referente en plataformas de co-creación artística digital en el mundo hispano.
+- Establecer **alianzas con al menos 10 instituciones educativas o culturales** en el primer año.
+- Obtener feedback de calidad para iterar la plataforma en sus primeras fases **MVP**.
+
+# User Assumptions
+
+### ¿Quién es el usuario?
+- **Ilustradores y artistas visuales** (18-35 años) interesados en libros ilustrados, cómic, narrativa gráfica, etc.
+- **Escritores independientes** (18-40 años) que desean transformar sus textos en experiencias visuales colaborativas.
+
+### ¿Qué problemas resuelve nuestro producto?
+- Falta de plataformas que fomenten la colaboración creativa entre artistas y escritores.
+- Dificultad para encontrar perfiles complementarios para proyectos (**ilustradores o escritores**).
+- Baja visibilidad y escasa monetización de obras ilustradas fuera de redes sociales.
+- Fragmentación de procesos: creación, edición, publicación y difusión están en espacios distintos.
+
+### ¿Qué características son importantes?
+- Espacios de **conexión y networking** entre ilustradores y escritores.
+- **Sistema de publicación digital** de libros ilustrados.
+- Herramientas de **monetización** (suscripciones, propinas).
+- **Perfiles profesionales** con portafolio y muestra de obras.
+- **Buscador de talentos** con filtros por estilo, género, ubicación y experiencia.
+- **Sistema de seguimiento y feedback colaborativo**.
+
+### ¿Dónde encaja nuestro producto en su trabajo o vida?
+- En la **fase de creación, publicación y promoción** de obras narrativas ilustradas.
+- Como **medio para encontrar socios creativos**.
+- Como **canal para publicar y visibilizar** su trabajo profesional.
+
+### ¿Cuándo y cómo es usado nuestro producto?
+- En **sesiones creativas colaborativas** (a través de chats, intercambios de archivos y herramientas editoriales).
+- Durante el **proceso de publicación y difusión** de sus obras ilustradas.
+- Como **portafolio** para mostrar sus proyectos en redes o a potenciales clientes/editoriales.
+
+### ¿Cómo debe verse nuestro producto y cómo debe comportarse?
+- **Diseño Limpio y Atractivo**: Interfaz intuitiva con un enfoque en las ilustraciones.
+- **Facilidad de Uso**: Navegación sencilla y procesos claros para cargar contenido.
+- **Comunidad y Colaboración**: Fomentar la interacción entre usuarios.
+- **Transparencia en Compensación**: Información clara sobre cómo se remunera a los artistas.
+
+# User Outcomes
+
+- **Mayor exposición y visibilidad** para ilustradores y escritores en una comunidad creativa especializada.
+- **Aumento de oportunidades reales de colaboración** para proyectos ilustrados.
+- **Acceso a nuevas fuentes de ingresos** por sus obras.
+- **Mayor motivación y continuidad en proyectos creativos** gracias a un entorno colaborativo.
+- **Profesionalización del portafolio y del trabajo artístico-literario**.
+- **Ahorro de tiempo** en la búsqueda de colaboradores o en la gestión de publicación y difusión.
+- **Satisfacción** al formar parte de una comunidad que reconoce y promueve el arte colaborativo.
+- **Incremento en la cantidad de obras ilustradas** publicadas y compartidas.
+
+# Features Assumptions
+
+- La herramienta de **publicación será sencilla**, intuitiva y permitirá la personalización estética del libro digital.
+- La plataforma permitirá **integrar imágenes y textos** de forma fluida y visualmente atractiva.
+- El **sistema de monetización será transparente y justo**, sin comisiones abusivas.
+- Los usuarios podrán acceder desde **distintos dispositivos** y navegar sin fricciones.
+- El contenido podrá **compartirse fácilmente en redes sociales** o con terceros para ampliar visibilidad.
+- El crecimiento inicial se basará en **círculos de confianza y comunidades creativas existentes**.
+
 ##### 1.2.2.3. Lean UX Hypothesis Statements
+Creemos que al simplificar el proceso de registro y permitir acceso mediante redes sociales o correo, aumentaremos la tasa de conversión de escritores e ilustradores nuevos. Sabremos que hemos tenido éxito cuando el número de cuentas nuevas creadas en los primeros 7 días post-lanzamiento aumente al menos un 30% respecto al promedio actual.
+
+Creemos que al implementar una función de mensajería entre escritores e ilustradores, mejoraremos la fluidez de colaboración y la creación conjunta de proyectos. Sabremos que hemos tenido éxito cuando aumente en un 25% la creación de proyectos colaborativos y mejore la retención mensual de usuarios activos en un 15%.
+
+Creemos que al proporcionar métricas claras y visuales sobre visualizaciones, comentarios y ventas, motivamos a los creadores a continuar publicando contenido. Sabremos que hemos tenido éxito cuando haya un incremento en la frecuencia de publicaciones por usuario y se observe una mayor satisfacción según encuestas o feedback.
+
+Creemos que al ofrecer una suscripción premium con beneficios exclusivos (visibilidad, promoción, acceso prioritario a ilustradores/escritores), aumentaremos la retención y generamos ingresos sostenibles. Sabremos que hemos tenido éxito cuando al menos un 15% de usuarios activos se suscriban al plan premium y se incremente su tiempo promedio de permanencia.
+
+Creemos que al integrar una función para que los creadores se den retroalimentación entre ellos, mejoraremos la calidad de los proyectos y fortaleceremos la comunidad creativa. Sabremos que hemos tenido éxito cuando al menos el 40% de los proyectos reciban comentarios útiles dentro de los 5 primeros días de publicación y mejore la percepción de valor en la comunidad.
+
 ##### 1.2.2.4. Lean UX Canvas
+<TABLE BORDER>
+	<TR>
+		<TD ROWSPAN=2>
+
+**Lean UX Canvas**
+</TD>
+	    	<TD ROWSPAN=2></TD> <TD>
+
+**Fecha:** 23/04/2025
+
+</TD> 
+	</TR>
+	<TR>
+		<TD>
+
+**Iteración 1**
+</TD> 
+	</TR>
+    <TR>
+		<TD ROWSPAN>
+        
+**1. Problema de negocios:**
+        
+En la actualidad, no hay una plataforma digital que integre y fomente la colaboración entre escritores e ilustradores dedicados a los libros ilustrados digitales. Las opciones actuales, como Wattpad y Webtoon, no cubren de manera adecuada las necesidades de cooperación creativa, remuneración equitativa, visibilidad y lealtad. También, la calidad del contenido y la retención de los usuarios siguen siendo retos importantes para asegurar el éxito duradero de estas plataformas.
+
+</TD>
+	    	<TD ROWSPAN=2>
+
+**5. Ideas de solución:**
+- **Herramientas de colaboración:** Mensajería directa, gestión de hitos y notificaciones.
+
+- **Sistema de monetización transparente:** Ingresos compartidos, suscripciones premium, ventas individuales.
+
+- **Perfiles de usuario creativos:** Portafolios visuales, historial de proyectos, valoraciones.
+
+- **Métricas y analíticas:** Visualizaciones, comentarios, ventas y feedback.
+
+- **Mercado de talentos:** Búsqueda de perfiles compatibles para iniciar colaboraciones.
+
+- **Desafíos creativos:** Retos semanales temáticos para incentivar la producción colaborativa.
+
+- **Validación social:** Comentarios entre creadores y sistema de likes.
+
+- **Compatibilidad multidispositivo:** Acceso desde distintos equipos con sincronización.
+
+</TD> <TD ROWSPAN=2>
+
+**2. Resultados comerciales:**
+
+- **Aumento mensual** en el número de cuentas nuevas y usuarios activos.
+- **Incremento** de proyectos colaborativos publicados exitosamente.
+- **Alta tasa de retención** y participación recurrente de los creadores.
+- **Crecimiento sostenible** de ingresos a través de planes premium.
+- **Reconocimiento** de ArtCollab como un referente en el sector creativo digital.
+
+</TD> 
+	</TR>
+	<TR>
+		<TD >
+        
+**3. Usuarios y Clientes:**
+
+- **Ilustradores:** Buscan visibilidad, oportunidades de colaboración, ingresos y reconocimiento.
+- **Escritores:** Necesitan apoyo visual para sus historias, acceso a talento artístico y herramientas para publicación y monetización.
+
+</TD> 
+	</TR>
+    <TR>
+		<TD ROWSPAN=2>
+
+**6. Hipótesis**
+        
+Creemos que al simplificar el proceso de registro en nuestra plataforma, aumentaremos la tasa de conversión de nuevos usuarios. Sabremos que hemos tenido éxito cuando observamos un aumento significativo en el número de cuentas creadas en los primeros 7 días después del lanzamiento.
+
+Creemos que al implementar una función de mensajería entre escritores e ilustradores, mejoraremos la colaboración creativa en nuestra plataforma. Sabremos que hemos tenido éxito cuando veamos un aumento en la cantidad de proyectos colaborativos publicados y una mayor retención de usuarios.
+
+Creemos que al ofrecer una sección destacada para los “Mejores Libros Ilustrados de la Semana”, aumentaremos la participación de los lectores. Sabremos que hemos tenido éxito cuando observamos un aumento en las visitas a esta sección y una mayor interacción con las obras destacadas.
+
+Creemos que al proporcionar métricas claras sobre las visualizaciones y las ventas de libros, motivamos a los escritores e ilustradores a seguir creando contenido. Sabremos que hemos tenido éxito cuando veamos un aumento en la producción de libros digitales ilustrados y una mayor satisfacción de los creadores.
+
+Creemos que al incorporar un sistema de suscripción premium para escritores e ilustradores, aumentaremos la retención de usuarios y generamos ingresos sostenibles. Sabremos que hemos tenido éxito cuando observamos un aumento en las suscripciones premium y una mayor participación activa de los creadores.
+</TD>
+
+<TD ROWSPAN=2>
+
+**7. ¿Qué es lo más importante que debemos aprender primero?**
+
+Quiénes son nuestros usuarios ideales y qué buscan realmente en términos de colaboración y visibilidad.
+
+Cómo se comportan en plataformas similares, qué les frustra, qué valoran y qué funcionalidades son imprescindibles.
+
+Qué tipo de monetización resulta atractiva y viable para ambos perfiles (escritor e ilustrador).
+
+Qué necesidades no están cubiertas actualmente por la competencia.
+</TD> 
+
+<TD>
+
+**4. Beneficios del usuario:**
+
+**Ilustradores:**
+
+- Mayor exposición y portafolio digital centralizado.
+- Conexiones directas con escritores.
+- Posibilidad de ingresos por colaboraciones y ventas.
+
+**Escritores:**
+
+- Mejora visual de sus obras gracias a la colaboración con ilustradores.
+- Acceso rápido y confiable a talento artístico.
+- Ingreso mediante ventas o suscripciones premium.
+</TD> 
+	</TR>
+	<TR>
+		<TD>
+        
+**8. ¿Cuál es la menor cantidad de trabajo que necesitamos para resolver las dudas y para hacer lo siguiente más importante?**
+
+- Soporte al Usuario:
+
+Responder rápidamente a las preguntas y consultas de los usuarios. Esto garantiza una buena experiencia y retención de usuarios.
+- Investigación de Competidores:
+
+Realizar un análisis rápido de las aplicaciones similares en el mercado. Esto nos ayudará a comprender las mejores prácticas y las oportunidades de mejora.
+- Validación de Idea:
+
+Crear prototipos o pruebas de concepto para validar nuestra idea antes de invertir en un desarrollo completo.
+- Plan de Marketing Básico:
+
+Diseñar un plan de marketing simple para promocionar la aplicación. Esto puede incluir estrategias de redes sociales y relaciones públicas.
+</TD> 
+	</TR>
+</TABLE>
 ### 1.3. Segmentos objetivo
+Esta sección presenta la descripción de los segmentos relacionados con el dominio del problema, considerando características geográficas y demográficas. Con el propósito de diseñar un producto alineado a las necesidades de los usuarios, ArtCollab centrará su enfoque en los siguientes grupos:
+
+Ilustradores digitales en busca de visibilidad y colaboración creativa:  
+ArtCollab servirá como un espacio para que ilustradores exhiban su portafolio, trabajen junto a escritores y generen ingresos mediante proyectos de libros ilustrados digitales.
+
+**Características demográficas:** Personas de 18 a 40 años con habilidades en ilustración digital, apasionados por el arte, la narrativa visual y la creación gráfica. Generalmente poseen experiencia en diseño, uso de herramientas gráficas y manejo de redes sociales.
+
+**Características geográficas:** Principalmente ubicados en países hispanohablantes (como Perú, México, Colombia y Argentina), aunque con oportunidades de expansión global dada la naturaleza digital de la plataforma.
+
+Escritores que buscan enriquecer y publicar sus historias con ilustraciones:  
+ArtCollab permitirá a los escritores crear y difundir obras ilustradas, encontrar ilustradores que potencien visualmente sus textos y obtener ingresos a partir de sus contenidos.
+
+**Características demográficas:** Personas de 18 a 45 años interesadas en la escritura creativa, especialmente en narrativa, cuentos ilustrados, cómics o literatura infantil. Muchos de ellos buscan mayor visibilidad, colaboración artística y un entorno de crecimiento profesional.
+
+**Características geográficas:** Provenientes de países de habla hispana, con acceso a dispositivos móviles o computadoras e internet. El mercado inicial estará enfocado en América Latina, especialmente en Perú.
+
 
 ## Capítulo II: Requirements Elicitation & Analysis
 ### 2.1. Competidores
