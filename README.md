@@ -62,7 +62,7 @@
 
 Dam Rubianes, Frida Sofia 
 
-2do integrante
+Adrianzen Flores, Carlos Arturo
 
 3er integrante
 
