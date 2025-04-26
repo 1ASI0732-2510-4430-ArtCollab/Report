@@ -28,8 +28,8 @@
             <td>U202218352</td>
         </tr>
         <tr>
-            <td>2do integrante</td>
-            <td>U20221A359</td>
+            <td>Adrianzen Flores, Carlos Arturo</td>
+            <td>U202215705</td>
         </tr>
         <tr>
             <td>3er integrante</td>
