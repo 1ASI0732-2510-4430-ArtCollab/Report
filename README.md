@@ -28,8 +28,8 @@
             <td>U202218352</td>
         </tr>
         <tr>
-            <td>2do integrante</td>
-            <td>U20221A359</td>
+            <td>Adrianzen Flores, Carlos Arturo</td>
+            <td>U202215705</td>
         </tr>
         <tr>
             <td>3er integrante</td>
@@ -62,7 +62,7 @@
 
 Dam Rubianes, Frida Sofia 
 
-2do integrante
+Adrianzen Flores, Carlos Arturo
 
 3er integrante
 
@@ -191,7 +191,7 @@ Ser reconocidos como la plataforma líder en Latinoamérica —con enfoque inici
 <table border="1" width="70%" style="text-align:center;">
     <tr align="center">
         <td rowspan="3">
-                        <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/fotos%20de%20perfil%20equipo/FridaDam-Profile.jpg?raw=true" alt="Frida Dam"  style="margin-bottom: 5px;" width="600"/>
+            <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/fotos%20de%20perfil%20equipo/FridaDam-Profile.jpg?raw=true" alt="Frida Dam"  style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -201,19 +201,44 @@ Ser reconocidos como la plataforma líder en Latinoamérica —con enfoque inici
     </tr>
     <tr>
         <td align="left">
-        <b>Carrera:</b>
-        <br>
-        Ingeniería de Software.
+            <b>Carrera:</b>
+            <br>
+            Ingeniería de Software.
         </td>
     </tr>
     <tr>
         <td align="left">
-        <b>Acerca de:</b>
-        <br>
-            Me apasiona aprender nuevos lenguajes de programación y trabajar en equipo. Actualmente domino C++ y estoy estudiando Python, C# y  Java. Además, me caracterizo             por ser responsable, participativa y empática.
+            <b>Acerca de:</b>
+            <br>
+            Me apasiona aprender nuevos lenguajes de programación y trabajar en equipo. Actualmente domino C++ y estoy estudiando Python, C# y Java. Además, me caracterizo por ser responsable, participativa y empática.
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src="Arturo.jpg" alt="Carlos Arturo" style="margin-bottom: 5px;" width="600"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Carlos Arturo Adrianzen Flores
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+            <b>Carrera:</b>
+            <br>
+            Ingeniería de Software.
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+            <b>Acerca de:</b>
+            <br>
+            Me interesa el análisis de datos, el desarrollo de software y siempre estoy buscando maneras de mejorar y aprender cosas nuevas.
         </td>
     </tr>
 </table>
+
 
 ### 1.2. Solution Profile
 # ArtCollab
