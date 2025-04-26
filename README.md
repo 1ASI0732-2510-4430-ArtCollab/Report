@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    Startup:  </><br>
+    Startup: Artweb  </><br>
     Producto:  </>
 </p>
 
@@ -177,9 +177,106 @@ Dam Rubianes, Frida Sofia
 ## Capítulo I: Introducción
 ### 1.1. Startup Profile
 #### 1.1.1. Descripción de la Startup
+**Artweb** es una startup que busca revolucionar el ecosistema digital de obras literarias ilustradas, un sector creativo y culturalmente valioso que ha sido poco atendido por las plataformas actuales. Nuestra propuesta se enfoca en impulsar el arte visual-narrativo a través de soluciones tecnológicas innovadoras que mejoren su difusión, accesibilidad y reconocimiento en el entorno digital.
+
+Nos caracterizamos por integrar innovación, construcción de comunidad y sostenibilidad, ofreciendo a ilustradores y creadores un espacio justo para publicar, compartir y monetizar sus obras. Mediante herramientas digitales accesibles, estrategias de promoción efectivas y entornos de colaboración, aspiramos a posicionarnos como la principal plataforma en Perú y, posteriormente, en toda Latinoamérica, transformando la forma en que las historias ilustradas son compartidas y valoradas en el mundo digital.
+
+## Misión
+Potenciar la visibilidad y el crecimiento de artistas visuales a través de una plataforma digital especializada que facilite la publicación y monetización de obras ilustradas, promoviendo a su vez el acceso a contenidos narrativos en formatos innovadores como libros ilustrados y cómics.
+
+## Visión
+Ser reconocidos como la plataforma líder en Latinoamérica —con enfoque inicial en el mercado peruano— para la promoción de obras ilustradas, desarrollando soluciones tecnológicas que transformen la manera en que las historias visuales y literarias son compartidas, consumidas y apreciadas en el entorno digital.
+
 #### 1.1.2. Perfiles de integrantes del equipo
+<table border="1" width="70%" style="text-align:center;">
+    <tr align="center">
+        <td rowspan="3">
+                        <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/fotos%20de%20perfil%20equipo/FridaDam-Profile.jpg?raw=true" alt="Frida Dam"  style="margin-bottom: 5px;" width="600"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Frida Sofia Dam Rubianes 
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ingeniería de Software.
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+            Me apasiona aprender nuevos lenguajes de programación y trabajar en equipo. Actualmente domino C++ y estoy estudiando Python, C# y  Java. Además, me caracterizo             por ser responsable, participativa y empática.
+        </td>
+    </tr>
+</table>
+
 ### 1.2. Solution Profile
+# ArtCollab
+
+**ArtCollab** es una plataforma web enfocada en la publicación, lectura y promoción de libros ilustrados en formato digital. Su propósito es ofrecer un espacio exclusivo para obras que fusionan narrativa y arte visual, un segmento que hasta ahora no había logrado una presencia sólida en el ámbito digital. La plataforma proporciona experiencias de lectura interactivas y de alta calidad, además de herramientas que permiten a autores e ilustradores publicar, monetizar y difundir sus creaciones a nivel global.
+
+## Características Principales
+
+Uno de los grandes diferenciales de **ArtCollab** es su sistema de conexión creativa: ilustradores y escritores pueden encontrar colaboradores compatibles basándose en intereses, estilos artísticos o proyectos específicos. Esta funcionalidad incluye:
+
+- Perfiles profesionales detallados
+- Portafolios integrados
+- Canales de comunicación interna
+
+Todo esto facilita la formación de equipos de trabajo, fomentando una colaboración ágil y efectiva. Tanto ilustradores como escritores pueden generar ingresos a partir de sus publicaciones, apoyando así la producción artística y promoviendo su sostenibilidad económica.
+
 #### 1.2.1. Antecedentes y problemática
+
+La transformación digital ha renovado el interés por la lectura, especialmente entre el público joven, que ha migrado a plataformas como Wattpad para encontrar historias que resuenan con sus emociones y vivencias. Con más de 70 millones de lectores activos al mes y más de 565 millones de obras compartidas, este fenómeno confirma que la pasión por leer sigue vigente (Incertis, 2023). Sin embargo, este crecimiento no ha sido equitativo: los libros ilustrados —que combinan el arte visual con la narrativa escrita— continúan siendo un formato relegado en el ámbito digital, careciendo de plataformas que realmente los impulsen y les otorguen la visibilidad que merecen.
+
+Al mismo tiempo, los creadores visuales enfrentan importantes desafíos para obtener reconocimiento y condiciones laborales justas. La controversia alrededor de la campaña de Webtoon, que minimizó el trabajo de los ilustradores al llamarlo un “side-hustle”, generó un fuerte rechazo en la comunidad creativa bajo el hashtag #notasidehustle, destacando la dedicación extrema que implica crear contenido visual de calidad —superando, en muchos casos, las 80 horas de trabajo semanal (Codega, 2022). Esta problemática se agrava en mercados como el asiático, donde casos como el del joven ilustrador de “Solo Leveling”, quien falleció tras jornadas extenuantes que exigían la producción de más de 100 viñetas semanales, evidencian un entorno laboral insostenible (Han-sol, 2022). Estos sucesos reflejan una industria que, a pesar de su éxito, aún no proporciona las garantías necesarias para sus artistas.
+
+Dentro de este panorama, **ArtCollab** surge como una respuesta integral que no solo impulsa la lectura de obras ilustradas, sino que también crea un ecosistema que apoya y dignifica a los creadores visuales. Nuestra plataforma facilita la colaboración entre escritores e ilustradores, permitiéndoles desarrollar libros digitales en conjunto, además de ofrecer herramientas específicas para la publicación, promoción y monetización de sus proyectos. A través de mecanismos de distribución de ingresos justos, espacios de visibilidad y una comunidad activa y solidaria, buscamos transformar el ecosistema digital, valorizando tanto el arte gráfico como la narrativa, y ofreciendo una alternativa sostenible y enfocada en la dignidad de los artistas.
+
+En este contexto, como equipo, emplearemos la metodología de las **5Ws & 2Hs** para describir de forma precisa y detallada los antecedentes y las problemáticas identificadas.
+
+## What (¿Qué es?)
+
+ArtCollab es una plataforma digital interactiva diseñada para facilitar la colaboración entre escritores e ilustradores en la creación de libros ilustrados digitales. Su propuesta de valor se centra en ofrecer un entorno especializado donde ambos perfiles puedan encontrarse, trabajar juntos, publicar sus obras y acceder a ingresos equitativos por su contenido. Es la primera aplicación enfocada exclusivamente en potenciar el desarrollo de libros ilustrados a través de la co-creación, un segmento que hasta ahora ha sido desatendido en el mercado editorial digital.
+
+## Why (¿Por qué?)
+
+ArtCollab nace como respuesta a dos desafíos fundamentales: la falta de plataformas que apoyen el desarrollo de proyectos de libros ilustrados de manera colaborativa, y la precarización del trabajo creativo, en especial el de los ilustradores. A pesar de la alta demanda de contenido visual y narrativo, quienes crean estas obras enfrentan dificultades para obtener visibilidad y retribución justa. Situaciones como la controversia generada por la campaña de Webtoon (#notasidehustle) o la tragedia de artistas en Asia sometidos a cargas laborales extremas (Han-sol, 2022; Codega, 2022; Incertis, 2023) demuestran la necesidad urgente de crear entornos colaborativos más dignos y sostenibles para los creadores.
+
+## Who (¿Para quién es?)
+
+La plataforma está dirigida a escritores e ilustradores que deseen desarrollar obras ilustradas digitales, ya sea de forma independiente o en colaboración. ArtCollab busca integrar tanto a creadores emergentes como a profesionales consolidados, fomentando la conexión de talentos y la experimentación conjunta de nuevas formas narrativas. El objetivo es reunir a aquellos interesados en explorar y consolidar proyectos que integren arte visual y texto de manera innovadora, contribuyendo así al crecimiento profesional y creativo de ambos segmentos.
+
+## Where (¿Dónde?)
+
+El lanzamiento inicial de ArtCollab se llevará a cabo en Perú, con la proyección de expandirse posteriormente hacia Latinoamérica, una región rica en talento creativo pero con poca representación en iniciativas digitales de este tipo. Gracias a su naturaleza digital, la plataforma será accesible globalmente desde cualquier dispositivo conectado a internet, permitiendo a los escritores e ilustradores expandir sus oportunidades creativas y profesionales más allá de sus fronteras locales.
+
+## When (¿Cuándo?)
+
+ArtCollab está diseñada para ser lanzada en el corto plazo, en un contexto de transformación del mercado editorial digital y de creciente conciencia sobre la necesidad de espacios de colaboración más éticos. La tendencia actual hacia modelos de trabajo creativo más inclusivos y sostenibles hace que el momento sea ideal para introducir esta plataforma, adaptándose a las dinámicas emergentes de co-creación y publicación digital.
+
+## How (¿Cómo funciona?)
+
+La plataforma opera como un ecosistema que conecta escritores e ilustradores de manera fluida:
+
+- Los escritores pueden subir sus conceptos, sinopsis o borradores de historias.
+- Los ilustradores pueden postularse para ilustrar estos proyectos o proponer estilos visuales compatibles.
+- ArtCollab facilita la formación de equipos creativos mediante herramientas de comunicación interna y gestión de proyectos.
+- Se ofrecen opciones para publicar las obras terminadas, establecer acuerdos de monetización conjunta, promocionar los proyectos y construir portafolios digitales para ambos creadores.
+
+## How much (¿Cuánto cuesta?)
+
+El modelo de ingresos de ArtCollab contempla diversas fuentes:
+
+- Suscripciones premium para escritores e ilustradores que deseen acceder a herramientas exclusivas, mayor visibilidad y servicios personalizados.
+- Publicidad dirigida, enfocada en creadores y marcas relacionadas con el arte y la cultura.
+- En el mediano plazo, se proyectan alianzas estratégicas con editoriales y marcas culturales que permitan ampliar el alcance y las oportunidades de monetización para los usuarios.
+
 #### 1.2.2. Lean UX Process
 ##### 1.2.2.1. Lean UX Problem Statements
 ##### 1.2.2.2. Lean UX Assumptions
