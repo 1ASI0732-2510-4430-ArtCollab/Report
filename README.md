@@ -303,6 +303,22 @@ El modelo de ingresos de ArtCollab contempla diversas fuentes:
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
 
+**Autor:**
+
+|   | Búsqueda del ilustrador | Contratación de ilustradores | Publicación del libro | Publicitar el libro |
+|---|-----------------------|------------------------------|-----------------------|---------------------|
+| Doing | | | | |
+| Thinking | | | | |
+| Feeling | | | | |
+
+**Ilustrador:**
+
+|   | Búsqueda de ofertas laborales | Evaluación de ofertas laborales | Negociación de terminos | Presentación de avances |
+|---|-----------------------|------------------------------|-----------------------|---------------------|
+| Doing | | | | |
+| Thinking | | | | |
+| Feeling | | | | |
+
 ## 3.2. User Stories
 
 <table>
@@ -326,28 +342,28 @@ El modelo de ingresos de ArtCollab contempla diversas fuentes:
 <tr class="even">
 <td>E1-US01</td>
 <td>Barra de navegación en la Landing Page</td>
-<td><p>COMO Usuario</p>
-<p><>quiero</> visualizar una pagina</p>
-<p><>para</> saber acerca de los servicios de la
+<td><p>COMO visitante de la página</p>
+<p>QUIERO visualizar un menú</p>
+<p>PARA saber acerca de los servicios de la
 aplicación</p></td>
 <td><p>Escenario 1: Header</p>
-<p>Dado que el usuario se encuentre en la landing page</p>
-<p>Cuando se encuentra con la barra de navegación</p>
+<p>Dado que el usuario se encuentra en la landing page</p>
+<p>Cuando seleccione la barra de navegación</p>
 <p>Entonces podrá visualizar diversas secciones y botones.</p>
 <p>Escenario 2: Navegación</p>
 <p>Dado que el usuario esta en la landing page</p>
 <p>Cuando aprete cualquier sección o Botón</p>
-<p>Entonces va a ser redirigido a esta</p></td>
+<p>Entonces va a ser redirigido a su página correspondiente</p></td>
 <td>1</td>
 </tr>
 <tr class="odd">
 <td>E1-US02</td>
 <td>Visualización de las redes sociales mediante footer</td>
-<td><p><>Como</> Usuario</p>
-<p><>quiero</> visualizar la sección de footer de la
+<td><p>COMO visitante de la página</p>
+<p>QUIERO visualizar la sección de footer de la
 pagina</p>
-<p><>para</> encontrar los links de las redes
-sociales</p></td>
+<p>PARA encontrar los links de las redes
+sociales de la startup</p></td>
 <td><p>Escenario 1: Footer</p>
 <p>Dado que el usuario se encuentre en la landing page</p>
 <p>Cuando se encuentre con el footer</p>
@@ -361,11 +377,11 @@ perfil de la startup</p></td>
 </tr>
 <tr class="even">
 <td>E1-US03</td>
-<td>Sección de Explora</td>
-<td><p><>Como</> Usuario</p>
-<p><>quiero</> conocer los servicios que ofrece la
+<td>Sección de Exploración</td>
+<td><p>COMO usuario</p>
+<p>QUIERO conocer los servicios que ofrece la
 aplicación</p>
-<p><>para</> saber las características que ofrece</p></td>
+<p>PARA saber lo que veré al usarla</p></td>
 <td><p>Escenario 1: Explora</p>
 <p>Dado que el usuario se encuentra en la landing page</p>
 <p>Cuando se encuentre en la sección Explora</p>
@@ -376,30 +392,30 @@ mejores ilustradores</p></td>
 <tr class="odd">
 <td>E1-US04</td>
 <td>Sección Colabora</td>
-<td><p><>Como</> Usuario</p>
-<p><>quiero</> conocer las formas de colaborar con otros
-usuarios que me ofrece la aplicación</p>
-<p><>para</> facilitarme el contacto con otros
+<td><p>Como artista de la aplicación</p>
+<p>Quiero conocer las formas de colaborar con otros
+usuarios de la aplicación</p>
+<p>Para facilitarme el contacto con otros
 artistas</p></td>
-<td><p>Escenario 1: Colabora</p>
-<p>Dado que el usuario se encuentra en la landing page</p>
+<td><p>Escenario 1: Colaborar</p>
+<p>Dado que el artista se encuentra en la landing page</p>
 <p>Cuando se encuentre en la sección Colabora</p>
-<p>Entonces podrá visualizar como un escritor y ilustrador colaboran</p>
+<p>Entonces podrá visualizar un ejemplo de una colaboración</p>
 <p>Escenario 2: Descubre</p>
-<p>Dado que el usuario se encuentre en la landing page</p>
+<p>Dado que el artista se encuentre en la landing page</p>
 <p>Cuando se encuentre en la sección</p>
-<p>Colabora y le de clic a “descubrir como”</p>
+<p>colaboración y le de clic a “descubrir como”</p>
 <p>Entonces se le redirigirá a una pagina con toda la
-informacion</p></td>
+informacion necesaria</p></td>
 <td>1</td>
 </tr>
 <tr class="even">
 <td>E1-US05</td>
 <td>Sección Hero</td>
-<td><p><>Como</> Usuario</p>
-<p><>quiero</> visualizar una sección hero donde describa
+<td><p>Como Usuario</p>
+<p>quiero visualizar una sección hero donde describa
 brevemente la misión de la startup</p>
-<p><>para</> tener una idea de lo que ofrece la
+<p>para tener una idea de lo que ofrece la
 aplicación</p></td>
 <td><p>Escenario 1: Hero</p>
 <p>Dado que el usuario se encuentra en la landing page</p>
@@ -415,49 +431,49 @@ pertenecer a la comunidad</p>
 <tr class="odd">
 <td>E2-US06</td>
 <td>Asignación de Rol</td>
-<td><p><>Como</> lector</p>
-<p><>quiero</> poder asignarle un rol</p>
-<p><>para</> poder visualizar la página</p></td>
+<td><p>Como usuario</p>
+<p>quiero poder asignarle un rol</p>
+<p>para poder visualizar la página</p></td>
 <td><p>Escenario 1: Ingreso a la página luego del inicio de sesión</p>
 <p>Dado que el usuario se encuentra logeado en la página </p>
 <p>Cuando se desplace le aparecerá una ventana para que elija un rol
 (Escritor, Ilustrador, Lector).</p>
-<p>Entonces el usuario elije el rol</p>
+<p>Entonces el usuario eligirá el rol</p>
 <p>Escenario 2: Actualización de Datos</p>
 <p>Dado que el usuario escogió el rol</p>
-<p>Cuando se le asigne el rol le pedirá una actualización de Datos </p>
-<p>Entonces el usuario llenará los datos que le piden Dependiendo el Rol
+<p>Cuando se le asigne el rol se le pedirá una actualización de Datos </p>
+<p>Entonces el usuario llenará los datos que le piden Dependiendo del Rol
 que haya escogido</p>
 <p>Escenario 3: Actualización de página y herramientas</p>
 <p>Dado que el usuario terminó la actualización de datos</p>
-<p>Cuando se desplace se le dirigiera a la página principal</p>
+<p>Cuando se desplace se le dirigira a la página principal</p>
 <p>Entonces se le mostrará la página principal actualizada dependiendo
-al rol que haya escogido con nuevas herramientas.</p></td>
+del rol que haya escogido, junto a sus respectivas herramientas.</p></td>
 <td>2</td>
 </tr>
 <tr class="even">
 <td>E2-US07</td>
 <td>Configuración de Perfil del Usuario</td>
-<td><p><>Como</> lector, artista o escritor</p>
-<p><>quiero</> configurar mi perfil</p>
-<p><>para</> satisfacer mis gustos</p></td>
+<td><p>Como usuario</p>
+<p>quiero configurar mi perfil</p>
+<p>para satisfacer mis gustos</p></td>
 <td><p>Escenario 1: Ingresar al perfil</p>
 <p>Dado que el usuario se encuentra en la página principal</p>
 <p>Cuando le de click en su perfil</p>
-<p>Entonces se le abrirá su perfil</p>
+<p>Entonces se le abrirá una página junto a su información</p>
 <p>Escenario 2: Configuración de perfil</p>
-<p>Dado que se encuentra en su perfil</p>
+<p>Dado que se encuentra en la página de su perfil</p>
 <p>Cuando le de click en Configuración</p>
-<p>Entonces podrá configurar su perfil en aspectos estética, finanzas y
+<p>Entonces podrá configurarlo en aspectos de estética, finanzas y
 portafolio</p></td>
 <td>2</td>
 </tr>
 <tr class="odd">
 <td>E3-US08</td>
 <td>Sube tus libros</td>
-<td><p><>Como</> escritor</p>
-<p><>quiero</> una plataforma</p>
-<p><>para</> subir mis libros</p></td>
+<td><p>Como escritor</p>
+<p>quiero una plataforma</p>
+<p>para subir mis libros</p></td>
 <td><p>Escenario 1: Hoja de texto</p>
 <p>Dado que el escritor se encuentra en la página principal</p>
 <p>Cuando le dé clic en “crear”</p>
@@ -471,16 +487,16 @@ portafolio</p></td>
 <tr class="even">
 <td>E3-US09</td>
 <td>Colaboración con Ilustradores</td>
-<td><p><>Como</> escritor</p>
-<p><>quiero</> que mis obras sean ilustradas</p>
-<p><>para</> mejorarlas</p></td>
-<td><p>Escenario 1: Ilustra</p>
+<td><p>Como escritor</p>
+<p>quiero que mis obras puedan contar con ilustraciones</p>
+<p>para darles un mejor aspecto</p></td>
+<td><p>Escenario 1: Ilustración</p>
 <p>Dado que me encuentro en la pestaña de mis obras</p>
-<p>Cuando le dé clic en alguna de mis obras e Ilustrar</p>
-<p>Entonces se me abrirá una pestaña nueva donde habrá una sección de
+<p>Cuando le dé clic en alguna de mis obras e "Buscar Ilustradores"</p>
+<p>Entonces se me abrirá una pestaña nueva donde podré visualizar una sección de
 ilustradores</p>
-<p>Escenario 2: Escoger</p>
-<p>Dado que me encuentre algún ilustrador que me guste</p>
+<p>Escenario 2: Seleccionar</p>
+<p>Dado que encuentre algún ilustrador que me guste</p>
 <p>Cuando entre a su perfil y le clic en colaborar</p>
 <p>Entonces se me abrirá un chat con el ilustrador</p>
 <p>Escenario 3: Acuerdos</p>
@@ -492,56 +508,56 @@ ilustradores</p>
 <tr class="odd">
 <td>E4-US10</td>
 <td>Destaca tus libros</td>
-<td><p><>Como</> escritor</p>
-<p><>quiero</> destacar mis libros</p>
-<p><>para</> tener más vistas</p></td>
+<td><p>Como escritor</p>
+<p>quiero destacar mis libros</p>
+<p>para tener más vistas</p></td>
 <td><p>Escenario 1: Sistema monetario</p>
 <p>Dado que el escritor se encuentra en su perfil</p>
 <p>Cuando le dé clic en monedas</p>
 <p>Entonces se le abrirá un recuadro de cuantas monedas desea
 comprar</p>
 <p>Escenario 2: Ingreso Bancario</p>
-<p>Dado que se encuentra en la parte de compra</p>
-<p>Cuando ingrese sus datos bancarios y lo confirme</p>
-<p>Entonces le llegara un correo de recibo y se depositaran las
+<p>Dado que se encuentra en la sección de compra</p>
+<p>Cuando ingrese sus datos bancarios y los confirme</p>
+<p>Entonces le llegara un correo con el recibo y se depositaran las
 monedas</p>
 <p>Escenario 3: Destaca tus obras</p>
 <p>Dado que el usuario se encuentra en la pestaña de sus obras</p>
-<p>Cuando le clic en una obra específica y en destacar </p>
-<p>Entonces se le mostrará un monto y por cuánto tiempo se destacó la
+<p>Cuando de clic en una obra específica y en destacar </p>
+<p>Entonces se le mostrará un monto y por cuánto tiempo se destacará la
 obra</p></td>
 <td>4</td>
 </tr>
 <tr class="even">
 <td>E4-US11</td>
 <td>Reparto por Ingresos publicitarios</td>
-<td><p><>Como</> escritor</p>
-<p><>quiero</> generar ingresos</p>
-<p><>para</> mejorar mis libros</p></td>
-<td><p>Escenario 1:  Ingreso al programa de recompensas</p>
+<td><p>Como escritor</p>
+<p>quiero generar ingresos</p>
+<p>para poder dedicarle más tiempo a mis libros</p></td>
+<td><p>Escenario 1: Ingreso al programa de recompensas</p>
 <p>Dado que el escritor se encuentra en su perfil</p>
 <p>Cuando le dé clic al programa de ingresos</p>
-<p>Entonces se le descargara una forma a llenar</p>
+<p>Entonces se le descargará un formulario a llenar</p>
 <p>Escenario 2: Recopilación de Datos</p>
-<p>Dado que el escritor lleno los datos que le piden</p>
-<p>Cuando le dé clic en enviar formulario</p>
+<p>Dado que el escritor llenó los datos que le piden</p>
+<p>Cuando dé clic en enviar formulario</p>
 <p>Entonces se le mostrará una recopilación de requisitos previos
 (+1.000 seguidores y +50.000 vistas)</p>
 <p>Escenario 3: Aceptación de Solicitud</p>
 <p>Dado que el escritor recibió un correo de aceptación</p>
-<p>Cuando le dé clic en aceptar</p>
-<p>Entonces se le mostrará un mensaje de bienvenida donde recibirá un
-50% de ingreso neto por los anuncios mostrados cuando leen la
-obra</p></td>
+<p>Cuando dé clic en aceptar</p>
+<p>Entonces se le mostrará un mensaje de bienvenida, donde recibirá un
+50% de ingresos neto por los anuncios mostrados cuando leen la
+obra o por las compras realizadas</p></td>
 <td>4</td>
 </tr>
 <tr class="odd">
 <td>E5-US12</td>
 <td>Diversos géneros literarios</td>
-<td><p><>Como</> lector</p>
-<p><>quiero</> tener una gran cantidad de géneros literarios
+<td><p>Como usuario</p>
+<p>quiero tener una gran cantidad de géneros literarios
 a mi disposición</p>
-<p><>para</> tener una gran variedad de opciones a elegir
+<p>para tener una gran variedad de opciones a elegir
 para mis lecturas</p></td>
 <td><p>Escenario 1: Opción géneros</p>
 <p>Dado que me encuentro en la página principal</p>
@@ -557,32 +573,32 @@ etc.</p></td>
 <tr class="even">
 <td>E5-US13</td>
 <td>Desbloqueo de Capítulos</td>
-<td><p><>Como</> lector</p>
-<p><>quiero</> tener acceso al contenido exclusivo de la
+<td><p>Como lector</p>
+<p>quiero tener acceso al contenido exclusivo de la
 plataforma</p>
-<p><>para</> contar con más capítulos a mi
+<p>para contar con más historias a mi
 disposición</p></td>
 <td><p>Escenario 1: Finanzas</p>
-<p>Dado que el usuario se encuentra en la página principal </p>
+<p>Dado que el usuario lector se encuentra en la página principal </p>
 <p>Cuando ingrese al apartado de monedas</p>
 <p>Entonces se le mostrará el valor de las monedas</p>
 <p>Escenario 2: Monedas</p>
-<p> Dado que el usuario se encuentra en el apartado de monedas</p>
+<p>Dado que el usuario se encuentra en el apartado de monedas</p>
 <p>Cuando elija cuántas quiere y elija el modo de pago</p>
-<p>Entonces se le redirige a una pestaña de pago de su elección</p>
+<p>Entonces se le redirigirá a una pestaña de pago de su elección</p>
 <p>Escenario 3: Pago</p>
-<p>Dado que el usuario pago y se le depositó las monedas </p>
+<p>Dado que el usuario realizó el pago y se le depositó las monedas </p>
 <p>Cuando vaya al libro a desbloquear los nuevos capítulos cuando le dé
 clic en desbloquear</p>
-<p>Entonces se le desbloqueara el capítulo</p></td>
+<p>Entonces se le desbloqueará la obra</p></td>
 <td>5</td>
 </tr>
 <tr class="odd">
 <td>E5-US14</td>
 <td>Dejar Comentarios</td>
-<td><p><>Como</> lector, escritor e ilustrador</p>
-<p><>quiero</> poder comentar las obras</p>
-<p><>para</> ayudar a otros usuarios brindándoles un
+<td><p>Como usuario lector</p>
+<p>quiero poder comentar las obras</p>
+<p>para ayudar a otros usuarios brindándoles un
 feedback</p></td>
 <td><p>Escenario 1: Escoge el libro</p>
 <p>Dado que el usuario se encuentra en la página principal</p>
@@ -591,234 +607,90 @@ feedback</p></td>
 <p>Escenario 2: Reseña</p>
 <p>Dado que el usuario se encuentra en el libro seleccionado</p>
 <p>Cuando le dé clic en el apartado de “dejar comentarios”</p>
-<p>Entonces podrá escribir su comentario y publicarlo</p></td>
+<p>Entonces podrá escribir su comentario y hacerlo publico</p></td>
 <td>5</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>E6-US15</td>
 <td>Ingreso por las ilustraciones</td>
-<td><p><>Como</> ilustrador</p>
-<p><>quiero</> contar con una monetización por mis
+<td><p>Como ilustrador</p>
+<p>quiero contar con una monetización por mis
 ilustraciones</p>
-<p><>para</> poder percibir ingresos dentro de la
+<p>para poder recibir ingresos dentro de la
 aplicación</p></td>
 <td><p>Escenario 1: Acuerdo Mutuo</p>
 <p>Dado que el ilustrador fue contactado por el escritor</p>
 <p>Cuando ambas partes lleguen a un acuerdo se dará a una
 colaboración</p>
-<p>Entonces cuando se termine el trabajo acordaron un pago de manera
-externa</p>
+<p>Entonces al terminar el trabajo podrán realizar un pago por uno de los medios brindados en la aplicación</p>
 <p>Escenario 2: Fecha de Pago</p>
 <p>Dado que el ilustrador terminó sus ilustraciones pendientes</p>
-<p>Cuando le comenté a su colaborador (Escritor)</p>
-<p>Entonces se le pagará por un medio externo</p></td>
+<p>Cuando le comente a su colaborador (Escritor)</p></td>
+<p>Entonces este podrá realizar el pago</p></td>
 <td>6</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>E6-US16</td>
 <td>Flexibilidad al ilustrar</td>
-<td><p><>Como</> ilustrador</p>
-<p><>quiero</> tener flexibilidad creativa a la hora de
+<td><p>Como ilustrador</p>
+<p>quiero tener flexibilidad creativa a la hora de
 dibujar</p>
-<p><>para</> tener un mejor rendimiento</p></td>
-<td><p>Escenario 1: Añade Flexibilidad</p>
-<p>Dado que el ilustrador se encuentra en la página principal</p>
-<p>Cuando le dé clic a perfil</p>
-<p>Entonces podrá visualizar su perfil</p>
-<p>Escenario 2: perfil flexible</p>
-<p>Dado que el ilustrador configuración de perfil</p>
-<p>Cuando le dé clic en editar su perfil</p>
-<p>Entonces podrá elegir editar sus preferencias por la flexibilidad
-creativa </p>
-<p>Escenario 3: Creatividad</p>
-<p>Dado que los escritores revisen tu perfil</p>
-<p>Cuando les den clic a preferencias</p>
-<p>Entonces podrán visualizar tu preferencia por la flexibilidad
-creativa</p></td>
+<p>para tener un mejor rendimiento y no sobrecargarme de una temática</p></td>
+<p>Escenario 1: perfil flexible</p>
+<p>Dado que el ilustrador está en su perfil</p>
+<p>Cuando le dé clic a editar</p>
+<p>Entonces podrá elegir editar los temas que prefiere dibujar</p></td>
 <td>1</td>
 </tr>
   
 <tr class="odd">
 <td>E1-US17</td>
 <td>Compatibilidad con diferentes dispositivos</td>
-<td><p><>Como</> usuario interesado en el producto</p>
-<p><>quiero</> que la landing page sea responsive</p>
-<p><>para</> tener un navegacion fluida y accesible</p></td>
+<td><p>Como usuario interesado en el producto</p>
+<p>quiero que la landing page sea responsiva</p>
+<p>para tener un navegacion fluida y accesible en cualquier dispositivo</p></td>
 <td><p>Escenario 1: Ingresa desde una computadora</p>
 <p>Dado que el usuario se encuentra navegando en una computadora</p>
 <p>Cuando ingrese a la Landing page</p>
 <p>Entonces podrá visualizar el contenido de forma clara 
-Y todos los elementos estaran adaptados al tamaño de la pantalla.</p>
+Y todos los elementos se encuentren adaptados al tamaño de la pantalla.</p>
 <p>Escenario 2: Ingresa desde un dispositivo móvil </p>
 <p>Dado que el usuario se encuentra navegando en una celular android o ios</p>
 <p>Cuando ingrese a la Landing page</p>
 <p>Entonces podrá visualizar el contenido de forma clara 
-Y todos los elementos estaran optimizados y adaptados al tamaño de la pantalla
-Y que se pueda interactuar correctamente con el touch. </p>
-<p>Escenario 3: Ingresa desde una tablet</p>
-<p>Dado que el usuario se encuentra navegando desde una tablet</p>
-<p>Cuando ingrese a la Landing page</p>
-<p>Entonces podrá visualizar el contenido de forma clara 
-Y todos los elementos estaran optimizados y adaptados al tamaño de la pantalla
-Y que se pueda interactuar correctamente con el touch.</p></td>
+Y todos los elementos se encuentren adaptados al tamaño de la pantalla, 
+además de que se pueda interactuar correctamente con el touch. </p></td>
 <td>1</td>
 </tr>
 
-<tr class="odd">
+<tr class="even">
 <td>E1-US18</td>
-<td>Accesibilidad  en el Landing page</td>
-<td><p><>Como</> usuario que tiene una discapacidad </p>
-<p><>quiero</> que la landing page cuente con los lineamientos necesarios de una página accesible</p>
-<p><>para</> navegar de forma fluida 
+<td>Accesibilidad en el Landing page</td>
+<td><p>Como usuario con dificultades visuales </p>
+<p>quiero que la landing page cuente con los lineamientos necesarios de una página accesible</p>
+<p>para navegar de forma fluida 
 y conocer su aplicación sin impedimentos</p></td>
-<td><p>Escenario 1: Acceso al texto alternativo de archivos multimedia</p>
+<td>
+<p>Escenario 1: Visualización del texto </p>
 <p>Dado que el usuario se encuentra en el landing page</p>
-<p>Cuando le ordena al dispositivo que se lea el contenido</p>
-<p>Entonces puede saber que contiene la imagen o video que no puede visualizar</p>
-<p>Escenario 2: Visualización del texto </p>
-<p>Dado que el usuario se encuentra en el landing page</p>
-<p>Cuando lee una sección con un alto contraste entre el fondo y el texto</p>
-<p>Entonces puede entender con facilidad el texto. </p>
-<p>Escenario 3: Uso del texto de enlace descriptivo</p>
-<p>Dado que el usuario se encuentra en el landing page</p>
-<p>Cuando quiere saber el uso de un botón o elemento el texto que indica su función
-es descriptivo.</p>
-<p>Entonces no se crean confusiones sobre la acción que realiza un botón o elemento.</p></td>
+<p>Cuando lea una sección</p>
+<p>Entonces el texto debe ser lo suficientemente grande para poder leerlo</p></td>
 <td>1</td>
 </tr>
 
 <tr class="odd">
-<td>E7-US19</td>
-<td>Uso de API para el inicio de sesión</td>
-<td><p><>Como</> desarrollador</p>
-<p><>quiero</> integrar el inicio de sesión a través de API utilizando las cuentas de Google, Facebook y el método de inicio de sesión normal</p>
-<p><>para</> permitir a los usuarios acceder a la aplicación de forma conveniente y segura.</p></td>
-
-<td><p>Escenario 1: Inicio de sesión con cuenta de Google</p>
-<p>Dado que el usuario desea iniciar sesión utilizando su cuenta de Google.</p>
-<p>Cuando desea iniciar sesión con Google.</p>
-<p>Entonces la aplicación debe autenticar al usuario utilizando las credenciales de su cuenta de Google y permitirle acceder a la aplicación sin necesidad de introducir manualmente sus credenciales.</p>
-
-<p>Escenario 2: Inicio de sesión con cuenta de Facebook </p>
-<p>Dado que el usuario desea iniciar sesión utilizando su cuenta de Facebook</p>
-<p>Cuando desea iniciar sesión con Facebook</p>
-<p>Entonces la aplicación debe autenticar al usuario utilizando las credenciales de su cuenta de Facebook y permitirle acceder a la aplicación sin necesidad de introducir manualmente sus credenciales </p>
-
-<td>7</td>
+<td>E1-US19</td>
+<td>Contraste del texto y el fondo</td>
+<td><p>Como usuario lector </p>
+<p>quiero que la aplicación cuente con colores que dejen ver el texto claramente</p>
+<p>para no tener problemas al leer un libro</p></td>
+<td>
+<p>Escenario 1: Visualización del texto </p>
+<p>Dado que el usuario se encuentra leyendo un libro</p>
+<p>Cuando inicie un capitulo</p>
+<p>Entonces el texto debe tener contraste con el fondo para evitar probleas de lectura</p></td>
+<td>1</td>
 </tr>
-
-
-
-<tr class="odd">
-<td>E7-US20</td>
-<td>Uso de API para realizar el pago de suscripciones con PayPal</td>
-<td><p><>Como</> desarrollador</p>
-<p><>quiero</> integrar la funcionalidad de pago utilizando la API de PayPal</p>
-<p><>para</> permitir a los usuarios suscribirse y realizar pagos de forma segura y conveniente.</p></td>
-
-<td><p>Escenario 1: Suscribirse</p>
-<p>Dado que el usuario Inicia sesión en la aplicación.</p>
-<p>Cuando busca realizar la suscripción.</p>
-<p>Entonces La aplicación muestra la interfaz de PayPal para completar el proceso de pago de la suscripción.</p>
-
-<p>Escenario 2: Confirmación de pago exitoso </p>
-<p>Dado que el usuario ha completado el proceso de pago de la suscripción a través de PayPal.</p>
-<p>Cuando PayPal notifique a la aplicación sobre el pago exitoso.</p>
-<p>Entonces la aplicación debe actualizar el estado de la suscripción del usuario a "activo" y proporcionar acceso completo a los servicios premium. </p>
-
-<p>Escenario 3: Manejo de pago fallido </p>
-<p>Dado que el usuario ha intentado realizar el pago de la suscripción a través de PayPal, pero el pago ha fallado.</p>
-<p>Cuando PayPal notifique a la aplicación sobre el pago fallido.</p>
-<p>Entonces la aplicación debe informar al usuario sobre el fallo del pago y brindar la opción de intentar nuevamente o seleccionar otro método de pago. </p>
-<td>7</td>
-</tr>
-
-
-
-<tr class="odd">
-<td>E7-US21</td>
-<td>Uso de API para compartir libros en redes sociales</td>
-<td><p><>Como</> desarrollador</p>
-<p><>quiero</> integrar la funcionalidad de compartir libros en redes sociales utilizando las APIs de Facebook y Twitter</p>
-<p><>para</> permitir a los usuarios compartir fácilmente sus libros favoritos con sus amigos y seguidores.</p></td>
-
-<td><p>Escenario 1: Compartir en Facebook</p>
-<p>Dado que el usuario está en la página del libro que desea compartir..</p>
-<p>decide compartirlo</p>
-<p>y elije la red social Facebook.</p>
-<p>Entonces la aplicación abre una ventana emergente que permita al usuario iniciar sesión en Facebook y publicar el libro en su perfil o en una página que administre.</p>
-
-<p>Escenario 2: Compartir en Twitter </p>
-<p>Dado que el usuario está en la página del libro que desea compartir.</p>
-<p>Cuando decide compartirlo
-y elije la red la red social Twitter.
-</p>
-<p>Entonces la aplicación abre una ventana emergente que le permite al usuario iniciar sesión en Twitter y publicar el libro en su feed de Twitter con un mensaje personalizado y el enlace al libro. </p>
-
-<p>Escenario 3: Confirmación de publicación exitosa en redes sociales </p>
-<p>Dado que el usuario ha compartido un libro en una red social con éxito.</p>
-<p>Cuando la publicación se ha realizado correctamente en la red social seleccionada.</p>
-<p>Entonces la aplicación muestra un mensaje de confirmación al usuario indicando que el libro se ha compartido exitosamente en la red social especificada. </p>
-
-<p>Escenario 4: Manejo de errores al compartir </p>
-<p>Dado que el usuario intenta compartir un libro en una red social.</p>
-<p>Cuando se presenta un error al intentar publicar el libro en la red social seleccionada.</p>
-<p>Entonces la aplicación debe mostrar un mensaje de error al usuario indicando que ha ocurrido un problema. </p>
-
-<td>7</td>
-</tr>
-
-<tr class="odd">
-<td>E8-US22</td>
-<td>Uso de IAM dentro de la API</td>
-<td><p><>Como</> desarrollador</p>
-<p><>quiero</> integrar IAM dentro la API</p>
-<p><>para</> otorgar el acceso adecuado a los usuarios del tipo administrador.</p></td>
-
-<td><p>Escenario 1: Inicio de sesión, por medio de la API, por parte de usuario administrador</p>
-<p>Dado que el usuario está en la página de inicio de sesión.</p>
-<p>e ingresa los datos de su cuenta.</p>
-<p>Entonces la aplicación envía un post a la API con las credenciales del usuario y verifica que tiene los permisos adecuados.</p>
-
-<p>Escenario 2: Registro, por medio de la API, por parte de usuario administrador</p>
-<p>Dado que el usuario está en la página de registro.</p>
-<p>e ingresa los datos de su cuenta.</p>
-<p>Entonces la aplicación envía un post a la API con las credenciales del usuario y verifica que tiene los permisos adecuados y que el nombre de usuario no sea uno existente.</p>
-
-<p>Escenario 3: Inicio de sesión, por medio de la API, por parte de usuario no administrador </p>
-<p>Dado que el usuario está en la página de inicio de sesión.</p>
-<p>e ingresa los datos de su cuenta.</p>
-<p>Entonces la aplicación envía un post a la API con las credenciales del usuario y no permite el ingreso del usuario al no tener los permisos adecuados.</p>
-
-<p>Escenario 4: Registro, por medio de la API, por parte de usuario no administrador</p>
-<p>Dado que el usuario está en la página de registro.</p>
-<p>e ingresa los datos de su cuenta.</p>
-<p>Entonces la aplicación envía un post a la API con las credenciales del usuario y no permite el registro del usuario al no tener los permisos adecuados.</p>
-
-<td>8</td>
-</tr>
-
-<tr class="odd">
-<td>E8-US23</td>
-<td>Uso de JSON web token para uso de la API</td>
-<td><p><>Como</> desarrollador</p>
-<p><>quiero</> integrar el uso de JSON web token dentro la API</p>
-<p><>para</> verificar que los comandos y consultas provengan de una fuente válida.</p></td>
-
-<td><p>Escenario 1: Realización de consultas a la API</p>
-<p>Dado que el usuario se encuentra dentro del aplicativo.</p>
-<p>y desea visualizar los libros disponibles.</p>
-<p>Entonces la aplicación verifica que el token web sea válido y procede a retornar los resultados de la consulta.</p>
-
-<p>Escenario 2: Publicación de libro </p>
-<p>Dado que el usuario escritor ha ingresado con su cuenta dentro del aplicativo.</p>
-<p>y desea publicar un nuevo libro.</p>
-<p>Entonces la aplicación verifica que el token sea válido y procede a seguir con el post.</p>
-
-<p>Escenario 3: Edición de libro </p>
-<p>Dado que el usuario escritor ha ingresado con su cuenta dentro del aplicativo.</p>
-<p>y desea editar uno de sus libros.</p>
-<p>Entonces la aplicación verifica que el token sea válido y procede a continuar con el put.</p>
 
 <td>8</td>
 </tr>
@@ -1098,7 +970,11 @@ dibujar</p>
 
 ## 3.4. Impact Mapping
 
+**Escritor:**
+![IM1](Images/chapter3/escritor_Impact.png)  
 
+**Ilustrador:**
+![IM2](Images/chapter3/ilustrador_impact.png)  
 
 ## Capítulo IV: Product Design
 ### 4.1. Style Guidelines
