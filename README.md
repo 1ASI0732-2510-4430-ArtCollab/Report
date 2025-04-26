@@ -461,16 +461,206 @@ Las campañas estarán enfocadas tanto en atraer a ilustradores deseosos de desa
 - **Alianzas estratégicas:** Se establecerán convenios con academias de arte, editoriales independientes y grupos creativos para organizar talleres, eventos colaborativos y concursos que impulsen el uso y reconocimiento de ArtCollab.
 
 ### 2.2. Entrevistas
+Las entrevistas representan una técnica de investigación efectiva para conocer al entrevistado, sus puntos de vista y criterios sobre un tema particular. En este caso, se trata de comprender sus necesidades y recomendaciones relacionadas con las preguntas que se les realizarán para obtener esa información específica. Para DrawNet, es crucial contar con los datos obtenidos en cada entrevista, ya que esta información contribuirá al éxito de nuestra StartUp. Por lo tanto, llevaremos a cabo un total de 3 entrevistas a cada uno de nuestros segmentos objetivos de forma virtual, utilizando diversas plataformas.
+
 #### 2.2.1. Diseño de entrevistas
+En esta sección se han definido una cierta cantidad de preguntas para nuestros segmentos objetivos, con la finalidad de obtener información cualitativa como opiniones o descripciones. Esta información nos será de gran ayuda en el desarrollo de nuestra solución.
+
+
+**Preguntas generales:**
+
+¿Cuál es su nombre?
+¿Qué edad tiene?
+¿Dónde vive actualmente?
+¿A qué se dedica?
+
+**Preguntas Segmento 1: Escritor**
+
+¿Como escritor qué es lo que busca en una plataforma de lectura en línea?
+¿Cómo le gustaría que los autores obtuvieron ganancias por sus obras publicadas en la app?
+Como escritor, ¿Qué opciones de interacción usted considera más relevantes al momento de tener contacto con un ilustrador?
+¿Como escritor qué opciones considera favorables para facilitar el alcance de lectores en sus obras?
+¿Qué tipo de servicios le gustaría ofrecer a sus lectores al momento de publicitar sus libros?
+¿Cómo le beneficia añadir ilustraciones a sus libros?
+¿Cómo da a conocer sus libros actualmente?
+¿Qué aplicaciones ha utilizado relacionadas con la escritura, y cómo le han beneficiado?
+¿De qué modo le gustaría generar ganancias por sus obras publicadas en una plataforma de este tipo?
+¿Tiene alguna preferencia en cuanto a la plataforma o herramientas al escribir?
+¿Es importante para usted la retroalimentación de otros escritores y/o lectores?
+
+**Preguntas Segmento 2: Ilustrador**
+
+¿Qué aplicación ha usado anteriormente para promocionar sus ilustraciones?
+¿Qué tan difícil le resulta encontrar un espacio para publicitar sus servicios?
+¿Qué aspectos tiene o tendría en cuenta al momento de aceptar comisiones a escritores que desean ilustrar sus libros?
+¿Qué tanto valora la comunicación constante, el monto y la seguridad del pago que se le ofrece?
+¿Qué tanto valora si el libro que va a ilustrar le llama la atención?
+¿A qué herramientas online le gustaría tener acceso para estar en contacto con el escritor con el que trabaja?
+¿Le gustaría compartir borradores y comentarios en tiempo real sobre su avance o que se pueda realizar un seguimiento al proyecto para estar al día con ello? ¿Qué otras opciones  le gustaría tener?
+¿Qué le gustaría que hubiera en el perfil de ilustrador?
+¿Le sería útil poder tener una sección dónde pueda interactuar con los lectores de la app?
+¿Qué nos recomendaría para que las historias nuevas o con pocos lectores tengan posibilidades de ser visualizadas dentro de la app?
+¿Considera que vale la pena pagar una suscripción para que su perfil sea destacado en las búsquedas?
+¿Le gustaría ilustrar de forma gratuita o le gustaría establecer un sistema de compensación?
+¿Qué tipo de herramientas le gustaría ver?
+
 #### 2.2.2. Registro de entrevistas
+**Segmento 01: Escritor**
+**Entrevistado 01: Katia Asenjo Rodríguez**
+
+- **Sexo**: Femenino
+- **Edad**: 22
+- **Distrito donde vive**: Santiago de Surco
+- **Nivel socioeconómico**: Medio
+
+**Entrevista**:
+![image](https://github.com/user-attachments/assets/388571f5-3f9b-4098-a88a-866a6b207290)
+- **Link**:
+- **Duración**: 4min
+- **Aplicaciones Usadas**: Zoom
+- **Tecnologías**: Laptop
+- **Entrevistador**: Frida Sofia Dam Rubianes
+
+**Resumen**:  
+Katia Asenjo es una joven escritora de 22 años que vive en Surco. En la entrevista, ella probó un prototipo de página web pensada para escritores e ilustradores, y compartió su opinión sobre sus funciones y diseño.  
+
+Una de las cosas que más le llamó la atención fue la opción de conectar con ilustradores, ya que comenta que encontrar uno que encaje con su estilo ha sido complicado. Destaca también que la página es muy fácil de entender y de usar.  
+Respecto a las herramientas de escritura, Katia valora que la plataforma permita subir, editar y visualizar fácilmente sus libros, lo cual le facilita el proceso creativo al tener todo en un solo lugar.  
+
+Sobre la función de colaboración con otros artistas, le pareció muy útil porque le permitirá comunicarse directamente con otros escritores e ilustradores, lo cual ve como una oportunidad para seguir creciendo como autora. 
+
+También le gustó la recomendación de libros por género, ya que considera que ayuda a que los lectores encuentren más fácilmente lo que les interesa, y eso beneficia a los escritores al tener más visibilidad.  
+
+Finalmente, valoró que la interfaz sea clara y accesible, con títulos bien identificados y todas las funciones al alcance de manera sencilla.  
+En resumen, Katia necesita una plataforma que le facilite encontrar ilustradores, organizar y editar sus historias, colaborar con otros artistas y llegar a más lectores. Además, valora mucho que la web sea intuitiva y práctica.
+
+**Entrevistado 02: David Antonio Reggategui**
+- **Sexo**: Masculino
+- **Edad**: 23
+- **Distrito donde vive**: Santiago de Surco
+- **Nivel socioeconómico**: Medio
+
+**Entrevista**:
+![image](https://github.com/user-attachments/assets/2cbfb381-a253-4f84-a05a-8d5a62026892)
+
+- **Link**:  
+- **Duración**: 4min
+- **Aplicaciones Usadas**: Zoom  
+- **Tecnologías**: Laptop  
+- **Entrevistador**: Frida Sofia Dam Rubianes  
+
+### Resumen:
+David es un joven escritor independiente de 23 años que estudia comunicaciones. Durante la entrevista, compartió lo que busca en una plataforma de lectura en línea y lo que necesita como autor para crecer y conectar con más lectores.
+
+En primer lugar, David quiere que la plataforma sea fácil de usar, tanto para quienes escriben como para quienes leen. También considera importante que tenga variedad de contenidos y que sea segura para publicar.
+
+Sobre cómo le gustaría ganar dinero con sus libros, menciona varias opciones: recibir pagos por cada compra, por anuncios que muestran si el libro es gratuito, o por donaciones de los lectores. Esto muestra que necesita formas flexibles para monetizar su trabajo.
+
+Respecto a la colaboración con ilustradores, David cree que debe haber una comunicación rápida y clara, ya sea por chat, videollamada o en persona. También dice que las ilustraciones ayudan a que el libro sea más dinámico y fácil de entender.
+
+Para llegar a más personas, considera importante que la plataforma crezca y que atraiga a más usuarios con contenido diverso. Le gustaría ofrecer a sus lectores una muestra gratuita del libro, como las primeras páginas, antes de que decidan comprarlo.
+
+En su día a día como escritor, David usa herramientas como Google Docs para escribir, Notion para organizarse, y Hemingway para mejorar su estilo. También promociona sus libros por redes sociales, foros y en eventos presenciales.
+
+Por último, destaca que la opinión de otros escritores y lectores es muy valiosa para él, ya que le ayuda a corregir errores y tener nuevas ideas.
+
+
+
 #### 2.2.3. Análisis de entrevistas
+
+De acuerdo con los resúmenes y entrevistas realizadas, se ha elaborado el siguiente análisis destacando los puntos comunes entre los entrevistados.
+
+### Segmento #1: Escritor
+Los escritores entrevistados coinciden en la necesidad de una plataforma completa que les brinde visibilidad, control sobre su proceso creativo y oportunidades de desarrollo profesional. Aprecian especialmente las herramientas que les permitan conectar con ilustradores de forma directa y eficiente, destacando la importancia de un espacio que les facilite compartir ideas, revisar avances y mantener comunicación continua durante el proceso de creación.
+
+Es clave para ellos que la plataforma ofrezca diversas maneras de monetizar sus obras, como compras individuales, suscripciones, donaciones o contenido exclusivo. También desean ofrecer valor a sus lectores, como adelantos gratuitos, contenido adicional e interacciones en vivo, para fortalecer la relación autor-lector.
+
+En cuanto a la visibilidad, aprecian funciones como recomendaciones personalizadas, categorización por géneros y la opción de compartir sus obras en redes sociales, ya que consideran que estas opciones aumentan su alcance y visibilidad. La retroalimentación tanto de lectores como de otros autores es fundamental para mejorar su trabajo.
+
+Además, enfatizan la importancia de contar con herramientas de escritura sencillas, accesibles y centralizadas, que les permitan escribir, editar y visualizar sus libros desde diferentes dispositivos. Algunos ya utilizan aplicaciones como Google Docs, Notion, Wattpad o Scrivener, lo que sugiere que una plataforma con funciones similares sería bien recibida.
+
+### Segmento #2: Ilustrador
+Los ilustradores entrevistados coinciden en la necesidad de una plataforma que los conecte directamente con escritores. Aprecian herramientas que faciliten la comunicación fluida, tales como chats en tiempo real, videollamadas y sistemas para compartir avances y comentarios.
+
+Consideran esencial establecer acuerdos claros desde el principio, que incluyan precios, plazos, derechos de autor y el número de correcciones permitidas. También resaltan la importancia de la seguridad en los pagos y la transparencia en las condiciones de trabajo.
+
+Respecto a su perfil, todos destacan la importancia de incluir elementos como portafolio, tarifas, disponibilidad, redes sociales y reseñas. Les gustaría contar con herramientas que les permitan interactuar con los lectores, dar visibilidad a sus trabajos y promocionar sus nuevas obras mediante funciones como códigos QR o secciones especiales.
+
+Además, valoran funciones como estadísticas de perfil, contratos integrados y, en algunos casos, estarían dispuestos a pagar una suscripción premium si esta les garantiza mayores beneficios como una mejor exposición y protección legal.
+
 ### 2.3. Needfinding
 #### 2.3.1. User Personas
+![image](https://github.com/user-attachments/assets/3c384944-5bf8-4559-83a2-f56d10f7b1cd)
+![image](https://github.com/user-attachments/assets/6de8ca35-97b5-4ddd-917b-15c7cecfc637)
 #### 2.3.2. User Task Matrix
+| **User Task**                              | **Frecuencia / Importancia (Escritor)** | **Frecuencia / Importancia (Ilustrador)** |
+|--------------------------------------------|----------------------------------------|------------------------------------------|
+| Buscar ilustradores                        | Media / Alta                           | - / -                                    |
+| Negociación de términos en el contrato     | Media / Alta                           | Alta / Alta                              |
+| Publicar el libro                          | Media / Alta                           | - / -                                    |
+| Publicitar los libros                      | Alta / Alta                            | - / -                                    |
+| Buscar ofertas de trabajo/proyectos        | - / -                                   | Alta / Alta                              |
+| Evaluar ofertas                            | - / -                                   | Alta / Alta                              |
+| Presentar avances al empleador             | - / -                                   | Media / Alta                             |
+| Subir portafolio                           | - / -                                   | Baja / Alta                              |
+| Editar el contenido del libro              | - / -                                   | Alta / Alta                              |
+| Gestionar derechos de uso de ilustración/proyectos | Baja / Alta                        | Baja / Alta                              |
+
 #### 2.3.3. User Journey Mapping
+
+**Ilustrador:**
+![autor (2)](https://github.com/user-attachments/assets/f87bfb64-3545-4337-a19b-d62e0cfac4ae)
+
+**Escritor:**
+![autor](https://github.com/user-attachments/assets/b83dbaa8-f27b-4f3e-a350-a8fd5ca2b008)
+
 #### 2.3.4. Empathy Mapping
+**Escritor**
+![empathy map autor](https://github.com/user-attachments/assets/4423b371-9535-47cf-af65-0ed0c3f08458)
+
+**Ilsutrador**
+![empathy map ilustrador](https://github.com/user-attachments/assets/3fee20fa-195f-468f-a1d6-b2129566c053)
+
+
 #### 2.3.5. As-is Scenario Mapping
+**Escritor**
+![as is escritor](https://github.com/user-attachments/assets/67945867-482a-4811-99c2-3f3bcd40c6f6)
+
+**Ilustrador**
+![as is ilustrador](https://github.com/user-attachments/assets/574dffa9-a36d-49ba-bed6-7e06db85b098)
+
 ### 2.4. Ubiquitous Language
+
+- **Digital Publishing Platform (Plataforma de Publicación Digital)**: Una plataforma en línea donde escritores e ilustradores pueden colaborar y publicar libros ilustrados digitales.
+  
+- **Creative Collaboration (Colaboración Creativa)**: El proceso mediante el cual escritores e ilustradores trabajan juntos para crear libros ilustrados digitales.
+
+- **User (Usuario)**: Cualquier persona que utilice la plataforma, incluyendo escritores, ilustradores y lectores.
+
+- **User Profile (Perfil de Usuario)**: Un espacio personalizado en la plataforma donde los usuarios pueden mostrar su trabajo, intereses y proyectos.
+
+- **Digital Library (Biblioteca Digital)**: El catálogo de libros ilustrados digitales disponibles para ser leídos en línea.
+
+- **Transparent Monetization System (Sistema de Monetización Transparente)**: Un sistema justo y claro que permite a los creadores ganar ingresos por su trabajo.
+
+- **Talent Marketplace (Mercado de Talentos)**: Un espacio donde los escritores pueden buscar y conectar con ilustradores para colaborar en proyectos.
+
+- **Constructive Feedback (Feedback Constructivo)**: Comentarios valiosos proporcionados por la comunidad de la plataforma para mejorar el trabajo de los escritores e ilustradores.
+
+- **Premium Subscription (Suscripción Premium)**: Una opción que ofrece beneficios adicionales a los usuarios que pagan una tarifa periódica.
+
+- **Intuitive Interface (Interfaz Intuitiva)**: Un diseño de la plataforma que es fácil de entender y usar para los usuarios.
+
+- **Featured Section (Sección Destacada)**: Una parte de la plataforma que resalta los mejores libros ilustrados de la semana para aumentar la participación de los lectores.
+
+- **Performance Metrics (Métricas de Desempeño)**: Datos claros sobre visualizaciones y ventas de libros que motivan a los creadores a seguir produciendo contenido.
+
+- **User Retention (Retención de Usuarios)**: Mantener a los usuarios activos en la plataforma a través de una experiencia satisfactoria y continua.
+
+- **Subscriptions (Suscripciones)**: Modelos de ingresos que permiten a los usuarios acceder a contenido premium a cambio de una tarifa periódica.
+
+- **Creative Networking (Networking Creativo)**: La capacidad de conectarse con otros artistas y escritores para oportunidades de colaboración y crecimiento profesional.
+
 
 ## Capítulo III: Requirements Specification
 ### 3.1. To-Be Scenario Mapping
