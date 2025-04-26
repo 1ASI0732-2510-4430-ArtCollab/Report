@@ -549,7 +549,9 @@ Diseñar un plan de marketing simple para promocionar la aplicación. Esto puede
 </TD> 
 	</TR>
 </TABLE>
+
 ### 1.3. Segmentos objetivo
+
 Esta sección presenta la descripción de los segmentos relacionados con el dominio del problema, considerando características geográficas y demográficas. Con el propósito de diseñar un producto alineado a las necesidades de los usuarios, ArtCollab centrará su enfoque en los siguientes grupos:
 
 Ilustradores digitales en busca de visibilidad y colaboración creativa:  
