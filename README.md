@@ -215,7 +215,7 @@ Ser reconocidos como la plataforma líder en Latinoamérica —con enfoque inici
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="img/Arturo.jpg" alt="Carlos Arturo" style="margin-bottom: 5px;" width="600"/>
+            <img src="Arturo.jpg" alt="Carlos Arturo" style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
