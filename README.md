@@ -300,11 +300,674 @@ El modelo de ingresos de ArtCollab contempla diversas fuentes:
 #### 2.3.5. As-is Scenario Mapping
 ### 2.4. Ubiquitous Language
 
-## Capítulo III: Requirements Specification
-### 3.1. To-Be Scenario Mapping
-### 3.2. User Stories
-### 3.3. Product Backlog
-### 3.4. Impact Mapping
+# Capítulo III: Requirements Specification
+## 3.1. To-Be Scenario Mapping
+
+**Autor:**
+![to be escritor](https://github.com/user-attachments/assets/a8f7d240-80cd-4381-b507-1e6493a795c9)
+
+**Ilustrador:**
+![to be ilustrador](https://github.com/user-attachments/assets/bf90d974-0b01-4d37-9cbf-f8a14bb8989e)
+
+
+## 3.2. User Stories
+
+<table>
+<colgroup>
+<col style="width: 11%" />
+<col style="width: 15%" />
+<col style="width: 21%" />
+<col style="width: 39%" />
+<col style="width: 11%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>Epic / Story ID</td>
+<td>Título</td>
+<td>Descripción</td>
+<td>Criterios de Aceptación</td>
+<td>Relación Epic ID</td>
+</tr>
+
+</tr>
+<tr class="even">
+<td>E1-US01</td>
+<td>Barra de navegación en la Landing Page</td>
+<td><p>COMO visitante de la página</p>
+<p>QUIERO visualizar un menú</p>
+<p>PARA saber acerca de los servicios de la
+aplicación</p></td>
+<td><p>Escenario 1: Header</p>
+<p>Dado que el usuario se encuentra en la landing page</p>
+<p>Cuando seleccione la barra de navegación</p>
+<p>Entonces podrá visualizar diversas secciones y botones.</p>
+<p>Escenario 2: Navegación</p>
+<p>Dado que el usuario esta en la landing page</p>
+<p>Cuando aprete cualquier sección o Botón</p>
+<p>Entonces va a ser redirigido a su página correspondiente</p></td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>E1-US02</td>
+<td>Visualización de las redes sociales mediante footer</td>
+<td><p>COMO visitante de la página</p>
+<p>QUIERO visualizar la sección de footer de la
+pagina</p>
+<p>PARA encontrar los links de las redes
+sociales de la startup</p></td>
+<td><p>Escenario 1: Footer</p>
+<p>Dado que el usuario se encuentre en la landing page</p>
+<p>Cuando se encuentre con el footer</p>
+<p>Entonces podrá visualizar diversas redes sociales del startup</p>
+<p>Escenario 2: Redes</p>
+<p>Dado que el usuario se encuentre en la landing page</p>
+<p>Cuando aprete cualquier red social del footer</p>
+<p>Entonces se le redirigirá a la red social escogida mostrando el
+perfil de la startup</p></td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>E1-US03</td>
+<td>Sección de Exploración</td>
+<td><p>COMO usuario</p>
+<p>QUIERO conocer los servicios que ofrece la
+aplicación</p>
+<p>PARA saber lo que veré al usarla</p></td>
+<td><p>Escenario 1: Explora</p>
+<p>Dado que el usuario se encuentra en la landing page</p>
+<p>Cuando se encuentre en la sección Explora</p>
+<p>Entonces podrá visualizar los diversos libros en trending y los
+mejores ilustradores</p></td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>E1-US04</td>
+<td>Sección Colabora</td>
+<td><p>Como artista de la aplicación</p>
+<p>Quiero conocer las formas de colaborar con otros
+usuarios de la aplicación</p>
+<p>Para facilitarme el contacto con otros
+artistas</p></td>
+<td><p>Escenario 1: Colaborar</p>
+<p>Dado que el artista se encuentra en la landing page</p>
+<p>Cuando se encuentre en la sección Colabora</p>
+<p>Entonces podrá visualizar un ejemplo de una colaboración</p>
+<p>Escenario 2: Descubre</p>
+<p>Dado que el artista se encuentre en la landing page</p>
+<p>Cuando se encuentre en la sección</p>
+<p>colaboración y le de clic a “descubrir como”</p>
+<p>Entonces se le redirigirá a una pagina con toda la
+informacion necesaria</p></td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>E1-US05</td>
+<td>Sección Hero</td>
+<td><p>Como Usuario</p>
+<p>quiero visualizar una sección hero donde describa
+brevemente la misión de la startup</p>
+<p>para tener una idea de lo que ofrece la
+aplicación</p></td>
+<td><p>Escenario 1: Hero</p>
+<p>Dado que el usuario se encuentra en la landing page</p>
+<p>Cuando se encuentre en la sección hero</p>
+<p>Entonces podrá visualizar la página principal donde se le invita a
+pertenecer a la comunidad</p>
+<p>Escenario 2: Comunidad</p>
+<p>Dado que el usuario se encuentra en la landing page</p>
+<p>Cuando se encuentre en la sección hero y le dé clic a “Únete”</p>
+<p>Entonces se le redirigirá a la sección de registro</p></td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>E2-US06</td>
+<td>Asignación de Rol</td>
+<td><p>Como usuario</p>
+<p>quiero poder asignarle un rol</p>
+<p>para poder visualizar la página</p></td>
+<td><p>Escenario 1: Ingreso a la página luego del inicio de sesión</p>
+<p>Dado que el usuario se encuentra logeado en la página </p>
+<p>Cuando se desplace le aparecerá una ventana para que elija un rol
+(Escritor, Ilustrador, Lector).</p>
+<p>Entonces el usuario eligirá el rol</p>
+<p>Escenario 2: Actualización de Datos</p>
+<p>Dado que el usuario escogió el rol</p>
+<p>Cuando se le asigne el rol se le pedirá una actualización de Datos </p>
+<p>Entonces el usuario llenará los datos que le piden Dependiendo del Rol
+que haya escogido</p>
+<p>Escenario 3: Actualización de página y herramientas</p>
+<p>Dado que el usuario terminó la actualización de datos</p>
+<p>Cuando se desplace se le dirigira a la página principal</p>
+<p>Entonces se le mostrará la página principal actualizada dependiendo
+del rol que haya escogido, junto a sus respectivas herramientas.</p></td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>E2-US07</td>
+<td>Configuración de Perfil del Usuario</td>
+<td><p>Como usuario</p>
+<p>quiero configurar mi perfil</p>
+<p>para satisfacer mis gustos</p></td>
+<td><p>Escenario 1: Ingresar al perfil</p>
+<p>Dado que el usuario se encuentra en la página principal</p>
+<p>Cuando le de click en su perfil</p>
+<p>Entonces se le abrirá una página junto a su información</p>
+<p>Escenario 2: Configuración de perfil</p>
+<p>Dado que se encuentra en la página de su perfil</p>
+<p>Cuando le de click en Configuración</p>
+<p>Entonces podrá configurarlo en aspectos de estética, finanzas y
+portafolio</p></td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>E3-US08</td>
+<td>Sube tus libros</td>
+<td><p>Como escritor</p>
+<p>quiero una plataforma</p>
+<p>para subir mis libros</p></td>
+<td><p>Escenario 1: Hoja de texto</p>
+<p>Dado que el escritor se encuentra en la página principal</p>
+<p>Cuando le dé clic en “crear”</p>
+<p>Entonces se le abrirá una página donde podrá subir su obra </p>
+<p>Escenario 2:</p>
+<p>Dado que el escritor terminó la obra</p>
+<p>Cuando le dé clic en publicar</p>
+<p>Entonces la obra será publicada y se verá en su portafolio</p></td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>E3-US09</td>
+<td>Colaboración con Ilustradores</td>
+<td><p>Como escritor</p>
+<p>quiero que mis obras puedan contar con ilustraciones</p>
+<p>para darles un mejor aspecto</p></td>
+<td><p>Escenario 1: Ilustración</p>
+<p>Dado que me encuentro en la pestaña de mis obras</p>
+<p>Cuando le dé clic en alguna de mis obras e "Buscar Ilustradores"</p>
+<p>Entonces se me abrirá una pestaña nueva donde podré visualizar una sección de
+ilustradores</p>
+<p>Escenario 2: Seleccionar</p>
+<p>Dado que encuentre algún ilustrador que me guste</p>
+<p>Cuando entre a su perfil y le clic en colaborar</p>
+<p>Entonces se me abrirá un chat con el ilustrador</p>
+<p>Escenario 3: Acuerdos</p>
+<p>Dado que ambos llegaron a un acuerdo </p>
+<p>Cuando le den clic al botón acuerdo en el chat</p>
+<p>Entonces elegirás que obra poder darle acceso</p></td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>E4-US10</td>
+<td>Destaca tus libros</td>
+<td><p>Como escritor</p>
+<p>quiero destacar mis libros</p>
+<p>para tener más vistas</p></td>
+<td><p>Escenario 1: Sistema monetario</p>
+<p>Dado que el escritor se encuentra en su perfil</p>
+<p>Cuando le dé clic en monedas</p>
+<p>Entonces se le abrirá un recuadro de cuantas monedas desea
+comprar</p>
+<p>Escenario 2: Ingreso Bancario</p>
+<p>Dado que se encuentra en la sección de compra</p>
+<p>Cuando ingrese sus datos bancarios y los confirme</p>
+<p>Entonces le llegara un correo con el recibo y se depositaran las
+monedas</p>
+<p>Escenario 3: Destaca tus obras</p>
+<p>Dado que el usuario se encuentra en la pestaña de sus obras</p>
+<p>Cuando de clic en una obra específica y en destacar </p>
+<p>Entonces se le mostrará un monto y por cuánto tiempo se destacará la
+obra</p></td>
+<td>4</td>
+</tr>
+<tr class="even">
+<td>E4-US11</td>
+<td>Reparto por Ingresos publicitarios</td>
+<td><p>Como escritor</p>
+<p>quiero generar ingresos</p>
+<p>para poder dedicarle más tiempo a mis libros</p></td>
+<td><p>Escenario 1: Ingreso al programa de recompensas</p>
+<p>Dado que el escritor se encuentra en su perfil</p>
+<p>Cuando le dé clic al programa de ingresos</p>
+<p>Entonces se le descargará un formulario a llenar</p>
+<p>Escenario 2: Recopilación de Datos</p>
+<p>Dado que el escritor llenó los datos que le piden</p>
+<p>Cuando dé clic en enviar formulario</p>
+<p>Entonces se le mostrará una recopilación de requisitos previos
+(+1.000 seguidores y +50.000 vistas)</p>
+<p>Escenario 3: Aceptación de Solicitud</p>
+<p>Dado que el escritor recibió un correo de aceptación</p>
+<p>Cuando dé clic en aceptar</p>
+<p>Entonces se le mostrará un mensaje de bienvenida, donde recibirá un
+50% de ingresos neto por los anuncios mostrados cuando leen la
+obra o por las compras realizadas</p></td>
+<td>4</td>
+</tr>
+<tr class="odd">
+<td>E5-US12</td>
+<td>Diversos géneros literarios</td>
+<td><p>Como usuario</p>
+<p>quiero tener una gran cantidad de géneros literarios
+a mi disposición</p>
+<p>para tener una gran variedad de opciones a elegir
+para mis lecturas</p></td>
+<td><p>Escenario 1: Opción géneros</p>
+<p>Dado que me encuentro en la página principal</p>
+<p>Cuando le dé clic a ver catalogo</p>
+<p>Entonces me redirigirá al catálogo literario de la página</p>
+<p>Escenario 2: Filtración</p>
+<p>Dado que me encuentro en el catálogo literario de la página</p>
+<p>Cuando le dé clic a filtrar</p>
+<p>Entonces lo podré filtrar por género, número de páginas, popularidad,
+etc.</p></td>
+<td>5</td>
+</tr>
+<tr class="even">
+<td>E5-US13</td>
+<td>Desbloqueo de Capítulos</td>
+<td><p>Como lector</p>
+<p>quiero tener acceso al contenido exclusivo de la
+plataforma</p>
+<p>para contar con más historias a mi
+disposición</p></td>
+<td><p>Escenario 1: Finanzas</p>
+<p>Dado que el usuario lector se encuentra en la página principal </p>
+<p>Cuando ingrese al apartado de monedas</p>
+<p>Entonces se le mostrará el valor de las monedas</p>
+<p>Escenario 2: Monedas</p>
+<p>Dado que el usuario se encuentra en el apartado de monedas</p>
+<p>Cuando elija cuántas quiere y elija el modo de pago</p>
+<p>Entonces se le redirigirá a una pestaña de pago de su elección</p>
+<p>Escenario 3: Pago</p>
+<p>Dado que el usuario realizó el pago y se le depositó las monedas </p>
+<p>Cuando vaya al libro a desbloquear los nuevos capítulos cuando le dé
+clic en desbloquear</p>
+<p>Entonces se le desbloqueará la obra</p></td>
+<td>5</td>
+</tr>
+<tr class="odd">
+<td>E5-US14</td>
+<td>Dejar Comentarios</td>
+<td><p>Como usuario lector</p>
+<p>quiero poder comentar las obras</p>
+<p>para ayudar a otros usuarios brindándoles un
+feedback</p></td>
+<td><p>Escenario 1: Escoge el libro</p>
+<p>Dado que el usuario se encuentra en la página principal</p>
+<p>Cuando le de click en su perfil</p>
+<p>Entonces podrá visualizar sus libros recién leídos</p>
+<p>Escenario 2: Reseña</p>
+<p>Dado que el usuario se encuentra en el libro seleccionado</p>
+<p>Cuando le dé clic en el apartado de “dejar comentarios”</p>
+<p>Entonces podrá escribir su comentario y hacerlo publico</p></td>
+<td>5</td>
+</tr>
+<tr class="odd">
+<td>E6-US15</td>
+<td>Ingreso por las ilustraciones</td>
+<td><p>Como ilustrador</p>
+<p>quiero contar con una monetización por mis
+ilustraciones</p>
+<p>para poder recibir ingresos dentro de la
+aplicación</p></td>
+<td><p>Escenario 1: Acuerdo Mutuo</p>
+<p>Dado que el ilustrador fue contactado por el escritor</p>
+<p>Cuando ambas partes lleguen a un acuerdo se dará a una
+colaboración</p>
+<p>Entonces al terminar el trabajo podrán realizar un pago por uno de los medios brindados en la aplicación</p>
+<p>Escenario 2: Fecha de Pago</p>
+<p>Dado que el ilustrador terminó sus ilustraciones pendientes</p>
+<p>Cuando le comente a su colaborador (Escritor)</p></td>
+<p>Entonces este podrá realizar el pago</p></td>
+<td>6</td>
+</tr>
+<tr class="even">
+<td>E6-US16</td>
+<td>Flexibilidad al ilustrar</td>
+<td><p>Como ilustrador</p>
+<p>quiero tener flexibilidad creativa a la hora de
+dibujar</p>
+<p>para tener un mejor rendimiento y no sobrecargarme de una temática</p></td>
+<p>Escenario 1: perfil flexible</p>
+<p>Dado que el ilustrador está en su perfil</p>
+<p>Cuando le dé clic a editar</p>
+<p>Entonces podrá elegir editar los temas que prefiere dibujar</p></td>
+<td>1</td>
+</tr>
+  
+<tr class="odd">
+<td>E1-US17</td>
+<td>Compatibilidad con diferentes dispositivos</td>
+<td><p>Como usuario interesado en el producto</p>
+<p>quiero que la landing page sea responsiva</p>
+<p>para tener un navegacion fluida y accesible en cualquier dispositivo</p></td>
+<td><p>Escenario 1: Ingresa desde una computadora</p>
+<p>Dado que el usuario se encuentra navegando en una computadora</p>
+<p>Cuando ingrese a la Landing page</p>
+<p>Entonces podrá visualizar el contenido de forma clara 
+Y todos los elementos se encuentren adaptados al tamaño de la pantalla.</p>
+<p>Escenario 2: Ingresa desde un dispositivo móvil </p>
+<p>Dado que el usuario se encuentra navegando en una celular android o ios</p>
+<p>Cuando ingrese a la Landing page</p>
+<p>Entonces podrá visualizar el contenido de forma clara 
+Y todos los elementos se encuentren adaptados al tamaño de la pantalla, 
+además de que se pueda interactuar correctamente con el touch. </p></td>
+<td>1</td>
+</tr>
+
+<tr class="even">
+<td>E1-US18</td>
+<td>Accesibilidad en el Landing page</td>
+<td><p>Como usuario con dificultades visuales </p>
+<p>quiero que la landing page cuente con los lineamientos necesarios de una página accesible</p>
+<p>para navegar de forma fluida 
+y conocer su aplicación sin impedimentos</p></td>
+<td>
+<p>Escenario 1: Visualización del texto </p>
+<p>Dado que el usuario se encuentra en el landing page</p>
+<p>Cuando lea una sección</p>
+<p>Entonces el texto debe ser lo suficientemente grande para poder leerlo</p></td>
+<td>1</td>
+</tr>
+
+<tr class="odd">
+<td>E1-US19</td>
+<td>Contraste del texto y el fondo</td>
+<td><p>Como usuario lector </p>
+<p>quiero que la aplicación cuente con colores que dejen ver el texto claramente</p>
+<p>para no tener problemas al leer un libro</p></td>
+<td>
+<p>Escenario 1: Visualización del texto </p>
+<p>Dado que el usuario se encuentra leyendo un libro</p>
+<p>Cuando inicie un capitulo</p>
+<p>Entonces el texto debe tener contraste con el fondo para evitar probleas de lectura</p></td>
+<td>1</td>
+</tr>
+
+<td>8</td>
+</tr>
+</tbody>
+</table>
+
+## 3.3. Product Backlog
+
+<table>
+<colgroup>
+<col style="width: 13%" />
+<col style="width: 12%" />
+<col style="width: 18%" />
+<col style="width: 28%" />
+<col style="width: 14%" />
+<col style="width: 12%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>#Orden</th>
+<th>User Story ID</th>
+<th>Titulo</th>
+<th>Descripcion</th>
+<th>Prioridad</th>
+<th>Story Points</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>US01</td>
+<td>Barra de navegación en la Landing Page</td>
+<td><p><>Como</> escritor o lector</p>
+<p><>quiero</> visualizar una pagina</p>
+<p><>para</> saber acerca de los servicios de la
+aplicación</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>US02</td>
+<td>Visualización de las redes sociales mediante footer</td>
+<td><p><>Como</> lector, escritor o ilustrador</p>
+<p><>quiero</> visualizar la sección de footer de la
+pagina</p>
+<p><>para</> encontrar los links de las redes
+sociales</p></td>
+<td>Baja</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>US03</td>
+<td>Sección de Conócenos</td>
+<td><p><>Como</> lector, escritor o ilustrador</p>
+<p><>quiero</> conocer los servicios que ofrece la
+aplicación</p>
+<p><>para</> saber las características que ofrece</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>US04</td>
+<td>Sección Colabora</td>
+<td><p><>Como</> escritor o ilustrador</p>
+<p><>quiero</> conocer las formas de colaborar con otros
+usuarios que me ofrece la aplicación</p>
+<p><>para</> facilitarme el contacto con otros
+artistas</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>US05</td>
+<td>Sección Hero</td>
+<td><p><>Como</> lector, escritor o ilustrador</p>
+<p><>quiero</> visualizar una sección hero donde describa
+brevemente la misión del startup</p>
+<p><>para</> tener una idea de lo que ofrece la
+aplicación</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>US06</td>
+<td>Asignación de Rol</td>
+<td><p><>Como</> lector</p>
+<p><>quiero</> poder asignarle un rol</p>
+<p><>para</> poder visualizar la página</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>US07</td>
+<td>Configuración de Perfil de Usuario</td>
+<td><p><>Como</> lector, artista o escritor</p>
+<p><>quiero</> configurar mi perfil</p>
+<p><>para</> satisfacer mis gustos</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td>US08</td>
+<td>Sube tus libros</td>
+<td><p><>Como</> escritor</p>
+<p><>quiero</> una plataforma</p>
+<p><>para</> subir mis libros</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td>US09</td>
+<td>Colaboración con Ilustradores</td>
+<td><p><>Como</> escritor</p>
+<p><>quiero</> que mis obras sean ilustradas</p>
+<p><>para</> mejorarlas</p></td>
+<td>Media</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td>US10</td>
+<td>Destaca tus libros</td>
+<td><p><>Como</> escritor</p>
+<p><>quiero</> destacar mis libros</p>
+<p><>para</> tener más vistas</p></td>
+<td>Media</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>11</td>
+<td>US11</td>
+<td>Reparto por Ingresos publicitarios</td>
+<td><p><>Como</> escritor</p>
+<p><>quiero</> generar ingresos</p>
+<p><>para</> mejorar mis libros</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>12</td>
+<td>US12</td>
+<td>Diversos géneros literarios</td>
+<td><p><>Como</> lector</p>
+<p><>quiero</> tener una gran cantidad de géneros literarios
+a mi disposición</p>
+<p><>para</> tener una gran variedad de opciones a elegir
+para mis lecturas</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>13</td>
+<td>US13</td>
+<td>Desbloqueo de Capítulos</td>
+<td><p><>Como</> lector</p>
+<p><>quiero</> tener acceso al contenido exclusivo de la
+plataforma</p>
+<p><>para</> contar con más capítulos a mi
+disposición</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>14</td>
+<td>US14</td>
+<td>Dejar Comentarios</td>
+<td><p><>Como</> lector, escritor e ilustrador</p>
+<p><>quiero</> poder comentar las obras</p>
+<p><>para</> ayudar a otros usuarios brindándoles un
+feedback</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>15</td>
+<td>US15</td>
+<td>Ingreso por las ilustraciones</td>
+<td><p><>Como</> ilustrador</p>
+<p><>quiero</> contar con una monetización por mis
+ilustraciones</p>
+<p><>para</> poder percibir ingresos dentro de la
+aplicación</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>16</td>
+<td>US16</td>
+<td>Flexibilidad al ilustrar</td>
+<td><p><>Como</> ilustrador</p>
+<p><>quiero</> tener flexibilidad creativa a la hora de
+dibujar</p>
+<p><>para</> tener un mejor rendimiento</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+  <tr class="odd">
+<td>17</td>
+<td>US17</td>
+<td>Compatibilidad con diferentes dispositivos</td>
+<td><p><>Como</> usuario interesado en el producto</p>
+<p><>quiero</> que la landing page sea responsive</p>
+<p><>para</> tener un navegacion fluida y accesible</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>18</td>
+<td>US18</td>
+<td>Accesibilidad en el Landing page</td>
+<td><p><>Como</> usuario que tiene una discapacidad</p>
+<p><>quiero</> que la landing page cuente con los lineamientos necesarios de una página accesible</p>
+<p><>para</> navegar de forma fluida y conocer su aplicación sin impedimentos</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+  <tr class="odd">
+<td>19</td>
+<td>US19</td>
+<td>Uso de API para el inicio de sesión</td>
+<td><p><>Como</> desarrollador</p>
+<p><>quiero</> integrar el inicio de sesión a través de API utilizando las cuentas de Google, Facebook y el método de inicio de sesión normal</p>
+<p><>para</> permitir a los usuarios acceder a la aplicación de forma conveniente y segura.</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+  <tr class="even">
+<td>20</td>
+<td>US20</td>
+<td>Uso de API para realizar el pago de suscripciones con PayPal	</td>
+<td><p><>Como</> desarrollador</p>
+<p><>quiero</> integrar la funcionalidad de pago utilizando la API de PayPal</p>
+<p><>para</> permitir a los usuarios suscribirse y realizar pagos de forma segura y conveniente.</p></td>
+<td>Alta</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>21</td>
+<td>US21</td>
+<td>Uso de API para compartir libros en redes sociales	</td>
+<td><p><>Como</> desarrollador</p>
+<p><>quiero</> integrar la funcionalidad de compartir libros en redes sociales utilizando las APIs de Facebook y Twitter</p>
+<p><>para</> permitir a los usuarios compartir fácilmente sus libros favoritos con sus amigos y seguidores.</p></td>
+<td>Media</td>
+<td>4</td>
+</tr>
+<tr class="even">
+<td>22</td>
+<td>US22</td>
+<td>Uso de IAM dentro de la API	</td>
+<td><p><>Como</> desarrollador</p>
+<p><>quiero</> integrar IAM dentro la API</p>
+<p><>para</> otorgar el acceso adecuado a los usuarios del tipo administrador.</p></td>
+<td>Alta</td>
+<td>5</td>
+</tr>
+<tr class="even">
+<td>23</td>
+<td>US23</td>
+<td>Uso de JSON web token para uso de la API	</td>
+<td><p><>Como</> desarrollador</p>
+<p><>quiero</> integrar el uso de JSON web token dentro la API</p>
+<p><>para</> verificar que los comandos y consultas provengan de una fuente válida.</p></td>
+<td>Alta</td>
+<td>2</td>
+</tr>
+</tbody>
+</table>
+
+## 3.4. Impact Mapping
+
+**Escritor:**
+![impact map escritor](https://github.com/user-attachments/assets/9578058c-bc36-4fd2-b831-3f3ce730197d)
+
+
+**Ilustrador:**
+![impact map ilustrador](https://github.com/user-attachments/assets/3e708763-8eb9-4598-ba41-ba140eeee8e8)
+
 
 ## Capítulo IV: Product Design
 ### 4.1. Style Guidelines
