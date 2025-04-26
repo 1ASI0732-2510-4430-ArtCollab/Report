@@ -571,19 +571,381 @@ ArtCollab permitirá a los escritores crear y difundir obras ilustradas, encontr
 
 ## Capítulo II: Requirements Elicitation & Analysis
 ### 2.1. Competidores
+Tras realizar un análisis de mercado, hemos identificado tres plataformas principales que ofrecen servicios similares a los que ArtCollab propone, enfocados en conectar ilustradores con escritores. Estas plataformas son: Wattpad, Webtoon y Tapas. A continuación, se describen sus principales características:
+
+**Wattpad:**
+
+Wattpad es una plataforma muy popular que permite a los usuarios escribir, publicar y leer historias de manera gratuita o a través de micropagos y suscripciones. Es especialmente conocida entre jóvenes aficionados a la escritura, contando con una comunidad activa y diversidad de géneros. Aunque facilita la exposición de nuevos talentos, su enfoque está centrado en la narrativa escrita, con poca integración de ilustraciones o elementos gráficos. La colaboración creativa no es su eje principal, lo que reduce su efectividad como espacio de trabajo conjunto para escritores e ilustradores.
+
+**Webtoon:**
+
+Webtoon es una plataforma enfocada en la publicación y lectura de cómics en formato vertical, ideal para dispositivos móviles. Ofrece acceso gratuito a contenido, complementado con micropagos para capítulos premium. Además, proporciona opciones de monetización mediante una tienda online de productos basados en obras publicadas. Aunque resalta el contenido visual, su propuesta está orientada a cómics ya finalizados, más que a fomentar la colaboración entre ilustradores y escritores desde el inicio de la creación.
+
+**Tapas:**
+
+Tapas es una plataforma que integra publicación de novelas y cómics digitales bajo un modelo freemium, permitiendo micropagos y donaciones voluntarias para apoyar a los creadores. También cuenta con una tienda online para comercializar productos derivados de las obras. Si bien incentiva la creatividad en distintos formatos narrativos, su enfoque sigue siendo más hacia proyectos individuales, sin herramientas específicas que potencien la colaboración organizada entre escritores e ilustradores en las etapas tempranas de desarrollo.
+
 #### 2.1.1. Análisis competitivo
+<table>
+  <tr>
+    <th colspan="7" valign="top"><b>Competitive Analysis Landscape</b></th>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="5">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td>
+  </tr>
+  <tr>
+    <td colspan="5">Este análisis se realizó con la finalidad de poder identificar a nuestros potenciales competidores e idear estrategias y tácticas para diferenciarnos de estos.</td>
+  </tr>
+  <tr>
+    <td colspan="3">(En la cabecera colocar por cada competidor nombre y logo)</td>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+        ArtCollab
+        <br>
+        <div style="text-align: center; margin-top: 10px;">
+                <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/General%20Style%20Guidelines/logo-artcollab.jpeg?raw=true" alt="ArtCollab" width="60px">
+        </div>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+    Wattpad
+    <div style="text-align: center; margin-top: 30px;">
+                <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/competidores/logo-wattpad.png?raw=true" alt="Wattpad" width="60px">
+        </div>
+    </td>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+      Webtoon
+      <div style="text-align: center; margin-top: 10px;">
+                <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/competidores/logo-webtoons.png?raw=true" alt="Webtoon" width="60px">
+            </div>
+      </td>
+    <td colspan="1" valign="top" style="font-weight: bold;" >
+      Tapas
+      <div style="text-align: center; margin-top: 10px;">
+                <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/competidores/logo-tapas.jpeg?raw=true" alt="Tapas" width="60px">
+            </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2"><p>Perfil</p></td>
+    <td colspan="2">Overview</td>
+    <td colspan="1" valign="top">Plataforma que permite la lectura y publicación de libros ilustrados digitales. Asimismo, ayuda a conectar escritores e ilustradores, para que trabajen como equipo en el dasarrollo de un libro. Ambos tienen la opción de poder generar ingresos.</td>
+    <td colspan="1" valign="top">Plataforma que permite la lectura y difusión de historias online. Posee autores tanto contratados como libres que publican sus historias a tráves de ella.</td>
+    <td colspan="1" valign="top">Aplicativo para la lectura y publicación de cómics digitales en el formato vertical. Posee autores tanto contratados como libres que publican sus historias por medio de ella, ambos teniendo la opción de generar ingresos. </td>
+    <td colspan="1" valign="top">Aplicación que permite la publicación y lectura de historias y cómics online. Posee autores contratados y libres  ambos teniendo la opción de generar ingresos y de publicar la mercancía de sus historias a través de la tienda online.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Ventaja competitiva</td>
+    <td colspan="1" valign="top">Posee la novedosa funcionalidad de conectar escritores con artistas. Además, es la única app en el mercado actual en tener difundir libros ilustrados.</td>
+    <td colspan="1" valign="top">Posee una gran fama entre los jóvenes y escritores. Se encuentra disponible en más de 50 idiomas. Posee su propia editorial donde publica las historias con mayores visualizaciones.</td>
+    <td colspan="1" valign="top">Número 1 en cuanto a cómics digitales se refiere y pionera en el formato de lectura vertical. Posee un acuerdo con Wattpad para la publicación de manera física. Se encuentra disponible en más de 8 idiomas Asimismo, posee una tienda online para algunas de sus historias oiginales.</td>
+    <td colspan="1" valign="top">Posee tanto novelas como cómics en una sola plataforma. Permite que los usuarios muestren su apoyo hacia los autores al donarles ellos mismos pequeñas cantidades. Además, cuenta con la opción de que los autores vendan sus mercancias por emdio de su tienda online. </td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2"><p>Perfil de Marketing</p></td>
+    <td colspan="2">Mercado objetivo</td>
+    <td colspan="1" valign="top">Abierto a público en general. Centrado especialmente en la población infantil y juvenil de entre 10 y 27 años.</td>
+    <td colspan="1" valign="top">Público en general mayor de 13 años que este interesado en leer o publicar historias.</td>
+    <td colspan="1" valign="top">Abierto hacia el público de 13 años en adelante.</td>
+    <td colspan="1" valign="top">Dirigido a personas 13 años a más, pero para la sección madura se debe tener la edad mínima de mayoría de edad según cada país.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Estrategias de marketing</td>
+    <td colspan="1" valign="top">Posee diversas redes sociales y participación en eventos.</td>
+    <td colspan="1" valign="top">Posee diversas redes sociales y participación en eventos.</td>
+    <td colspan="1" valign="top">Posee diversas redes sociales, participación en eventos y spots publicitarios.</td>
+    <td colspan="1" valign="top">Posee varias redes sociales.</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="3"><p>Perfil de Producto</p></td>
+    <td colspan="2">Productos & Servicios</td>
+    <td colspan="1" valign="top">Aplicación web para la lectura y publicación de historias online. Posee autores y artistas que generan ganancias mediante los anuncios y vistas totales poseídas.</td>
+    <td colspan="1" valign="top">Plataforma móvil y web para la lectura y publicación de historias online. Posee autores libres y contratados.</td>
+    <td colspan="1" valign="top">Aplicación móvil y web para la lectura y publicación de cómics online en formato vertical. Posee autores libres y contratados. Asimismo, cuenta con una tienda online para algunos de sus cómics originales.</td>
+    <td colspan="1" valign="top">Aplicación móvil y web para la lectura y publicación de cómics y novelas digitales. Posee autores libres y contratados. Asimismo, cuenta con una tienda online para que los autores vendan mercancías de sus historias.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Precios & Costos</td>
+    <td colspan="1" valign="top">La aplicación cuenta con una versión gratuita, micropagos de monedas para la plataforma de entre 1.90 a 45.90 soles y planes de suscripciones para artistas y escritores de 3.99 y 7.99 dólares mensuales respectivamente.</td>
+    <td colspan="1" valign="top">La aplicación cuenta con una versión gratuita, micropagos de monedas para la plataforma de entre 1.90 a 50.99 soles y planes de suscripciones de 4.99 y 7.49 dólares mensuales.</td>
+    <td colspan="1" valign="top">La aplicación cuenta con una versión gratuita y micropagos de monedas para la plataforma de entre 0.99 a 9.99 dólares.</td>
+    <td colspan="1" valign="top">La aplicación cuenta con una versión gratuita y micropagos de monedas para la paltaforma de entre 1.99 a 99.99 dólares.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Canales de distribución (Web y/o Móvil)</td>
+    <td colspan="1" valign="top">Canal de distribución digital web.</td>
+    <td colspan="1" valign="top">Canales de distribución digitales como web, App Store, Google Play y Huawei App Gallery.</td>
+    <td colspan="1" valign="top">Canales de distribución digitales como web, App Store y Google Play. Más centrado en el mercado móvil.</td>
+    <td colspan="1" valign="top">Canales de distribución digitales como web, App Store y Google Play. Más centrado en el mercado móvil.</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="5"><p>Análisis SWOT</p></td>
+    <td colspan="6">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Fortalezas</td>
+    <td colspan="1" valign="top">Implementa la funcionalidad de conectar escritores con artistas sin tener que salir de la plataforma.</td>
+    <td colspan="1" valign="top">Posee una gran cantidad de usuarios y funciona a manera de vitrina para que los autores se den a conocer más fácilmente a las editoriales, además de poseer su propia editorial.</td>
+    <td colspan="1" valign="top">Pionera en el formato de lectura vertical de cómics digitales y posee una gran comunidad de usuarios. Asimismo, tiene la opción de publicar en físico los cómics de sus autores originales.</td>
+    <td colspan="1" valign="top">Permite la publicación tanto de novelas como de cómics. Además, permite a los autores vender sus mercancías por medio de su tienda online.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Debilidades</td>
+    <td colspan="1" valign="top">No poseer una editorial propia para la publicación física de los libros.</td>
+    <td colspan="1" valign="top">No cuenta con una opción para filtrar a las historias fanfics de ideas originales.</td>
+    <td colspan="1" valign="top">No permite desbloquear toda la historia de manera anticipada. Su tienda online solo esta limitada a ciertos cómics originales, por lo que debidoa  eso podría eprder varios usuarios potenciales.</td>
+    <td colspan="1" valign="top">La mayoría de las historias solo están disponibles en inglés y no cuenta con opciones publicación física.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Oportunidades</td>
+    <td colspan="1" valign="top">Aumentar las estrategias de marketing para conseguri mayor cantidad de usuarios en el menor intervalo posible.</td>
+    <td colspan="1" valign="top">Promocionar más a las historias con ideas originales dentro de la app ayudaría a la creación de más historias con contenido novedoso.</td>
+    <td colspan="1" valign="top">Incorporar características adicionales para promocionar a los autores libres dentro de la plataforma y darles la opción de tener sus cómics publicados en físico.</td>
+    <td colspan="1" valign="top">Aumentar la cantidad de idiomas para llegar a un mayor público objetivo.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Amenazas</td>
+    <td colspan="1" valign="top">Al ser una nueva plataforma en el mercado, cuenta con una gran desventaja para adquirir usuarios comparado a sus competidores.</td>
+    <td colspan="1" valign="top">El auge de las plataformas de cómics online puede disminuir los números de la plataforma.</td>
+    <td colspan="1" valign="top">La competencia de otras plataformas de lectura y publicación de cómics digitales podrían disminuir la relevancia de Webtoon en el mercado.</td>
+    <td colspan="1" valign="top">El no ser una plataforma tan internacional puede llevar a grandes desventajas.</td>
+  </tr>
+</table>
+
 #### 2.1.2. Estrategias y tácticas frente a competidores
+# Estrategias y tácticas frente a competidores
+
+En esta sección se presentan las estrategias y acciones que ArtCollab implementará para aprovechar las debilidades de la competencia, enfrentar sus puntos fuertes y responder a las amenazas y oportunidades del mercado. Para ello, realizamos un análisis FODA que identificó nuestras fortalezas y debilidades internas, así como las oportunidades y amenazas externas, considerando a nuestros dos principales segmentos: escritores e ilustradores.
+
+## Estrategia de Diferenciación
+
+**Para escritores:**  
+A diferencia de plataformas como Wattpad, que priorizan la creación individual de textos, ArtCollab facilitará la conexión inmediata entre escritores e ilustradores desde el inicio del proceso creativo. Esto permitirá desarrollar proyectos más integrales, enriqueciendo las historias con contenido visual atractivo, apto para su publicación en medios digitales y físicos.
+
+**Para ilustradores:**  
+Mientras que en Webtoon o Tapas los ilustradores generalmente trabajan en cómics ya desarrollados o en equipos existentes, ArtCollab ofrecerá un espacio para construir proyectos desde cero junto a escritores. Esto aumentará sus oportunidades laborales y les dará mayor visibilidad y reconocimiento compartido en cada obra finalizada.
+
+## Estrategia de Liderazgo en Costos
+
+A diferencia de competidores que aplican micropagos, comisiones o suscripciones obligatorias, ArtCollab apostará por un modelo freemium accesible. Todas las funcionalidades básicas de colaboración estarán disponibles de forma gratuita para usuarios de ambos perfiles.
+
+Además, se habilitarán opciones premium de pago moderado, como herramientas de promoción de proyectos, plantillas de contratos o portafolios destacados, permitiendo financiar la plataforma sin excluir a usuarios por motivos económicos.
+
+## Estrategia de Marketing
+
+La estrategia de marketing de ArtCollab destacará el valor de la colaboración artística, mostrando cómo unir talentos puede mejorar las obras, abrir oportunidades de publicación y potenciar el crecimiento profesional.
+
+Las campañas estarán enfocadas tanto en atraer a ilustradores deseosos de desafíos creativos como a escritores que buscan elevar la calidad visual de sus historias.
+
+## Tácticas
+
+- **Campañas segmentadas:** Se diseñarán campañas específicas para escritores e ilustradores utilizando redes sociales, comunidades creativas y plataformas de formación artística para comunicar los beneficios personalizados de ArtCollab.
+
+- **Programa de referidos:** Los usuarios serán incentivados a invitar a otros creativos a la plataforma, ofreciendo recompensas como acceso gratuito a funciones premium o promoción destacada en la sección de proyectos.
+
+- **Sistema de reputación y feedback:** Se implementarán valoraciones, comentarios y reconocimientos dentro de los proyectos colaborativos, fomentando la confianza, la calidad y la profesionalización de la comunidad.
+
+- **Alianzas estratégicas:** Se establecerán convenios con academias de arte, editoriales independientes y grupos creativos para organizar talleres, eventos colaborativos y concursos que impulsen el uso y reconocimiento de ArtCollab.
+
 ### 2.2. Entrevistas
+Las entrevistas representan una técnica de investigación efectiva para conocer al entrevistado, sus puntos de vista y criterios sobre un tema particular. En este caso, se trata de comprender sus necesidades y recomendaciones relacionadas con las preguntas que se les realizarán para obtener esa información específica. Para DrawNet, es crucial contar con los datos obtenidos en cada entrevista, ya que esta información contribuirá al éxito de nuestra StartUp. Por lo tanto, llevaremos a cabo un total de 3 entrevistas a cada uno de nuestros segmentos objetivos de forma virtual, utilizando diversas plataformas.
+
 #### 2.2.1. Diseño de entrevistas
+En esta sección se han definido una cierta cantidad de preguntas para nuestros segmentos objetivos, con la finalidad de obtener información cualitativa como opiniones o descripciones. Esta información nos será de gran ayuda en el desarrollo de nuestra solución.
+
+
+**Preguntas generales:**
+
+¿Cuál es su nombre?
+¿Qué edad tiene?
+¿Dónde vive actualmente?
+¿A qué se dedica?
+
+**Preguntas Segmento 1: Escritor**
+
+¿Como escritor qué es lo que busca en una plataforma de lectura en línea?
+¿Cómo le gustaría que los autores obtuvieron ganancias por sus obras publicadas en la app?
+Como escritor, ¿Qué opciones de interacción usted considera más relevantes al momento de tener contacto con un ilustrador?
+¿Como escritor qué opciones considera favorables para facilitar el alcance de lectores en sus obras?
+¿Qué tipo de servicios le gustaría ofrecer a sus lectores al momento de publicitar sus libros?
+¿Cómo le beneficia añadir ilustraciones a sus libros?
+¿Cómo da a conocer sus libros actualmente?
+¿Qué aplicaciones ha utilizado relacionadas con la escritura, y cómo le han beneficiado?
+¿De qué modo le gustaría generar ganancias por sus obras publicadas en una plataforma de este tipo?
+¿Tiene alguna preferencia en cuanto a la plataforma o herramientas al escribir?
+¿Es importante para usted la retroalimentación de otros escritores y/o lectores?
+
+**Preguntas Segmento 2: Ilustrador**
+
+¿Qué aplicación ha usado anteriormente para promocionar sus ilustraciones?
+¿Qué tan difícil le resulta encontrar un espacio para publicitar sus servicios?
+¿Qué aspectos tiene o tendría en cuenta al momento de aceptar comisiones a escritores que desean ilustrar sus libros?
+¿Qué tanto valora la comunicación constante, el monto y la seguridad del pago que se le ofrece?
+¿Qué tanto valora si el libro que va a ilustrar le llama la atención?
+¿A qué herramientas online le gustaría tener acceso para estar en contacto con el escritor con el que trabaja?
+¿Le gustaría compartir borradores y comentarios en tiempo real sobre su avance o que se pueda realizar un seguimiento al proyecto para estar al día con ello? ¿Qué otras opciones  le gustaría tener?
+¿Qué le gustaría que hubiera en el perfil de ilustrador?
+¿Le sería útil poder tener una sección dónde pueda interactuar con los lectores de la app?
+¿Qué nos recomendaría para que las historias nuevas o con pocos lectores tengan posibilidades de ser visualizadas dentro de la app?
+¿Considera que vale la pena pagar una suscripción para que su perfil sea destacado en las búsquedas?
+¿Le gustaría ilustrar de forma gratuita o le gustaría establecer un sistema de compensación?
+¿Qué tipo de herramientas le gustaría ver?
+
 #### 2.2.2. Registro de entrevistas
+**Segmento 01: Escritor**
+**Entrevistado 01: Katia Asenjo Rodríguez**
+
+- **Sexo**: Femenino
+- **Edad**: 22
+- **Distrito donde vive**: Santiago de Surco
+- **Nivel socioeconómico**: Medio
+
+**Entrevista**:
+![image](https://github.com/user-attachments/assets/388571f5-3f9b-4098-a88a-866a6b207290)
+- **Link**:
+- **Duración**: 4min
+- **Aplicaciones Usadas**: Zoom
+- **Tecnologías**: Laptop
+- **Entrevistador**: Frida Sofia Dam Rubianes
+
+**Resumen**:  
+Katia Asenjo es una joven escritora de 22 años que vive en Surco. En la entrevista, ella probó un prototipo de página web pensada para escritores e ilustradores, y compartió su opinión sobre sus funciones y diseño.  
+
+Una de las cosas que más le llamó la atención fue la opción de conectar con ilustradores, ya que comenta que encontrar uno que encaje con su estilo ha sido complicado. Destaca también que la página es muy fácil de entender y de usar.  
+Respecto a las herramientas de escritura, Katia valora que la plataforma permita subir, editar y visualizar fácilmente sus libros, lo cual le facilita el proceso creativo al tener todo en un solo lugar.  
+
+Sobre la función de colaboración con otros artistas, le pareció muy útil porque le permitirá comunicarse directamente con otros escritores e ilustradores, lo cual ve como una oportunidad para seguir creciendo como autora. 
+
+También le gustó la recomendación de libros por género, ya que considera que ayuda a que los lectores encuentren más fácilmente lo que les interesa, y eso beneficia a los escritores al tener más visibilidad.  
+
+Finalmente, valoró que la interfaz sea clara y accesible, con títulos bien identificados y todas las funciones al alcance de manera sencilla.  
+En resumen, Katia necesita una plataforma que le facilite encontrar ilustradores, organizar y editar sus historias, colaborar con otros artistas y llegar a más lectores. Además, valora mucho que la web sea intuitiva y práctica.
+
+**Entrevistado 02: David Antonio Reggategui**
+- **Sexo**: Masculino
+- **Edad**: 23
+- **Distrito donde vive**: Santiago de Surco
+- **Nivel socioeconómico**: Medio
+
+**Entrevista**:
+![image](https://github.com/user-attachments/assets/2cbfb381-a253-4f84-a05a-8d5a62026892)
+
+- **Link**:  
+- **Duración**: 4min
+- **Aplicaciones Usadas**: Zoom  
+- **Tecnologías**: Laptop  
+- **Entrevistador**: Frida Sofia Dam Rubianes  
+
+### Resumen:
+David es un joven escritor independiente de 23 años que estudia comunicaciones. Durante la entrevista, compartió lo que busca en una plataforma de lectura en línea y lo que necesita como autor para crecer y conectar con más lectores.
+
+En primer lugar, David quiere que la plataforma sea fácil de usar, tanto para quienes escriben como para quienes leen. También considera importante que tenga variedad de contenidos y que sea segura para publicar.
+
+Sobre cómo le gustaría ganar dinero con sus libros, menciona varias opciones: recibir pagos por cada compra, por anuncios que muestran si el libro es gratuito, o por donaciones de los lectores. Esto muestra que necesita formas flexibles para monetizar su trabajo.
+
+Respecto a la colaboración con ilustradores, David cree que debe haber una comunicación rápida y clara, ya sea por chat, videollamada o en persona. También dice que las ilustraciones ayudan a que el libro sea más dinámico y fácil de entender.
+
+Para llegar a más personas, considera importante que la plataforma crezca y que atraiga a más usuarios con contenido diverso. Le gustaría ofrecer a sus lectores una muestra gratuita del libro, como las primeras páginas, antes de que decidan comprarlo.
+
+En su día a día como escritor, David usa herramientas como Google Docs para escribir, Notion para organizarse, y Hemingway para mejorar su estilo. También promociona sus libros por redes sociales, foros y en eventos presenciales.
+
+Por último, destaca que la opinión de otros escritores y lectores es muy valiosa para él, ya que le ayuda a corregir errores y tener nuevas ideas.
+
+
+
 #### 2.2.3. Análisis de entrevistas
+
+De acuerdo con los resúmenes y entrevistas realizadas, se ha elaborado el siguiente análisis destacando los puntos comunes entre los entrevistados.
+
+### Segmento #1: Escritor
+Los escritores entrevistados coinciden en la necesidad de una plataforma completa que les brinde visibilidad, control sobre su proceso creativo y oportunidades de desarrollo profesional. Aprecian especialmente las herramientas que les permitan conectar con ilustradores de forma directa y eficiente, destacando la importancia de un espacio que les facilite compartir ideas, revisar avances y mantener comunicación continua durante el proceso de creación.
+
+Es clave para ellos que la plataforma ofrezca diversas maneras de monetizar sus obras, como compras individuales, suscripciones, donaciones o contenido exclusivo. También desean ofrecer valor a sus lectores, como adelantos gratuitos, contenido adicional e interacciones en vivo, para fortalecer la relación autor-lector.
+
+En cuanto a la visibilidad, aprecian funciones como recomendaciones personalizadas, categorización por géneros y la opción de compartir sus obras en redes sociales, ya que consideran que estas opciones aumentan su alcance y visibilidad. La retroalimentación tanto de lectores como de otros autores es fundamental para mejorar su trabajo.
+
+Además, enfatizan la importancia de contar con herramientas de escritura sencillas, accesibles y centralizadas, que les permitan escribir, editar y visualizar sus libros desde diferentes dispositivos. Algunos ya utilizan aplicaciones como Google Docs, Notion, Wattpad o Scrivener, lo que sugiere que una plataforma con funciones similares sería bien recibida.
+
+### Segmento #2: Ilustrador
+Los ilustradores entrevistados coinciden en la necesidad de una plataforma que los conecte directamente con escritores. Aprecian herramientas que faciliten la comunicación fluida, tales como chats en tiempo real, videollamadas y sistemas para compartir avances y comentarios.
+
+Consideran esencial establecer acuerdos claros desde el principio, que incluyan precios, plazos, derechos de autor y el número de correcciones permitidas. También resaltan la importancia de la seguridad en los pagos y la transparencia en las condiciones de trabajo.
+
+Respecto a su perfil, todos destacan la importancia de incluir elementos como portafolio, tarifas, disponibilidad, redes sociales y reseñas. Les gustaría contar con herramientas que les permitan interactuar con los lectores, dar visibilidad a sus trabajos y promocionar sus nuevas obras mediante funciones como códigos QR o secciones especiales.
+
+Además, valoran funciones como estadísticas de perfil, contratos integrados y, en algunos casos, estarían dispuestos a pagar una suscripción premium si esta les garantiza mayores beneficios como una mejor exposición y protección legal.
+
 ### 2.3. Needfinding
 #### 2.3.1. User Personas
+![image](https://github.com/user-attachments/assets/3c384944-5bf8-4559-83a2-f56d10f7b1cd)
+![image](https://github.com/user-attachments/assets/6de8ca35-97b5-4ddd-917b-15c7cecfc637)
 #### 2.3.2. User Task Matrix
+| **User Task**                              | **Frecuencia / Importancia (Escritor)** | **Frecuencia / Importancia (Ilustrador)** |
+|--------------------------------------------|----------------------------------------|------------------------------------------|
+| Buscar ilustradores                        | Media / Alta                           | - / -                                    |
+| Negociación de términos en el contrato     | Media / Alta                           | Alta / Alta                              |
+| Publicar el libro                          | Media / Alta                           | - / -                                    |
+| Publicitar los libros                      | Alta / Alta                            | - / -                                    |
+| Buscar ofertas de trabajo/proyectos        | - / -                                   | Alta / Alta                              |
+| Evaluar ofertas                            | - / -                                   | Alta / Alta                              |
+| Presentar avances al empleador             | - / -                                   | Media / Alta                             |
+| Subir portafolio                           | - / -                                   | Baja / Alta                              |
+| Editar el contenido del libro              | - / -                                   | Alta / Alta                              |
+| Gestionar derechos de uso de ilustración/proyectos | Baja / Alta                        | Baja / Alta                              |
+
 #### 2.3.3. User Journey Mapping
+
+**Ilustrador:**
+![autor (2)](https://github.com/user-attachments/assets/f87bfb64-3545-4337-a19b-d62e0cfac4ae)
+
+**Escritor:**
+![autor](https://github.com/user-attachments/assets/b83dbaa8-f27b-4f3e-a350-a8fd5ca2b008)
+
 #### 2.3.4. Empathy Mapping
+**Escritor**
+![empathy map autor](https://github.com/user-attachments/assets/4423b371-9535-47cf-af65-0ed0c3f08458)
+
+**Ilsutrador**
+![empathy map ilustrador](https://github.com/user-attachments/assets/3fee20fa-195f-468f-a1d6-b2129566c053)
+
+
 #### 2.3.5. As-is Scenario Mapping
+**Escritor**
+![as is escritor](https://github.com/user-attachments/assets/67945867-482a-4811-99c2-3f3bcd40c6f6)
+
+**Ilustrador**
+![as is ilustrador](https://github.com/user-attachments/assets/574dffa9-a36d-49ba-bed6-7e06db85b098)
+
 ### 2.4. Ubiquitous Language
+
+- **Digital Publishing Platform (Plataforma de Publicación Digital)**: Una plataforma en línea donde escritores e ilustradores pueden colaborar y publicar libros ilustrados digitales.
+  
+- **Creative Collaboration (Colaboración Creativa)**: El proceso mediante el cual escritores e ilustradores trabajan juntos para crear libros ilustrados digitales.
+
+- **User (Usuario)**: Cualquier persona que utilice la plataforma, incluyendo escritores, ilustradores y lectores.
+
+- **User Profile (Perfil de Usuario)**: Un espacio personalizado en la plataforma donde los usuarios pueden mostrar su trabajo, intereses y proyectos.
+
+- **Digital Library (Biblioteca Digital)**: El catálogo de libros ilustrados digitales disponibles para ser leídos en línea.
+
+- **Transparent Monetization System (Sistema de Monetización Transparente)**: Un sistema justo y claro que permite a los creadores ganar ingresos por su trabajo.
+
+- **Talent Marketplace (Mercado de Talentos)**: Un espacio donde los escritores pueden buscar y conectar con ilustradores para colaborar en proyectos.
+
+- **Constructive Feedback (Feedback Constructivo)**: Comentarios valiosos proporcionados por la comunidad de la plataforma para mejorar el trabajo de los escritores e ilustradores.
+
+- **Premium Subscription (Suscripción Premium)**: Una opción que ofrece beneficios adicionales a los usuarios que pagan una tarifa periódica.
+
+- **Intuitive Interface (Interfaz Intuitiva)**: Un diseño de la plataforma que es fácil de entender y usar para los usuarios.
+
+- **Featured Section (Sección Destacada)**: Una parte de la plataforma que resalta los mejores libros ilustrados de la semana para aumentar la participación de los lectores.
+
+- **Performance Metrics (Métricas de Desempeño)**: Datos claros sobre visualizaciones y ventas de libros que motivan a los creadores a seguir produciendo contenido.
+
+- **User Retention (Retención de Usuarios)**: Mantener a los usuarios activos en la plataforma a través de una experiencia satisfactoria y continua.
+
+- **Subscriptions (Suscripciones)**: Modelos de ingresos que permiten a los usuarios acceder a contenido premium a cambio de una tarifa periódica.
+
+- **Creative Networking (Networking Creativo)**: La capacidad de conectarse con otros artistas y escritores para oportunidades de colaboración y crecimiento profesional.
+
 
 ## Capítulo III: Requirements Specification
 ### 3.1. To-Be Scenario Mapping
