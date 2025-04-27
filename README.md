@@ -457,19 +457,19 @@ Enlace a los Wireframes de la Landing Page en Figma: https://www.figma.com/file/
 Versión Desktop:
 
 <img src="https://media.discordapp.net/attachments/1235639705157107719/1235653889169293442/Hero.png?ex=680e725c&is=680d20dc&hm=decdf2c169d5882883bc2b478ea7b11bdb66cc2789beab504993d69d0bd4fa46&=&format=webp&quality=lossless&width=1047&height=719" alt="Landing Page Hero Wireframe">
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235651393826586634/DESCUBRE.png?ex=66352589&is=6633d409&hm=f03569ad2db9ada3858e3fe48248fb5a80c1443a88585b930762c68331d3f892&=&format=webp&quality=lossless&width=399&height=597" alt="Landing Page DESCUBRE Wireframe">
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235651418723975198/COLABORA.png?ex=6635258f&is=6633d40f&hm=7f4288ffddd8a6d05e6971bf625041fe6ce40ff811625fd553a77ddc8fa8a26a&=&format=webp&quality=lossless&width=491&height=597" alt="Landing Page COLABORA Wireframe">
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235651442019139695/Footer.png?ex=66352595&is=6633d415&hm=08242b425f1a92f41eaa35e5a82aa85a5013fa20a8f0774bca549c5ab08f696a&=&format=webp&quality=lossless&width=719&height=172" alt="Landing Page Footer Wireframe">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654178156580937/DESCUBRE.png?ex=680e72a1&is=680d2121&hm=4d35739d5dcd6365ea35acf8408d8b66997e1be136753b3dbd12f133f648ab26&=&format=webp&quality=lossless&width=480&height=717" alt="Landing Page DESCUBRE Wireframe">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654188592271490/COLABORA.png?ex=680e72a3&is=680d2123&hm=e621d322732a1686f444c78fda689185e5ad2b8b5e8b0f5fc92930460dc88269&=&format=webp&quality=lossless&width=591&height=719" alt="Landing Page COLABORA Wireframe">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654201879826492/Footer.png?ex=680e72a7&is=680d2127&hm=b1b99f68523e1b23d3128c19b970eefc4060f6d488188a4bd09035c3a907a243&=&format=webp&quality=lossless&width=1500&height=359" alt="Landing Page Footer Wireframe">
 
 Versión Mobile:
 
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235651541092925600/Hero-Mobile.png?ex=663525ac&is=6633d42c&hm=aa76fca0742780e647f8b61df210b39ec4a46baeda189309212cc81a082385b8&=&format=webp&quality=lossless" alt="Landing Page Mobile Hero Wireframe">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654255411466351/Hero-Mobile.png?ex=680e72b3&is=680d2133&hm=d5eff7edb5b68676d8c94b46c1fe600b04a0c1953d5c018e72152da93537e068&=&format=webp&quality=lossless&width=645&height=483" alt="Landing Page Mobile Hero Wireframe">
 <br>
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235651586437546035/DESCUBRE-Mobile.png?ex=663525b7&is=6633d437&hm=75134f13fb2cbb450126bbbe9a5a57c033063f443cb465d7ca8b06ec0dc765e0&=&format=webp&quality=lossless&width=323&height=597" alt="Landing Page Mobile DESCUBRE Wireframe">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654270351708180/DESCUBRE-Mobile.png?ex=680e72b7&is=680d2137&hm=c49e35c7e7d1408a2d06c6c3ea83f212bdaababa171281b35c50babf63d8d6e5&=&format=webp&quality=lossless&width=390&height=719" alt="Landing Page Mobile DESCUBRE Wireframe">
 <br>
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235651612735705250/COLABORA-Mobile.png?ex=663525bd&is=6633d43d&hm=6585ad925c4c6ffb6ff607222d45174978ac1d778e1588e6b74a2f500980a1e5&=&format=webp&quality=lossless&width=281&height=597" alt="Landing Page Mobile COLABORA Wireframe">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654286797705276/COLABORA-Mobile.png?ex=680e72bb&is=680d213b&hm=3d4dfc2e6c96628ac3443c6453f0e63e938964c7ddecbd06c0843a89cf3ff137&=&format=webp&quality=lossless&width=339&height=719" alt="Landing Page Mobile COLABORA Wireframe">
 <br>
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235651642834292886/Footer-Mobile.png?ex=663525c4&is=6633d444&hm=527f1c01f06a3b835ee01dfe78e8b08ec0000f62beed00ed2084a53ef2ed4c81&=&format=webp&quality=lossless" alt="Landing Page Mobile Footer Wireframe">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654303373463594/Footer-Mobile.png?ex=680e72bf&is=680d213f&hm=c28fd72480baba918565da70daacf669773648f090430f8444dd71bb6e679d88&=&format=webp&quality=lossless&width=645&height=603" alt="Landing Page Mobile Footer Wireframe">
 
 #### 4.3.2. Landing Page Mock-up
 Enlace a la mockup de la Landing Page en Figma: https://www.figma.com/file/P2GY9CsLT82DzIiZEnxhm6/Mockup-Landing-Page-(Vista)?type=design&node-id=0%3A1&mode=design&t=aMu3gnaeqnM4xQgo-1
