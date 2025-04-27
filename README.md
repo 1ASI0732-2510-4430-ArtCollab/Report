@@ -36,8 +36,8 @@
             <td>U20221B226</td>
         </tr>
         <tr>
-            <td>4to integrante</td>
-            <td>U202213983</td>
+            <td>More Rondon, Christopher Sebastian</td>
+            <td>U202212199</td>
         </tr>
          
 </table>
@@ -260,6 +260,31 @@ Ser reconocidos como la plataforma líder en Latinoamérica —con enfoque inici
              <br>
              Considero que soy una persona responsable y que puedo aportar al equipo en cualquier aspecto que se requiera con los conocimientos que he ido adquiriendo en ciclos anteriores.
          </td>
+</tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src="" alt="Christopher More"  style="margin-bottom: 5px;" width="600"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Christopher Sebastian More Rondon 
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+            <b>Carrera:</b>
+            <br>
+            Ingeniería de Software.
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+            <b>Acerca de:</b>
+            <br>
+            Soy un estudiante creativo y responsable, con conocimientos en C#, Phyton y HTML, siempre me esfuerzo por entregar un trabajo que satisfaga a los clientes
+        </td>
+    </tr>
 </table>
 
 
@@ -1159,8 +1184,8 @@ portafolio</p></td>
 <td>E3-US08</td>
 <td>Sube tus libros</td>
 <td><p>Como escritor</p>
-<p>quiero una plataforma</p>
-<p>para subir mis libros</p></td>
+<p>quiero una plataforma donde subir mis libros</p>
+<p>para que otros usuarios puedan visualizarlos</p></td>
 <td><p>Escenario 1: Hoja de texto</p>
 <p>Dado que el escritor se encuentra en la página principal</p>
 <p>Cuando le dé clic en “crear”</p>
@@ -1323,7 +1348,7 @@ colaboración</p>
 <p>quiero tener flexibilidad creativa a la hora de
 dibujar</p>
 <p>para tener un mejor rendimiento y no sobrecargarme de una temática</p></td>
-<p>Escenario 1: perfil flexible</p>
+<td><p>Escenario 1: perfil flexible</p>
 <p>Dado que el ilustrador está en su perfil</p>
 <p>Cuando le dé clic a editar</p>
 <p>Entonces podrá elegir editar los temas que prefiere dibujar</p></td>
@@ -1378,9 +1403,6 @@ y conocer su aplicación sin impedimentos</p></td>
 <p>Entonces el texto debe tener contraste con el fondo para evitar probleas de lectura</p></td>
 <td>1</td>
 </tr>
-
-<td>8</td>
-</tr>
 </tbody>
 </table>
 
@@ -1410,9 +1432,9 @@ y conocer su aplicación sin impedimentos</p></td>
 <td>1</td>
 <td>US01</td>
 <td>Barra de navegación en la Landing Page</td>
-<td><p><>Como</> escritor o lector</p>
-<p><>quiero</> visualizar una pagina</p>
-<p><>para</> saber acerca de los servicios de la
+<td><p>Como escritor o lector</p>
+<p>quiero visualizar una pagina</p>
+<p>para saber acerca de los servicios de la
 aplicación</p></td>
 <td>Alta</td>
 <td>3</td>
@@ -1421,10 +1443,10 @@ aplicación</p></td>
 <td>2</td>
 <td>US02</td>
 <td>Visualización de las redes sociales mediante footer</td>
-<td><p><>Como</> lector, escritor o ilustrador</p>
-<p><>quiero</> visualizar la sección de footer de la
+<td><p>Como usuario</p>
+<p>quiero visualizar la sección de footer de la
 pagina</p>
-<p><>para</> encontrar los links de las redes
+<p>para encontrar los links de las redes
 sociales</p></td>
 <td>Baja</td>
 <td>1</td>
@@ -1433,21 +1455,21 @@ sociales</p></td>
 <td>3</td>
 <td>US03</td>
 <td>Sección de Conócenos</td>
-<td><p><>Como</> lector, escritor o ilustrador</p>
-<p><>quiero</> conocer los servicios que ofrece la
+<td><p>Como usuario</p>
+<p>quiero conocer de mejor manera los servicios que ofrece la
 aplicación</p>
-<p><>para</> saber las características que ofrece</p></td>
-<td>Alta</td>
+<p>para saber que esperar de ella</p></td>
+<td>Media</td>
 <td>3</td>
 </tr>
 <tr class="even">
 <td>4</td>
 <td>US04</td>
 <td>Sección Colabora</td>
-<td><p><>Como</> escritor o ilustrador</p>
-<p><>quiero</> conocer las formas de colaborar con otros
+<td><p>Como escritor o ilustrador</p>
+<p>quiero conocer las formas de colaborar con otros
 usuarios que me ofrece la aplicación</p>
-<p><>para</> facilitarme el contacto con otros
+<p>para facilitarme el contacto con otros
 artistas</p></td>
 <td>Alta</td>
 <td>3</td>
@@ -1456,10 +1478,10 @@ artistas</p></td>
 <td>5</td>
 <td>US05</td>
 <td>Sección Hero</td>
-<td><p><>Como</> lector, escritor o ilustrador</p>
-<p><>quiero</> visualizar una sección hero donde describa
+<td><p>Como lector, escritor o ilustrador</p>
+<p>quiero visualizar una sección hero donde describa
 brevemente la misión del startup</p>
-<p><>para</> tener una idea de lo que ofrece la
+<p>para tener una idea clara de lo que ofrece la
 aplicación</p></td>
 <td>Alta</td>
 <td>3</td>
@@ -1468,29 +1490,29 @@ aplicación</p></td>
 <td>6</td>
 <td>US06</td>
 <td>Asignación de Rol</td>
-<td><p><>Como</> lector</p>
-<p><>quiero</> poder asignarle un rol</p>
-<p><>para</> poder visualizar la página</p></td>
+<td><p>Como usuario</p>
+<p>quiero poder tener un rol</p>
+<p>para poder usar la página según mis necesidades</p></td>
 <td>Alta</td>
-<td>3</td>
+<td>5</td>
 </tr>
 <tr class="odd">
 <td>7</td>
 <td>US07</td>
 <td>Configuración de Perfil de Usuario</td>
-<td><p><>Como</> lector, artista o escritor</p>
-<p><>quiero</> configurar mi perfil</p>
-<p><>para</> satisfacer mis gustos</p></td>
+<td><p>Como lector, artista o escritor</p>
+<p>quiero configurar mi perfil</p>
+<p>para satisfacer mis gustos</p></td>
 <td>Alta</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr class="even">
 <td>8</td>
 <td>US08</td>
 <td>Sube tus libros</td>
-<td><p><>Como</> escritor</p>
-<p><>quiero</> una plataforma</p>
-<p><>para</> subir mis libros</p></td>
+<td><p>Como escritor</p>
+<p>quiero una plataforma donde subir mis libros</p>
+<p>para que otros usuarios puedan visualizarlos</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
@@ -1498,40 +1520,40 @@ aplicación</p></td>
 <td>9</td>
 <td>US09</td>
 <td>Colaboración con Ilustradores</td>
-<td><p><>Como</> escritor</p>
-<p><>quiero</> que mis obras sean ilustradas</p>
-<p><>para</> mejorarlas</p></td>
-<td>Media</td>
-<td>2</td>
+<td><p>Como escritor</p>
+<p>quiero que mis obras puedan contar con ilustraciones</p>
+<p>para darles un mejor aspecto</p></td>
+<td>Alta</td>
+<td>3</td>
 </tr>
 <tr class="even">
 <td>10</td>
 <td>US10</td>
 <td>Destaca tus libros</td>
-<td><p><>Como</> escritor</p>
-<p><>quiero</> destacar mis libros</p>
-<p><>para</> tener más vistas</p></td>
+<td><p>Como escritor</p>
+<p>quiero destacar mis libros</p>
+<p>para tener más vistas</p></td>
 <td>Media</td>
-<td>2</td>
+<td>3</td>
 </tr>
 <tr class="odd">
 <td>11</td>
 <td>US11</td>
 <td>Reparto por Ingresos publicitarios</td>
-<td><p><>Como</> escritor</p>
-<p><>quiero</> generar ingresos</p>
-<p><>para</> mejorar mis libros</p></td>
+<td><p>Como escritor</p>
+<p>quiero generar ingresos</p>
+<p>para poder dedicarle más tiempo a mis libros</p></td>
 <td>Alta</td>
-<td>3</td>
+<td>5</td>
 </tr>
 <tr class="even">
 <td>12</td>
 <td>US12</td>
 <td>Diversos géneros literarios</td>
-<td><p><>Como</> lector</p>
-<p><>quiero</> tener una gran cantidad de géneros literarios
+<td><p>Como lector</p>
+<p>quiero tener una gran cantidad de géneros literarios
 a mi disposición</p>
-<p><>para</> tener una gran variedad de opciones a elegir
+<p>para tener una gran variedad de opciones a elegir
 para mis lecturas</p></td>
 <td>Alta</td>
 <td>3</td>
@@ -1540,33 +1562,33 @@ para mis lecturas</p></td>
 <td>13</td>
 <td>US13</td>
 <td>Desbloqueo de Capítulos</td>
-<td><p><>Como</> lector</p>
-<p><>quiero</> tener acceso al contenido exclusivo de la
+<td><p>Como lector</p>
+<p>quiero tener acceso al contenido exclusivo de la
 plataforma</p>
-<p><>para</> contar con más capítulos a mi
+<p>para contar con más historias a mi
 disposición</p></td>
 <td>Alta</td>
-<td>3</td>
+<td>5</td>
 </tr>
 <tr class="even">
 <td>14</td>
 <td>US14</td>
 <td>Dejar Comentarios</td>
-<td><p><>Como</> lector, escritor e ilustrador</p>
-<p><>quiero</> poder comentar las obras</p>
-<p><>para</> ayudar a otros usuarios brindándoles un
+<td><p>Como lector</p>
+<p>quiero poder comentar las obras</p>
+<p>para ayudar a otros usuarios brindándoles un
 feedback</p></td>
-<td>Alta</td>
-<td>3</td>
+<td>Medias</td>
+<td>2</td>
 </tr>
 <tr class="odd">
 <td>15</td>
 <td>US15</td>
 <td>Ingreso por las ilustraciones</td>
-<td><p><>Como</> ilustrador</p>
-<p><>quiero</> contar con una monetización por mis
+<td><p>Como ilustrador</p>
+<p>quiero contar con una monetización por mis
 ilustraciones</p>
-<p><>para</> poder percibir ingresos dentro de la
+<p>para poder percibir ingresos dentro de la
 aplicación</p></td>
 <td>Alta</td>
 <td>3</td>
@@ -1575,82 +1597,42 @@ aplicación</p></td>
 <td>16</td>
 <td>US16</td>
 <td>Flexibilidad al ilustrar</td>
-<td><p><>Como</> ilustrador</p>
-<p><>quiero</> tener flexibilidad creativa a la hora de
+<td><p>Como ilustrador</p>
+<p>quiero tener flexibilidad creativa a la hora de
 dibujar</p>
-<p><>para</> tener un mejor rendimiento</p></td>
+<p>para tener un mejor rendimiento y no sobrecargarme de una temática</p></td>
 <td>Alta</td>
 <td>3</td>
 </tr>
-  <tr class="odd">
+<tr class="odd">
 <td>17</td>
 <td>US17</td>
 <td>Compatibilidad con diferentes dispositivos</td>
-<td><p><>Como</> usuario interesado en el producto</p>
-<p><>quiero</> que la landing page sea responsive</p>
-<p><>para</> tener un navegacion fluida y accesible</p></td>
-<td>Alta</td>
-<td>3</td>
+<td><p>Como usuario interesado en el producto</p>
+<p>quiero que la landing page sea responsive</p>
+<p>para tener un navegacion fluida y accesible en cualquier dispositivo</p></td>
+<td>Media</td>
+<td>5</td>
 </tr>
 <tr class="even">
 <td>18</td>
 <td>US18</td>
 <td>Accesibilidad en el Landing page</td>
-<td><p><>Como</> usuario que tiene una discapacidad</p>
-<p><>quiero</> que la landing page cuente con los lineamientos necesarios de una página accesible</p>
-<p><>para</> navegar de forma fluida y conocer su aplicación sin impedimentos</p></td>
-<td>Alta</td>
-<td>3</td>
-</tr>
-  <tr class="odd">
-<td>19</td>
-<td>US19</td>
-<td>Uso de API para el inicio de sesión</td>
-<td><p><>Como</> desarrollador</p>
-<p><>quiero</> integrar el inicio de sesión a través de API utilizando las cuentas de Google, Facebook y el método de inicio de sesión normal</p>
-<p><>para</> permitir a los usuarios acceder a la aplicación de forma conveniente y segura.</p></td>
-<td>Alta</td>
-<td>3</td>
-</tr>
-  <tr class="even">
-<td>20</td>
-<td>US20</td>
-<td>Uso de API para realizar el pago de suscripciones con PayPal	</td>
-<td><p><>Como</> desarrollador</p>
-<p><>quiero</> integrar la funcionalidad de pago utilizando la API de PayPal</p>
-<p><>para</> permitir a los usuarios suscribirse y realizar pagos de forma segura y conveniente.</p></td>
-<td>Alta</td>
-<td>3</td>
-</tr>
-<tr class="odd">
-<td>21</td>
-<td>US21</td>
-<td>Uso de API para compartir libros en redes sociales	</td>
-<td><p><>Como</> desarrollador</p>
-<p><>quiero</> integrar la funcionalidad de compartir libros en redes sociales utilizando las APIs de Facebook y Twitter</p>
-<p><>para</> permitir a los usuarios compartir fácilmente sus libros favoritos con sus amigos y seguidores.</p></td>
-<td>Media</td>
-<td>4</td>
-</tr>
-<tr class="even">
-<td>22</td>
-<td>US22</td>
-<td>Uso de IAM dentro de la API	</td>
-<td><p><>Como</> desarrollador</p>
-<p><>quiero</> integrar IAM dentro la API</p>
-<p><>para</> otorgar el acceso adecuado a los usuarios del tipo administrador.</p></td>
-<td>Alta</td>
-<td>5</td>
-</tr>
-<tr class="even">
-<td>23</td>
-<td>US23</td>
-<td>Uso de JSON web token para uso de la API	</td>
-<td><p><>Como</> desarrollador</p>
-<p><>quiero</> integrar el uso de JSON web token dentro la API</p>
-<p><>para</> verificar que los comandos y consultas provengan de una fuente válida.</p></td>
+<td><p>Como usuario con dificultades visuales</p>
+<p>quiero que la landing page cuente con los lineamientos necesarios de una página accesible</p>
+<p>para navegar de forma fluida y conocer su aplicación sin impedimentos</p></td>
 <td>Alta</td>
 <td>2</td>
+</tr>
+<tr class="odd">
+<td>19</td>
+<td>US19</td>
+<td>Contraste del texto y el fondo</td>
+<td><p>Como usuario lector</p>
+<p>quiero que la aplicación cuente con colores que dejen ver el texto claramente</p>
+<p>para no tener problemas al leer un libro</p></td>
+<td>Alta</td>
+<td>3</td>
 </tr>
 </tbody>
 </table>
