@@ -1911,10 +1911,10 @@ Se desarrollaron wireframes de alta fidelidad en Figma, considerando la arquitec
 
 Cada wireframe evidencia una jerarquía clara de contenido, navegación intuitiva y foco en la visualización de ilustraciones.
 
-![wireframe1](img/Wireframe1.png)
-![wireframe2](img/Wireframe2.png)
-![wireframe3](img/Wireframe3.png)
-![wireframe4](img/Wireframe4.png)
+![wireframe1](images/Wireframe1.png)
+![wireframe2](images/Wireframe2.png)
+![wireframe3](images/Wireframe3.png)
+![wireframe4](images/Wireframe4.png)
 
 #### 4.4.2. Mobile Applications Wireflow Diagrams
 
@@ -1925,7 +1925,7 @@ Se desarrollaron wireflows que representan los pasos necesarios para lograr dist
 
 Cada wireflow detalla el cambio de pantallas en respuesta a las acciones del usuario, reflejando los estados de la aplicación tras cada interacción.
 
-![wireflowDiagram](img/Wireflowdiagram.png)
+![wireflowDiagram](images/Wireflowdiagram.png)
 
 #### 4.4.3. Mobile Applications Mock-ups
 
@@ -1937,13 +1937,13 @@ Se diseñaron mockups aplicando el Design System basado en Material Design adapt
 
 Los mockups respetan principios de diseño accesible, considerando contraste, tamaños de fuente y claridad de interacción.
 
-![mockups1](img/MockUps1.png)
-![mockups2](img/MockUps2.png)
-![mockups3](img/MockUps2.png)
-![mockups4](img/Mockups4.png)
-![mockups5](img/MockUps5.png)
-![mockups6](img/MockUps6.png)
-![mockups7](img/Mockups7.png)
+![mockups1](images/MockUps1.png)
+![mockups2](images/MockUps2.png)
+![mockups3](images/MockUps2.png)
+![mockups4](images/Mockups4.png)
+![mockups5](images/MockUps5.png)
+![mockups6](images/MockUps6.png)
+![mockups7](images/Mockups7.png)
 
 #### 4.4.4. Mobile Applications User Flow Diagrams
 
@@ -1954,7 +1954,7 @@ Se generaron user flows completos para cada User Goal definido.
 
 Los user flows incluyen tanto caminos ideales (happy paths) como caminos alternativos (unhappy paths), considerando errores como fallos de carga o inputs inválidos.
 
-![userflowdiagram](img/UserFlorDiagram.png)
+![userflowdiagram](images/UserFlorDiagram.png)
 
   
 ### 4.6. Web Applications UX/UI Design
