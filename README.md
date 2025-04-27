@@ -174,6 +174,43 @@ Dam Rubianes, Frida Sofia
   
 ---
 
+## Student Outcome
+<table>
+    <tr>
+        <td>Criterio especifico</td>
+        <td>Acciones realizadas</td>
+        <td>Conclusiones</td>
+    </tr>
+    <tr>
+        <td>4.c.1 Reconoce responsabilidad ética y profesional en situaciones de ingenieria de software</td>
+        <td>
+            TB1: <br>
+            Christopher Sebastian More Rondon: En esta entrega fui el encargado de selecciona las user stories para nuestro producto junto con su product backlog, asi como de especificar 
+            las desiciones de estilo para la aplicación en moviles, con el obejtivo de darle una buena experiencia al usuario<br>
+            Persona: ..<br>
+            Persona: ..<br>
+            Persona: ..<br>
+        </td>
+        <td>
+            --
+        </td>
+    </tr>
+    <tr>
+        <td>4.c.2 Emite juicios informados considerando el impacto de las soluciones de Ingenieria de software en contextos globales, económicos, ambientales y sociales</td>
+        <td>
+            TB1: <br>
+            Christopher Sebastian More Rondon: Me encargue de crear las user stories, asegurandome de que sean objetivos necesarios para que nuestra aplicación cumpla con los requerimientos
+            de los usuario<br>
+            Persona: ..<br>
+            Persona: ..<br>
+            Persona: ..<br>
+        </td>
+        <td>
+            ---
+        </td>
+    </tr>
+</table>
+
 ## Capítulo I: Introducción
 ### 1.1. Startup Profile
 #### 1.1.1. Descripción de la Startup
