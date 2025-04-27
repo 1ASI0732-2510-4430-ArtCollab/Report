@@ -239,7 +239,7 @@ Ser reconocidos como la plataforma líder en Latinoamérica —con enfoque inici
     </tr>
     <tr align="center">
          <td rowspan="3">
-             <img src="https://cdn.discordapp.com/attachments/1363341571877109913/1363343316258652310/Niurka.jpg?ex=680b9ea8&is=680a4d28&hm=b9231274385d3ef9fd427658c60ac3e4c01ce67bfb532813dea50bf715c155be&" alt="Niurka Huarcaya" style="margin-bottom: 5px;" width="600"/>
+             <img src="https://i.ibb.co/DH73jMSf/Niurka.jpg" alt="Niurka Huarcaya" style="margin-bottom: 5px;" width="600"/>
          </td>
          <td align="left">
              <b>Nombre y Apellido:</b>
