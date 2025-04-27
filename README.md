@@ -263,7 +263,7 @@ Ser reconocidos como la plataforma líder en Latinoamérica —con enfoque inici
 </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="" alt="Christopher More"  style="margin-bottom: 5px;" width="600"/>
+            <img src="Images/team/christopher-more.jpg" alt="Christopher More"  style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -948,8 +948,10 @@ Además, valoran funciones como estadísticas de perfil, contratos integrados y,
 
 ### 2.3. Needfinding
 #### 2.3.1. User Personas
+<br>
 ![image](https://github.com/user-attachments/assets/3c384944-5bf8-4559-83a2-f56d10f7b1cd)
 ![image](https://github.com/user-attachments/assets/6de8ca35-97b5-4ddd-917b-15c7cecfc637)
+
 #### 2.3.2. User Task Matrix
 | **User Task**                              | **Frecuencia / Importancia (Escritor)** | **Frecuencia / Importancia (Ilustrador)** |
 |--------------------------------------------|----------------------------------------|------------------------------------------|
@@ -967,24 +969,30 @@ Además, valoran funciones como estadísticas de perfil, contratos integrados y,
 #### 2.3.3. User Journey Mapping
 
 **Ilustrador:**
+<br>
 ![autor (2)](https://github.com/user-attachments/assets/f87bfb64-3545-4337-a19b-d62e0cfac4ae)
 
 **Escritor:**
+<br>
 ![autor](https://github.com/user-attachments/assets/b83dbaa8-f27b-4f3e-a350-a8fd5ca2b008)
 
 #### 2.3.4. Empathy Mapping
 **Escritor**
+<br>
 ![empathy map autor](https://github.com/user-attachments/assets/4423b371-9535-47cf-af65-0ed0c3f08458)
 
 **Ilsutrador**
+<br>
 ![empathy map ilustrador](https://github.com/user-attachments/assets/3fee20fa-195f-468f-a1d6-b2129566c053)
 
 
 #### 2.3.5. As-is Scenario Mapping
 **Escritor**
+<br>
 ![as is escritor](https://github.com/user-attachments/assets/67945867-482a-4811-99c2-3f3bcd40c6f6)
 
 **Ilustrador**
+<br>
 ![as is ilustrador](https://github.com/user-attachments/assets/574dffa9-a36d-49ba-bed6-7e06db85b098)
 
 ### 2.4. Ubiquitous Language
@@ -1025,9 +1033,11 @@ Además, valoran funciones como estadísticas de perfil, contratos integrados y,
 ## 3.1. To-Be Scenario Mapping
 
 **Autor:**
+<br>
 ![to be escritor](https://github.com/user-attachments/assets/a8f7d240-80cd-4381-b507-1e6493a795c9)
 
 **Ilustrador:**
+<br>
 ![to be ilustrador](https://github.com/user-attachments/assets/bf90d974-0b01-4d37-9cbf-f8a14bb8989e)
 
 
@@ -1640,11 +1650,13 @@ dibujar</p>
 ## 3.4. Impact Mapping
 
 **Escritor:**
-![impact map escritor](https://github.com/user-attachments/assets/9578058c-bc36-4fd2-b831-3f3ce730197d)
+<br>
+![impact map escritor](Images/chapter3/escritor_Impact.png)
 
 
 **Ilustrador:**
-![impact map ilustrador](https://github.com/user-attachments/assets/3e708763-8eb9-4598-ba41-ba140eeee8e8)
+<br>
+![impact map ilustrador](Images/chapter3/ilustrador_impact.png)
 
 
 
@@ -1698,7 +1710,13 @@ Entendemos que la comodidad y la facilidad de uso son fundamentales para disfrut
 
 #### 4.1.3. Mobile Style Guidelines
 ##### 4.1.3.1. iOS Mobile Style Guidelines
+El principal objetivo de nuestra aplicación es permitir a la gente leer sus libros sin problema, por lo que se usará un tamaño de fuente de 16px en el texto de estos. De igual manera, también planeamos utilizar cards para organizar la información, y finalmente, mantendremos los colores para mantener consistencia entre la versión móbil y la del buscador, con el objetivo de facilitarle al usuario comprender donde se encuentra organizada.
+
+El diseño de la apllicación será muy similar al de we para facilitar el uso de ambas.
+
 ##### 4.1.3.2. Android Mobile Style Guidelines
+Para este proyecto, se planea mantener la misma estructura y desiciones de estilo en ambos sistemas moviles, para facilitar el que dos usuarios de distintos sistemas puedan comunicarse sin dificultades.
+
 ### 4.2. Information Architecture
 #### 4.2.1. Organization Systems
 El Sistema de Organización propuesto tiene como fin mejorar la interacción entre el usuario y la aplicación mobil y web, asegurando que se ofrezcan todos los servicios disponibles en ArtCollab. En términos de organización visual, la landing page estará estructurada jerárquicamente (visual hierarchy) para resaltar elementos importantes como las opciones de publicar o iniciar sesión.
