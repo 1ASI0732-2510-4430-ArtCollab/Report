@@ -932,7 +932,17 @@ dibujar</p>
 #### 4.1.2. Web Style Guidelines
 #### 4.1.3. Mobile Style Guidelines
 ##### 4.1.3.1. iOS Mobile Style Guidelines
+El principal objetivo de nuestra aplicación es permitir a la gente leer sus libros sin problema, por lo que se usará un tamaño de fuente de 16px en el texto de estos. De igual
+manera, también planeamos utilizar cards para organizar la información, y finalmente, mantendremos los colores para mantener consistencia entre la versión móbil
+y la del buscador, con el objetivo de facilitarle al usuario comprender donde se encuentra organizada.
+
+El diseño de la apllicación será muy similar al de we para facilitar el uso de ambas.
+
 ##### 4.1.3.2. Android Mobile Style Guidelines
+
+Para este proyecto, se planea mantener la misma estructura y desiciones de estilo en ambos sistemas moviles, para facilitar el que dos usuarios de distintos
+sistemas puedan comunicarse sin dificultades.
+
 ### 4.2. Information Architecture
 #### 4.2.1. Organization Systems
 #### 4.2.2. Labeling Systems
