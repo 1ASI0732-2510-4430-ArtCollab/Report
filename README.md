@@ -1897,7 +1897,6 @@ Los mockups respetan principios de diseño accesible, considerando contraste, ta
 
 
 
-Enlace a los mockups de la App Web en Figma: https://www.figma.com/file/llRxY8xD9zTHhYNwSaoRHP/ArtCollab-WebApp?type=design&node-id=0%3A1&mode=design&t=Z0sYOEHMCMKvy3wN-1
 
 #### 4.4.4. Mobile Applications User Flow Diagrams
 
@@ -1908,27 +1907,7 @@ Se generaron user flows completos para cada User Goal definido.
 
 Los user flows incluyen tanto caminos ideales (happy paths) como caminos alternativos (unhappy paths), considerando errores como fallos de carga o inputs inválidos.
 
-### 4.5. Mobile Applications Prototyping
 
-Se realizaron prototipos navegables en Figma simulando la experiencia real de uso en dispositivos móviles Android e iOS.
-
-Los prototipos fueron diseñados siguiendo:
-
-- Principios de navegación accesible.
-- Arquitectura de información clara.
-- Interacciones fluidas de toque, swipe y scroll.
-
-Se registró un video por cada prototipo demostrando los principales flujos de interacción, incluyendo navegación, búsqueda y lectura de obras.
-
-#### 4.5.1. Android Mobile Applications Prototyping
-
-- **Descripción:** Prototipo simulado en entorno Android.
-- **Contenido del video:** Exploración de obras, búsqueda por categorías, lectura y regreso a Home.
-  
-#### 4.5.2. iOS Mobile Applications Prototyping
-
-- **Descripción:** Prototipo simulado en entorno iOS.
-- **Contenido del video:** Navegación general, exploración destacada, visualización de perfiles de ilustradores.
 
   
 ### 4.6. Web Applications UX/UI Design
