@@ -32,8 +32,8 @@
             <td>U202215705</td>
         </tr>
         <tr>
-            <td>3er integrante</td>
-            <td>U202218352</td>
+            <td>Huarcaya Quispe, Niurka Lucero</td>
+            <td>U20221B226</td>
         </tr>
         <tr>
             <td>4to integrante</td>
@@ -237,6 +237,29 @@ Ser reconocidos como la plataforma líder en Latinoamérica —con enfoque inici
             Me interesa el análisis de datos, el desarrollo de software y siempre estoy buscando maneras de mejorar y aprender cosas nuevas.
         </td>
     </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src="https://cdn.discordapp.com/attachments/1363341571877109913/1363343316258652310/Niurka.jpg?ex=680b9ea8&is=680a4d28&hm=b9231274385d3ef9fd427658c60ac3e4c01ce67bfb532813dea50bf715c155be&" alt="Niurka Huarcaya" style="margin-bottom: 5px;" width="600"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Niurka Lucero Huarcaya Quispe
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+            <b>Carrera:</b>
+            <br>
+            Ingeniería de Software.
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+            <b>Acerca de:</b>
+            <br>
+            Considero que soy una persona responsable y que puedo aportar al equipo en cualquier aspecto que se requiera con los conocimientos que he ido adquiriendo en ciclos anteriores.
+        </td>
 </table>
 
 ### 1.2. Solution Profile
