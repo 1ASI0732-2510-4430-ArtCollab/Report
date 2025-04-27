@@ -185,7 +185,7 @@ Adrianzen Flores, Carlos Arturo
             TB1: <br>
             Christopher Sebastian More Rondon: En esta entrega fui el encargado de selecciona las user stories para nuestro producto junto con su product backlog, asi como de especificar 
             las desiciones de estilo para la aplicación en moviles, con el obejtivo de darle una buena experiencia al usuario<br>
-            Persona: ..<br>
+            Carlos Arturo Adrianzen Flores: En esta entrega fui el encargado de la seccio del analisis competitivo y las entrevistas, ademas de la realizacion de las UX/UI diagrams correspondientes<br>
             Persona: ..<br>
             Persona: ..<br>
         </td>
@@ -199,7 +199,7 @@ Adrianzen Flores, Carlos Arturo
             TB1: <br>
             Christopher Sebastian More Rondon: Me encargue de crear las user stories, asegurandome de que sean objetivos necesarios para que nuestra aplicación cumpla con los requerimientos
             de los usuario<br>
-            Persona: ..<br>
+            Carlos Arturo Adrianzen Flores: Al momento de realizar partes del informe como los diagramas, tuve en cuenta el impacto de las soluciones a nivel global, y como nuestra propia solucion podria llegar a tener dicho impacto.<br>
             Persona: ..<br>
             Persona: ..<br>
         </td>
