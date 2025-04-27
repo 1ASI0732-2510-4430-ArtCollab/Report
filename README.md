@@ -309,19 +309,186 @@ El modelo de ingresos de ArtCollab contempla diversas fuentes:
 ## Capítulo IV: Product Design
 ### 4.1. Style Guidelines
 #### 4.1.1. General Style Guidelines
+# Historia de la marca
+
+## Misión
+Facilitar un espacio inclusivo y colaborativo que empodere a escritores e ilustradores para compartir sus historias con el mundo, ofreciendo herramientas innovadoras que permitan la creación, distribución y monetización de contenido literario y artístico, al tiempo que se enriquece la experiencia de lectura para una comunidad global de entusiastas de los libros.
+
+## Visión
+Ser la plataforma líder y referente en la publicación digital de libros ilustrados, reconocida por su compromiso con la sostenibilidad y el éxito de los creadores, y por ofrecer una experiencia de lectura excepcional que inspire, eduque y entretenga a lectores de todas las edades y culturas.
+
+## Brand Name
+El nombre del producto es **ArtCollab**, el cual cuenta con un logo representado por el icono de un bolígrafo con motivos coloridos a su alrededor haciendo referencia tanto a los escritores como artistas que son parte de los usuarios principales de nuestro aplicativo.
+<div style="text-align: center;">
+                <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/General%20Style%20Guidelines/logo-artcollab.jpeg?raw=true" alt="Art Collab Logo" style="max-width: 400px; width: 25%;">
+</div>
+
+### Colores
+Decidimos elegir la siguiente gama de colores, ya que va acorde al logo y se encuentran relacionados con la temática de nuestra app.
+<div style="text-align: center;">
+                <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/General%20Style%20Guidelines/Paleta-de-colores.png?raw=true" alt="Color Palette">
+</div>
+
+### Tipografía
+Elegimos esta fuente porque es legible dentro de todo tipo de entornos, además de no ser una tan frecuentemente usada, por lo que nos genera una mayor diferencia frente a nuestra competencia.
+<div style="text-align: center;">
+                <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/General%20Style%20Guidelines/Tipografia-1.png?raw=true" alt="Tipografía 1">
+</div>
+
+<div style="text-align: center;">
+                <img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/General%20Style%20Guidelines/Tipografia-2.png?raw=true" alt="Tipografía 2">
+</div>
+
+### Espaciado
+Siguiendo las recomendaciones de especialistas en diseño de interfaces, se aconseja que el interlineado de los párrafos sea 1.5 veces el tamaño del texto, lo que facilita la lectura al crear una separación adecuada entre las líneas.
+
+Tamaño de letra: 16px
+
+Interlineado: 24px
+
+### Tono de comunicación y lenguaje aplicado
+Usaremos un tono divertido, casual, respetuoso y entusiasta, puesto que consideramos que sería adecuado para nuestro tipo de aplicación. Este tono reflejaría la creatividad y el aspecto lúdico de los libros ilustrados, mientras que al mismo tiempo mantendría un nivel de respeto hacia los creadores y la audiencia.
+
 #### 4.1.2. Web Style Guidelines
+Nuestro sitio web está optimizado para proporcionar una experiencia fluida y accesible, independientemente del dispositivo que estés utilizando. Además, hemos implementado un diseño web basado en el patrón Z, que guía intuitivamente la mirada de los usuarios a través de los elementos más importantes de la página, asegurando que puedas captar rápidamente la información clave sin esfuerzo.
+
+Entendemos que la comodidad y la facilidad de uso son fundamentales para disfrutar de la lectura y la navegación en línea. Por eso, hemos puesto especial atención en crear un entorno que no solo sea estéticamente agradable, sino también funcional y eficiente. Queremos que nuestros usuarios se sientan bienvenidos y que su experiencia en nuestra plataforma sea siempre agradable y satisfactoria.
+
 #### 4.1.3. Mobile Style Guidelines
 ##### 4.1.3.1. iOS Mobile Style Guidelines
 ##### 4.1.3.2. Android Mobile Style Guidelines
 ### 4.2. Information Architecture
 #### 4.2.1. Organization Systems
+El Sistema de Organización propuesto tiene como fin mejorar la interacción entre el usuario y la aplicación mobil y web, asegurando que se ofrezcan todos los servicios disponibles en ArtCollab. En términos de organización visual, la landing page estará estructurada jerárquicamente (visual hierarchy) para resaltar elementos importantes como las opciones de publicar o iniciar sesión.
+
+Además, se implementará una organización secuencial (step-by-step) en procesos como el registro de usuarios y la configuración de sus perfiles.
+
+En cuanto a la organización matricial, se aplicarán filtros de búsqueda basados en géneros literarios o autores.
+
+También se emplearán esquemas de categorización, como la búsqueda de libros o autores, donde los usuarios podrán organizar los resultados alfabéticamente. La segmentación de audiencias se realizará en tres grupos según los roles de los usuarios: lector, escritor o ilustrador.
+
 #### 4.2.2. Labeling Systems
+En ArtCollab, el sistema de etiquetas será diseñado para que los usuarios encuentren fácilmente la información que buscan, haciéndolo muy intuitivo y accesible.
+
+### Etiquetas:
+
+Home: Boton invisible que te redirige a la pagina principal en el logo
+
+Populares: Se muestran los libros que están en trending
+
+Suscripciones/Premium: Son una suscripción mensual donde te brindan
+diferentes beneficios según tu tipo de usuario
+
+Monetizacion: Únicamente para los Escritores cumpliendo requisitos
+previos
+
+Artista: Muestra los mejores artistas del momento en toda la plataforma 
+
+<br>
+
+Además, una vez creada una cuenta y de haber iniciado sesión:
+
+Publicar: Sección disponible luego de iniciar sesión que brinda información de cómo publicar un libro nuevo
+
 #### 4.2.3. SEO Tags and Meta Tags
+En esta sección, se describen las etiquetas SEO y Meta que se utilizarán para identificar y posicionar el sitio web y landing page de ArtCollab de manera única en internet. Estas etiquetas son fundamentales para que el sitio sea fácilmente encontrado por los usuarios a través de los motores de búsqueda como Google, Bing y otros. Al optimizar estas etiquetas, se aumenta la visibilidad del sitio y se mejora su posicionamiento en los resultados de búsqueda, lo que puede atraer más visitantes interesados en nuestro aplicativo.
+
+### Para la landing page.
+
+\<meta charset="UTF-8"\>
+
+\<meta name="viewport" content="width=device-width, initial-scale=1.0"\>
+
+\<link href="./src/css/styles.css" rel="stylesheet"\>
+
+\<title\>ArtCollab - ImaginaTales Oficial Landing Page\</title\>
+
+\<meta name="description" content="ArtCollab Landing Page where you can
+find a presentation of all the main features of our app."\>
+
+\<meta name="keywords" content="illustrated books, creative
+collaboration, writers, illustrators, digital platform"\>
+
+\<meta name="author" content="ImaginaTales"\>
+
+### Para la aplicación web:
+
+\<meta charset="UTF-8"\>
+
+\<meta name="viewport" content="width=device-width, initial-scale=1.0"\>
+
+\<link href="./src/css/styles.css" rel="stylesheet"\>
+
+\<title\>ArtCollab - Illustrated book platform for writers and illustrators\</title\>
+
+\<meta name="description" content="Discover and collaborate on creative projects with talented writers and illustrators on ArtCollab. Explore a vast collection of digital picture books and share your own works."\>
+
+\<meta name="keywords" content="illustrated books, creative
+collaboration, writers, illustrators, digital platform, visual narrative, online publising"\>
+
+\<meta name="author" content="ImaginaTales"\>
+
+
 #### 4.2.4. Searching Systems
+El Sistema de navegación de ArtCollab nos ayudara a ver las preferencias
+del usuario. La búsqueda digitada le va a redireccionar al libro o autor
+escrito del que esté interesado.
+
+Luego de la búsqueda se va a poder filtrar como el usuario lo desee ya
+sea por genero literario o autores. Además, de poder ordenar los
+resultados de manera alfabética.
+
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/Search.png?raw=true" alt="Search System" style="margin-bottom: 5px;" width="500"/>
+
 #### 4.2.5. Navigation Systems
+En el caso de la navegación en la aplicación web será de una manera
+sencilla y minimalista debido a que tiene diversas opciones de interés
+para el usuario.
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/Navigation.png?raw=true" alt="Search System" style="margin-bottom: 5px;" width="1000"/>
+Tampoco nos olvidamos del lado Mobile en este caso tienes un menú
+desplegable donde tienes diversas opciones a elegir para volver a la
+página principal basta con apretar en el logo de ArtCollab
+<img src="https://github.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/blob/develop/assets/images/NavigationMobile.png?raw=true" alt="Search System" style="margin-bottom: 5px;" width="800"/>
+
 ### 4.3. Landing Page UI Design
 #### 4.3.1. Landing Page Wireframe
+Enlace a los Wireframes de la Landing Page en Figma: https://www.figma.com/file/P2GY9CsLT82DzIiZEnxhm6/Mockup-Landing-Page-(Vista)?type=design&node-id=2030-156&mode=design
+
+Versión Desktop:
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235652421384933447/Hero.png?ex=6635267e&is=6633d4fe&hm=923194a2e636b7c91991290154c6c6562df8f20a5e30010f4c56f9bc9c5ab099&=&format=webp&quality=lossless&width=720&height=495" alt="Landing Page Hero Wireframe">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235651393826586634/DESCUBRE.png?ex=66352589&is=6633d409&hm=f03569ad2db9ada3858e3fe48248fb5a80c1443a88585b930762c68331d3f892&=&format=webp&quality=lossless&width=399&height=597" alt="Landing Page DESCUBRE Wireframe">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235651418723975198/COLABORA.png?ex=6635258f&is=6633d40f&hm=7f4288ffddd8a6d05e6971bf625041fe6ce40ff811625fd553a77ddc8fa8a26a&=&format=webp&quality=lossless&width=491&height=597" alt="Landing Page COLABORA Wireframe">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235651442019139695/Footer.png?ex=66352595&is=6633d415&hm=08242b425f1a92f41eaa35e5a82aa85a5013fa20a8f0774bca549c5ab08f696a&=&format=webp&quality=lossless&width=719&height=172" alt="Landing Page Footer Wireframe">
+
+Versión Mobile:
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235651541092925600/Hero-Mobile.png?ex=663525ac&is=6633d42c&hm=aa76fca0742780e647f8b61df210b39ec4a46baeda189309212cc81a082385b8&=&format=webp&quality=lossless" alt="Landing Page Mobile Hero Wireframe">
+<br>
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235651586437546035/DESCUBRE-Mobile.png?ex=663525b7&is=6633d437&hm=75134f13fb2cbb450126bbbe9a5a57c033063f443cb465d7ca8b06ec0dc765e0&=&format=webp&quality=lossless&width=323&height=597" alt="Landing Page Mobile DESCUBRE Wireframe">
+<br>
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235651612735705250/COLABORA-Mobile.png?ex=663525bd&is=6633d43d&hm=6585ad925c4c6ffb6ff607222d45174978ac1d778e1588e6b74a2f500980a1e5&=&format=webp&quality=lossless&width=281&height=597" alt="Landing Page Mobile COLABORA Wireframe">
+<br>
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235651642834292886/Footer-Mobile.png?ex=663525c4&is=6633d444&hm=527f1c01f06a3b835ee01dfe78e8b08ec0000f62beed00ed2084a53ef2ed4c81&=&format=webp&quality=lossless" alt="Landing Page Mobile Footer Wireframe">
+
 #### 4.3.2. Landing Page Mock-up
+Enlace a la mockup de la Landing Page en Figma: https://www.figma.com/file/P2GY9CsLT82DzIiZEnxhm6/Mockup-Landing-Page-(Vista)?type=design&node-id=0%3A1&mode=design&t=aMu3gnaeqnM4xQgo-1
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235653889169293442/Hero.png?ex=663527dc&is=6633d65c&hm=cd960b77b2404b41bca68e03ddbb1d8e73dc5df64187a9175474ac8005c2b20e&=&format=webp&quality=lossless&width=509&height=350" alt="Landing Page Desktop Hero">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654178156580937/DESCUBRE.png?ex=66352821&is=6633d6a1&hm=3d9ad2994d327be7ff94d7faaccd52a46a141a71a76678427cb697f725b8414c&=&format=webp&quality=lossless&width=234&height=350" alt="Landing Page Desktop DESCUBRE">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654188592271490/COLABORA.png?ex=66352823&is=6633d6a3&hm=528ff1e37f18d0d5aaf32e91c0e2bf9203bf08da489b6d44b95bb694ba3c0805&=&format=webp&quality=lossless&width=288&height=350" alt="Landing Page Desktop COLABORA">
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654201879826492/Footer.png?ex=66352827&is=6633d6a7&hm=a67a0d6c83c6bb818edafa3f7fab8b4852080e274a344635fa513b546a5578ce&=&format=webp&quality=lossless&width=719&height=172" alt="Landing Page Desktop Footer">
+
+Versión Mobile:
+
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654255411466351/Hero-Mobile.png?ex=66352833&is=6633d6b3&hm=987f2a01a3c906a3e577056e3f13823d92a996214308da33abcdb28461f7f48a&=&format=webp&quality=lossless" alt="Landing Page Mobile Hero">
+<br>
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654270351708180/DESCUBRE-Mobile.png?ex=66352837&is=6633d6b7&hm=6a57a3b4a89a815809f3cf242af959a6561f842cbaa117920023f04e42c378da&=&format=webp&quality=lossless&width=323&height=597" alt="Landing Page Mobile DESCUBRE">
+<br>
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654286797705276/COLABORA-Mobile.png?ex=6635283b&is=6633d6bb&hm=28e789b91f9d7b06db5b30fa78852b7efb55922b7e7f549cf997250417c0f2ed&=&format=webp&quality=lossless&width=281&height=597" alt="Landing Page Mobile COLABORA">
+<br>
+<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654303373463594/Footer-Mobile.png?ex=6635283f&is=6633d6bf&hm=b3a44a9a1272e070aeee4de558bda9773bc35de1a460794e2f17d5974b3e5129&=&format=webp&quality=lossless" alt="Landing Page Mobile Footer">
+
 ### 4.4. Mobile Applications UX/UI Design
 #### 4.4.1. Mobile Applications Wireframes
 #### 4.4.2. Mobile Applications Wireflow Diagrams
