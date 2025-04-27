@@ -1850,6 +1850,17 @@ Versión Mobile:
 <img src="https://media.discordapp.net/attachments/1235639705157107719/1235654303373463594/Footer-Mobile.png?ex=6635283f&is=6633d6bf&hm=b3a44a9a1272e070aeee4de558bda9773bc35de1a460794e2f17d5974b3e5129&=&format=webp&quality=lossless" alt="Landing Page Mobile Footer">
 
 ### 4.4. Mobile Applications UX/UI Design
+La aplicación móvil de Artweb ha sido diseñada considerando los principios de usabilidad, accesibilidad e inclusión digital. Nuestro objetivo es ofrecer una experiencia intuitiva que potencie el descubrimiento y la publicación de obras ilustradas, fomentando la participación activa de artistas y usuarios.
+
+**Principios de Diseño Aplicados**
+- Usabilidad: Interfaces claras, consistentes y predecibles.
+
+- Accesibilidad: Contraste adecuado de colores, tamaños de fuente ajustables, navegación compatible con tecnologías asistivas.
+
+- Inclusión: Diseño sensible a diferentes contextos culturales y niveles de alfabetización tecnológica.
+
+- Arquitectura de Información: Navegación basada en categorías principales (Descubrir, Perfil, Biblioteca, Publicar, Comunidad).
+
 #### 4.4.1. Mobile Applications Wireframes
 #### 4.4.2. Mobile Applications Wireflow Diagrams
 #### 4.4.3. Mobile Applications Mock-ups
