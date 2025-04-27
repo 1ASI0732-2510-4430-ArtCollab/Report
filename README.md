@@ -1862,60 +1862,75 @@ La aplicación móvil de Artweb ha sido diseñada considerando los principios de
 - Arquitectura de Información: Navegación basada en categorías principales (Descubrir, Perfil, Biblioteca, Publicar, Comunidad).
 
 #### 4.4.1. Mobile Applications Wireframes
+
+Se desarrollaron wireframes de alta fidelidad en Figma, considerando la arquitectura de información propuesta, elementos de diseño coherentes, accesibilidad y diseño inclusivo.
+
+- **Pantallas principales:**
+  - Home (Descubrir obras)
+  - Buscar obras
+  - Ver detalles de una obra
+  - Perfil de usuario
+  - Subir nueva obra (para creadores)
+
+Cada wireframe evidencia una jerarquía clara de contenido, navegación intuitiva y foco en la visualización de ilustraciones.
+
 #### 4.4.2. Mobile Applications Wireflow Diagrams
+
+Se desarrollaron wireflows que representan los pasos necesarios para lograr distintos User Goals.
+
+- **User Goal 1:** "Explorar y leer una obra ilustrada."
+- **User Goal 2:** "Subir una nueva obra como ilustrador."
+
+Cada wireflow detalla el cambio de pantallas en respuesta a las acciones del usuario, reflejando los estados de la aplicación tras cada interacción.
+
 #### 4.4.3. Mobile Applications Mock-ups
-### Mock-ups versión Mobile:
 
-#### Mock-ups de la página principal
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660665000165446/Pagina-principal.png?ex=66352e2c&is=6633dcac&hm=ab460797cfe03bdb9e95b5bf88b9eb4213bf926cb5b9495d922df3e5bc6acdb7&=&format=webp&quality=lossless&width=681&height=662" alt="Web App Page Desktop Main page">
+Se diseñaron mockups aplicando el Design System basado en Material Design adaptado a Artweb, con ajustes para reforzar el enfoque visual-artístico.
 
-#### Mock-ups de la sección Géneros
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660689922723871/Generos.png?ex=66352e31&is=6633dcb1&hm=5790eb1b8314567b8e82804e9afc12af1de27acb8afbd972831d225c1f8ca136&=&format=webp&quality=lossless&width=325&height=437" alt="Web App Desktop Generos">
+- **Colores principales:** Azul marino y tonos crema suaves.
+- **Tipografía:** Fuente sans-serif moderna y elegante.
+- **Estilo:** Minimalista, resaltando obras ilustradas con marcos amplios.
 
-#### Mock-ups de la sección Populares
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660715256320083/Populares.png?ex=66352e37&is=6633dcb7&hm=82570a4310da08f14cca33f776266cc451c5b40b92ec356bdf9669955d92fb69&=&format=webp&quality=lossless&width=311&height=437" alt="Web App Desktop Populares">
-
-#### Mock-ups de la sección Suscripciones
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660734231478272/Suscripciones.png?ex=66352e3c&is=6633dcbc&hm=2c42727ade68fa085bdae792d444c82d9207d200fe8a404e39a6bd83501e9eb8&=&format=webp&quality=lossless&width=365&height=437" alt="Web App Desktop Suscripciones">
-
-#### Mock-ups de la sección Monetización
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660749775573023/Monetizacion.png?ex=66352e40&is=6633dcc0&hm=eecfaaf58e2410dad98fca0b5360836f9198df08123b277efd80478df826a3a2&=&format=webp&quality=lossless&width=311&height=437" alt="Web App Desktop artistas monetización">
-
-#### Mock-ups de la sección Artistas
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660771942207558/Artistas.png?ex=66352e45&is=6633dcc5&hm=c1842b02717fe18370a1b7c16a1312b3170def355f3c613cc4563e8a13dc3177&=&format=webp&quality=lossless&width=440&height=437" alt="Web App Desktop Artistas">
-
-#### Mock-ups de la sección inicio de sesión
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660790430961714/iniciar-sesion-web.png?ex=66352e49&is=6633dcc9&hm=0ed16aead1a79f20967b154e2689965452fa4734097c73287caaa9d430df881d&=&format=webp&quality=lossless&width=231&height=437" alt="Web App Desktop Inicio de sesión">
-
-#### Mock-ups de la sección registro
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660813994561586/registro-web-app.png?ex=66352e4f&is=6633dccf&hm=b0a70cc8d686375426370d9996733b99ea248febfac483afac649e22a6d83ea0&=&format=webp&quality=lossless&width=492&height=662" alt="Web App Desktop Registro">
-
-#### Mock-ups de la sección recuperar contraseña
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660830293622835/recuperar-contraseC3B1a.png?ex=66352e53&is=6633dcd3&hm=c1ae92a5cf0a41de15d5c5cc0e16dcc70817312b0f049531a266c1cc906f4c01&=&format=webp&quality=lossless&width=340&height=437" alt="Web App Desktop Recuperar contraseña">
-
-#### Mock-ups de la sección perfiles
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660852301140118/perfiles.png?ex=66352e58&is=6633dcd8&hm=47be79726d21f961ac0c131aed99286e5a32965883758f168a1f2b06889c8d01&=&format=webp&quality=lossless&width=633&height=437" alt="Web App Desktop Perfiles">
-
-#### Mock-ups de la sección chat artista
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660871066325105/chat-artista.png?ex=66352e5d&is=6633dcdd&hm=5c1b922fb81867fd7896b163efc1480ae6e626690cc97827f6cff31025cb833b&=&format=webp&quality=lossless&width=231&height=437" alt="Web App Desktop Chat artista">
-
-#### Mock-ups de la sección historia
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660889773047909/historia.png?ex=66352e61&is=6633dce1&hm=49ab205df8fb91876996d0c5e740e3f17d07c5a5d5ff20bc9cd5e0f3fd8cef1b&=&format=webp&quality=lossless&width=356&height=437" alt="Web App Desktop Historia">
-
-#### Mock-ups de la sección publicar libro
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660906373972061/publicar-libro.png?ex=66352e65&is=6633dce5&hm=754f3cb0ea07d6303de2ca8cdf56dcb1d4253cc794f7f18e828a341976d87412&=&format=webp&quality=lossless&width=318&height=437" alt="Web App Desktop Publciar libro">
+Los mockups respetan principios de diseño accesible, considerando contraste, tamaños de fuente y claridad de interacción.
 
 
-#### Mock-ups de la sección editar cuenta
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235660926523277362/Editar-cuenta.png?ex=66352e6a&is=6633dcea&hm=4fa018a103537f0fa1d59266cabe43a1f4f231883e31ea0ae53b71ebbefe730a&=&format=webp&quality=lossless&width=537&height=662" alt="Web App Desktop Editar perfil">
+
 
 
 Enlace a los mockups de la App Web en Figma: https://www.figma.com/file/llRxY8xD9zTHhYNwSaoRHP/ArtCollab-WebApp?type=design&node-id=0%3A1&mode=design&t=Z0sYOEHMCMKvy3wN-1
 
 #### 4.4.4. Mobile Applications User Flow Diagrams
+
+Se generaron user flows completos para cada User Goal definido.
+
+- **User Flow de "Explorar obras":** Ruta desde Home hasta leer la obra, incluyendo búsquedas, filtros y navegación entre obras.
+- **User Flow de "Publicar obra":** Ruta desde Perfil → Subir Obra → Confirmación de publicación.
+
+Los user flows incluyen tanto caminos ideales (happy paths) como caminos alternativos (unhappy paths), considerando errores como fallos de carga o inputs inválidos.
+
 ### 4.5. Mobile Applications Prototyping
+
+Se realizaron prototipos navegables en Figma simulando la experiencia real de uso en dispositivos móviles Android e iOS.
+
+Los prototipos fueron diseñados siguiendo:
+
+- Principios de navegación accesible.
+- Arquitectura de información clara.
+- Interacciones fluidas de toque, swipe y scroll.
+
+Se registró un video por cada prototipo demostrando los principales flujos de interacción, incluyendo navegación, búsqueda y lectura de obras.
+
 #### 4.5.1. Android Mobile Applications Prototyping
+
+- **Descripción:** Prototipo simulado en entorno Android.
+- **Contenido del video:** Exploración de obras, búsqueda por categorías, lectura y regreso a Home.
+  
 #### 4.5.2. iOS Mobile Applications Prototyping
+
+- **Descripción:** Prototipo simulado en entorno iOS.
+- **Contenido del video:** Navegación general, exploración destacada, visualización de perfiles de ilustradores.
+
+  
 ### 4.6. Web Applications UX/UI Design
 #### 4.6.1. Web Applications Wireframes
 En esta sección se pueden encontrar los wireframes relacionados a nuestro aplicativo web ArtCollab.
