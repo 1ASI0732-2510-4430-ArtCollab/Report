@@ -2256,33 +2256,17 @@ Timing: 8:54
 
 ### 4.8. Domain-Driven Software Architecture
 #### 4.8.1. Software Architecture Context Diagram
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1253392330539405503/structurizr-90530-Contexto.png?ex=6675b012&is=66745e92&hm=b5591ea5effacd4311c4185c5fb8a8c44fddb3bfba423b6f0d00cd99e39039a6&=&format=webp&quality=lossless&width=898&height=468" alt="ArtCollab Context Diagram">
+<img src="https://i.ibb.co/G4jHMcT3/structurizr-system.png" alt="ArtCollab Context Diagram">
 
 #### 4.8.2. Software Architecture Container Diagrams
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1253392331152031746/structurizr-90530-Contenedor.png?ex=6675b012&is=66745e92&hm=11ccd44fcfca4c0a5414f8d974fbcd2ca3834329e337b1fa6fd766e89a04f57e&=&format=webp&quality=lossless&width=543&height=468" alt="ArtCollab Container Diagram">
+<img src="https://i.ibb.co/4g9RdYPs/structurizr-container.png" alt="ArtCollab Container Diagram">
+
 
 #### 4.8.3. Software Architecture Components Diagrams
 API Rest Component Diagram:
 
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235643595432792094/api-rest-component-diagram.png?ex=66351e46&is=6633ccc6&hm=804357892c353e6dbfdb9c682c508a07012987d5568ebdd6dac8f83054dbbf8c&=&format=webp&quality=lossless&width=1365&height=597" alt="API Rest Component Diagram">
+<img src="https://i.ibb.co/fLKn2mV/structurizr-component.png" alt="API Rest Component Diagram">
 
-User Bounded Context Component Diagram:
-
-<img src="https://images-ext-1.discordapp.net/external/GLFcnJQ84zCelEznlOucJoFbz3spTZgQ4JtoIIOMr8A/%3Fraw%3Dtrue/https/github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/main/assets/images/C4/userbc-component-diagram.png?format=webp&quality=lossless&width=597&height=597" alt="User BC Component Diagram">
-
-Content Bounded Context Component Diagram:
-
-<img src="https://images-ext-1.discordapp.net/external/rj8J2DVeW-hf5-ZS3JyD1oaCWvimo_cYqE9H-fTpSLM/%3Fraw%3Dtrue/https/github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/main/assets/images/C4/contentbc-component-diagram.png?format=webp&quality=lossless&width=597&height=597" alt="Content BC Component Diagram">
-
-Collaboration Bounded Context Component Diagram:
-
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235643631227113502/collaborationbc-component-diagram.png?ex=66351e4e&is=6633ccce&hm=a0146639394f17a2bbcda8ede4c6c3f5ade5401491b2a418708b9b717dec5b7c&=&format=webp&quality=lossless&width=426&height=596" alt="Collaboration BC Component Diagram">
-
-Monetization Bounded Context Component Diagram:
-
-<img src="https://images-ext-1.discordapp.net/external/vCbi4M9CQFGa0PZSNWOBc5_JN_Js-pQLqxjjmqtT-9I/%3Fraw%3Dtrue/https/github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/main/assets/images/C4/monetizationbc-component-diagram.png?format=webp&quality=lossless&width=459&height=596" alt="Monetization Bounded Context Class Diagram">
-
-<hr>
 ### 4.9. Software Object-Oriented Design
 #### 4.9.1. Class Diagrams
 #### 4.9.2. Class Dictionary
@@ -2291,17 +2275,179 @@ Monetization Bounded Context Component Diagram:
 
 ## Capítulo V: Product Implementation, Validation & Deployment
 ### 5.1. Software Configuration Management
+En esta sección, presentaremos las herramientas, normas, referencias y ajustes utilizados durante el desarrollo del proyecto, los cuales fueron clave para garantizar la coherencia en el trabajo realizado.
 #### 5.1.1. Software Development Environment Configuration
+Este apartado presenta los diversos productos de software utilizados por el equipo de desarrollo para llevar a cabo las actividades relacionadas con la creación del proyecto.
+
+**Gestión de Proyecto**
+
+- Google Docs: https://docs.google.com/
+  
+  Plataforma web que facilita la creación y edición colaborativa de documentos en tiempo real. Se empleó para organizar, asignar tareas y dar seguimiento a las actividades, además de establecer plazos de entrega.
+
+- Google Meet: https://meet.google.com/
+  
+  Herramienta de videoconferencias que permite reuniones virtuales con múltiples participantes. Fue utilizada para coordinar sesiones de trabajo y mejorar la comunicación dentro del equipo.
+
+**Gestión de Requisitos**
+
+- Trello: https://trello.com/
+  
+  Software de gestión de proyectos que facilita la organización de tareas. Se utilizó para administrar el Product Backlog.
+
+**Diseño UX/UI del Producto**
+
+- UXPressia: https://uxpressia.com/
+  
+  Herramienta en línea que ayuda a identificar las necesidades y el comportamiento del usuario. Se usó para desarrollar User Personas, Empathy Maps, Journey Maps e Impact Maps.
+
+- Figma: https://www.figma.com/
+  
+  Plataforma de edición gráfica colaborativa para diseñar y prototipar páginas web y aplicaciones en tiempo real. Se empleó para la creación de wireframes, mock-ups y prototipos de aplicaciones web y móviles.
+
+- Miro: https://miro.com/
+  
+  Espacio colaborativo para elaborar pizarras digitales en tiempo real. Se utilizó para desarrollar As-Is y To-Be Scenario Maps mediante diagramas y flujos de trabajo.
+
+**Desarrollo de Software**
+
+- Landing Page: Se desarrolló utilizando HTML5, CSS3 y JavaScript.
+- Aplicaciones Web Frontend: Implementadas con HTML5, CSS3 y JavaScript, con componentes diseñados en Prime Vue.
+- Servicios Web: Desarrollados en C# con el framework ASP.NET Core, siguiendo una arquitectura RESTful API.
+
+**Despliegue de Software**
+
+- Netlify: https://www.netlify.com/
+  
+  Plataforma de hospedaje que facilita la integración con repositorios Git. Se utilizó para desplegar la landing page del proyecto.
+
+**Documentación de Software**
+
+- Vertabelo: https://vertabelo.com/
+  
+  Herramienta en línea para diseño, creación y gestión colaborativa de bases de datos.
+
+- LucidChart: https://lucid.app/
+  
+  Plataforma de diagramación utilizada para desarrollar UML class diagrams, Wireflows y User Flows mediante tableros y plantillas editables en tiempo real.
+
+- Structurizr: https://www.structurizr.com/
+  
+  Solución para modelado de diagramas de arquitectura de software por medio de código, aplicada en la construcción del modelo C4 del proyecto.
+  
 #### 5.1.2. Source Code Management
+Para el desarrollo y gestión del proyecto, fue creado una organización mediante GitHub, donde se registró todas las modificaciones realizadas a lo largo de su ciclo de vida. Este fue estructurado de la siguiente manera:
+- Organización:  https://github.com/1ASI0732-2510-4430-ArtCollab
+- Report Repository: https://github.com/1ASI0732-2510-4430-ArtCollab/Report
+  
+Para gestionar eficazmente los cambios en el código de la aplicación y administrar las ramas en cada repositorio, se ha adoptado GitFlow como metodología para definir y estructurar el flujo de trabajo. Este enfoque contempla la creación de dos ramas principales:
+
+- main: Conocida también como "master", es la rama que contiene la versión más estable del proyecto y está lista para su despliegue en producción.
+- develop: Actúa como la rama de integración, donde se incorporan las nuevas funcionalidades antes de fusionarlas con main.
+
+**Ramas auxiliares**
+- feature: Ramas dedicadas al desarrollo de nuevas funcionalidades dentro del proyecto. Una vez completadas, se integran en la rama develop.
+
+**Convención de nomenclatura**
+
+El formato establecido para nombrar las ramas sigue la estructura: feature/feature-name. Aquí, "feature" indica que se trata de una rama de desarrollo de una funcionalidad específica, mientras que "feature-name" corresponde al nombre de dicha funcionalidad. Por ejemplo, feature/log-in hace referencia a la implementación del sistema de inicio de sesión en la aplicación web.
+
 #### 5.1.3. Source Code Style Guide & Conventions
+Para garantizar un desarrollo limpio y estructurado en HTML y CSS, se ha seguido la convención Google HTML/CSS Style Guide. Algunos de los principios más relevantes incluyen:
+- Declarar el tipo de documento al inicio del archivo con `<!DOCTYPE html>`.
+- Especificar los meta tags adecuadamente.
+- Ubicar el elemento `<title>` dentro de las etiquetas `<head>`.
+- Aplicar una indentación de dos espacios por nivel.
+- Utilizar exclusivamente minúsculas para elementos HTML, atributos, propiedades, valores y selectores CSS.
+- Encerrar los atributos HTML entre comillas.
+- Asegurarse de que cada elemento HTML tenga su etiqueta de cierre.
+- Evitar líneas de código excesivamente largas para mejorar la legibilidad.
+- Definir ancho y alto de las imágenes, además de incluir el texto alternativo (alt) para accesibilidad.
+
+Para la escritura del código en JavaScript, se ha adoptado la convención **Google JavaScript Style Guide**. Entre las reglas más importantes se encuentran:
+
+- Cada línea de código debe finalizar con un punto y coma (`;`).
+- Las variables y funciones deben seguir la notación CamelCase.
+- Los valores de tipo string deben estar delimitados por comillas simples (`' '`).
+- La indentación debe ser de dos espacios por nivel.
+- Se recomienda evitar el uso de `var` para declarar variables. En su lugar, es preferible utilizar `let` y `const`.
+  
+Para la escritura del código en C#, se ha adoptado la convención estándar **Microsoft C# Coding Conventions**. Algunas de las reglas más relevantes incluyen:
+
+- Los nombres de los paquetes deben estar en minúsculas.
+- Las clases deben seguir la notación UpperCamelCase, mientras que los métodos deben utilizar lowerCamelCase.
+- La indentación no debe realizarse con tabulaciones, sino con 2 o 4 espacios.
+- Se recomienda dividir líneas de código que excedan 100 caracteres para mejorar la legibilidad.
+- Los archivos C# deben tener el mismo nombre que la clase contenida, la cual debe ser única y pública.
+- Después de cada declaración, se debe insertar un salto de línea.
+
 #### 5.1.4. Software Deployment Configuration
+<ol>
+
+  <li> Accedemos a https://www.netlify.com/ e iniciamos sesión con nuestra cuenta de github, luego seleccionamos la opción de importar un proyecto existente desde git.
+
+  <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/deploy-landingpage/Import-Git-Netlify.png">
+  </li>
+
+   <li>Luego seleccionamos la opción de importar desde un repositorio existente de github.
+
+  <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/deploy-landingpage/Deploy-Netlify.png">
+  </li>
+
+  <li>Despues de seleccionar el repositorio de nuestra landing page, configuramos los detalles de la pagina web.
+  <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/deploy-landingpage/configurationpng.png">
+  </li>
+
+  <li>Posteriormente seleccionamos la opción de desplegar nuestra pagina web.
+  <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/deploy-landingpage/Configuration-Part2-Netlify.png">
+  </li>
+
+  <li> Luego de seleccionar la opción de deploy podemos visualizar el proceso de deploy en producción desde el apartado de site overview 
+
+  <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/deploy-landingpage/LandingPageTools.png"/>
+
+  </li>
+
+   <li> Posterior al deploy, Netlify verificara si el nombre del dominio ya existe, en dicho caso asignara un nombre por defecto, sin embargo podemos modificar el nombre accediendo a las confguraciones de nuestro deploy.
+  <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/deploy-landingpage/Configuration3.png">
+  </li>
+
+<li> Al finalizar el proceso de deploy y configuraciones, podemos visualizar todos los cambios en producción a traves de la opción deploys.
+  <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/deploy-landingpage/LangingPageProduction.png"/>
+
+</li>
+
+Link de landing page: https://group2-wx53-si730.netlify.app/#
+
+</ol>
+
 ### 5.2. Product Implementation & Deployment
 #### 5.2.1. Sprint Backlogs
 #### 5.2.2. Implemented Landing Page Evidence
+Para la implementación de la landing page, se optó por Netlify, una plataforma que simplifica el despliegue de sitios web al integrarse con repositorios Git. Esto permite realizar actualizaciones automáticas cada vez que se modifica el código, asegurando que los cambios se reflejen de manera inmediata en producción.
+
+<img src="https://i.ibb.co/q8f4sDQ/Captura-de-pantalla-2025-04-27-183105.png" alt="Captura-de-pantalla-2025-04-27-183105" border="0">
+
+Link de landing page: <a href="https://group2-wx53-si730.netlify.app/#">https://group2-wx53-si730.netlify.app/#</a>
+
 #### 5.2.3. Implemented Frontend-Web Application Evidence
+Para el despliegue del frontend de la aplicación web, se ha utilizado Netlify, una plataforma que permite la implementación sencilla y eficiente de proyectos web. Netlify facilita la integración con repositorios Git, lo que permite actualizar el sitio automáticamente con cada nuevo commit. Además, su infraestructura optimizada proporciona tiempos de carga rápidos y una administración eficiente de recursos, mejorando la accesibilidad y el rendimiento de la aplicación para los usuarios finales.
+
+<img src="https://i.ibb.co/RGMFRWKw/Captura-de-pantalla-2025-04-27-182647.png" alt="Captura-de-pantalla-2025-04-27-182647" border="0"></a>
+
+Link de frontend: <a href="https://elegant-beijinho-a167d8.netlify.app/#/register">https://elegant-beijinho-a167d8.netlify.app/#/register</a>
+
 #### 5.2.4. Implemented Native-Mobile Application Evidence
 #### 5.2.5. Implemented RESTful API and/or Serverless Backend Evidence
+<img src="https://i.ibb.co/prJYkmbh/Captura-de-pantalla-2025-04-27-195306.png" alt="Captura-de-pantalla-2025-04-27-195306" border="0">
+
 #### 5.2.6. RESTful API Documentation
+<img src="https://i.ibb.co/4RwRMkBY/Captura-de-pantalla-2025-04-27-195438.png" alt="Captura-de-pantalla-2025-04-27-195438" border="0">
+
+<img src="https://i.ibb.co/YGNjY80/Captura-de-pantalla-2025-04-27-195521.png" alt="Captura-de-pantalla-2025-04-27-195521" border="0">
+
+<img src="https://i.ibb.co/0RLQ1BgG/Captura-de-pantalla-2025-04-27-195626.png" alt="Captura-de-pantalla-2025-04-27-195626" border="0">
+
 #### 5.2.7. Team Collaboration Insights
 ### 5.3. Video About-the-Product
 
