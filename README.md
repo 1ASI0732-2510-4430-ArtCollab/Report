@@ -2834,6 +2834,8 @@ Link de frontend: <a href="https://elegant-beijinho-a167d8.netlify.app/#/registe
 <img src="https://i.ibb.co/0RLQ1BgG/Captura-de-pantalla-2025-04-27-195626.png" alt="Captura-de-pantalla-2025-04-27-195626" border="0">
 
 #### 5.2.7. Team Collaboration Insights
+<img src="https://i.ibb.co/kVKhhZqq/Captura-de-pantalla-2025-04-27-225255.png" alt="Captura-de-pantalla-2025-04-27-225255" border="0">
+
 ### 5.3. Video About-the-Product
 
 ## Avance de Conclusiones, Bibliografía y Anexos
