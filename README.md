@@ -2847,6 +2847,12 @@ En cuanto a los aspectos a mejorar, sería útil añadir más personalización a
 claridad entre ambos es de gran importancia.
 
 ## Anexos
+- Video grupal del TB1: 
 
 ## Bibliografía
+Codega, L. (2022, junio 15). Webtoon Walks Back 'Side-Hustle' Ad Campaign After Online Fury. Gizmodo.        https://gizmodo.com/webtoon-side-hustle-ad-controversy-apology-1849064106
+
+Park, H. (2022, agosto 11). Death of young webtoon artist sparks controversy over harsh working conditions.        TheKoreaTimes. https://www.koreatimes.co.kr/www/art/2024/03/398_334226.html
+
+R. Incertis, R. (2023, marzo 20). De internet a las estanterías: cómo Wattpad ha revolucionado la literatura juvenil.        El Mundo. https://www.elmundo.es/cultura/literatura/2023/03/20/64144a67fdddff133e8b458e.html
 
