@@ -506,6 +506,7 @@ Como escritor, ¿Qué opciones de interacción usted considera más relevantes a
 
 #### 2.2.2. Registro de entrevistas
 **Segmento 01: Escritor**
+
 **Entrevistado 01: Katia Asenjo Rodríguez**
 
 - **Sexo**: Femenino
@@ -515,7 +516,7 @@ Como escritor, ¿Qué opciones de interacción usted considera más relevantes a
 
 **Entrevista**:
 ![image](https://github.com/user-attachments/assets/388571f5-3f9b-4098-a88a-866a6b207290)
-- **Link**:
+- **Link**: https://drive.google.com/file/d/1-zCTLik8Z1lUEQCuwr9YZA3Ln5QEmlNk/view?usp=sharing 
 - **Duración**: 4min
 - **Aplicaciones Usadas**: Zoom
 - **Tecnologías**: Laptop
@@ -564,6 +565,22 @@ En su día a día como escritor, David usa herramientas como Google Docs para es
 
 Por último, destaca que la opinión de otros escritores y lectores es muy valiosa para él, ya que le ayuda a corregir errores y tener nuevas ideas.
 
+**Segmento 02: Ilustrador**
+
+**Entrevistado 01: Diana Vera Benavides**
+- **Sexo**: Femenino
+- **Edad**: 21
+- **Distrito donde vive**: Jesus Maria 
+- **Nivel socioeconómico**: Medio
+
+**Entrevista**:
+![image](https://github.com/user-attachments/assets/0c78e6f5-fe47-4717-bee3-c795dc217a12)
+
+- **Link**: https://drive.google.com/file/d/1soGlZmnUhnicLxNDpwXWvzP4WqpGgA3M/view?usp=sharing 
+- **Duración**: 4:10 min
+- **Aplicaciones Usadas**: Zoom  
+- **Tecnologías**: Laptop  
+- **Entrevistador**: Frida Sofia Dam Rubianes  
 
 
 #### 2.2.3. Análisis de entrevistas
