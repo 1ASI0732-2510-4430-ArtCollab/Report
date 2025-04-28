@@ -2675,6 +2675,139 @@ Link de landing page: https://group2-wx53-si730.netlify.app/#
 
 ### 5.2. Product Implementation & Deployment
 #### 5.2.1. Sprint Backlogs
+<table style="width:400px; height:100px;"> 
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 1 </th>
+   </tr>
+   <tr >
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item /Task</th>
+   </tr>
+   <tr>
+     <th > Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th > Title </th>
+     <th> Description </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th> 
+     <th> Status (To-do / In-Process / To- Review / Done) </th>
+   </tr>
+     <tr>
+      <th> US01 </th>
+     <th colspan="3"> Barra de navegación en la Landing Page </th>
+      <th> W01  </th>
+     <th> Navbar Section  </th>
+     <th> Implementar la navbar con direcciones a la landing page de Artcollab   </th>
+     <th> 0.5  </th>
+     <th> Carlos Adrianzen 	 </th> 
+     <th> Done </th>
+   </tr>
+    <tr>
+      <th> US02 </th>
+     <th colspan="3">  Visualización de las redes sociales mediante footer </th>
+      <th> W02  </th>
+     <th> Footer Section </th>
+     <th> Implementar la sección footer con las direcciones a las redes sociales   </th>
+     <th> 0.5  </th>
+     <th> Christopher  More  </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> US03 </th>
+     <th colspan="3">  Sección de Explora </th>
+      <th> W03  </th>
+     <th> Explora Section </th>
+     <th> Implementar la sección de explora con la información de nuestra startup   </th>
+     <th> 2  </th>
+     <th> Niurka Huarcaya  </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> US04</th>
+     <th colspan="3"> Sección Colabora</th>
+      <th> W04  </th>
+     <th> Colabora Section </th>
+     <th> Implementar la sección Colabora con la finalidad de orientar al usuario sobre nuestros servicios   </th>
+     <th> 2  </th>
+     <th> Frida Dam </th> 
+     <th> Done </th>
+   </tr>
+     </tr>
+     <tr>
+      <th> US05</th>
+     <th colspan="3"> Sección Hero</th>
+      <th> W05  </th>
+     <th> Hero Section </th>
+     <th> Implementar la sección hero donde ofrecemos una breve descripción sobre nuestra startup.   </th>
+     <th> 2  </th>
+     <th> Carlos Adrianzen </th> 
+     <th> Done </th>
+   </tr>
+  <tr>
+   <tr>
+      <th> US17</th>
+     <th colspan="3"> Compatibilidad con diferentes dispositivos </th>
+      <th> W06  </th>
+     <th> Landing Page </th>
+     <th> Adaptar la comptabilidad del landing page a diferentes dispositivos.   </th>
+     <th> 2.5  </th>
+     <th> Christopher  More </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> US18 </th>
+     <th colspan="3"> Accesibilidad en el Landing page</th>
+      <th> W07  </th>
+     <th> Landing Page </th>
+     <th> Mejorar la accesibilidad en la landing page pensando en un diseño inclusivo.   </th>
+     <th> 2  </th>
+     <th> Niurka Huarcaya </th> 
+     <th> Done </th>
+   </tr>
+      <th> US06</th>
+     <th colspan="3"> Asignación de Rol </th>
+      <th> W08  </th>
+     <th> User Bounded Context </th>
+     <th> Implementar los roles de usuarios en la aplicación  </th>
+     <th> 3  </th>
+     <th> Frida Dam </th> 
+     <th> Done </th>
+   </tr>
+   </tr>
+      <th> US07</th>
+     <th colspan="3"> Configuración de Perfil de Usuario </th>
+      <th> W09  </th>
+     <th> User Bounded Context </th>
+     <th> Implementar la configuracion de perfil para un usuario   </th>
+     <th> 3  </th>
+     <th> Carlos Adrianzen </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> US08 </th>
+     <th colspan="3"> Sube tus libros</th>
+      <th> W10  </th>
+     <th> Content Bounded Context </th>
+     <th> Implementar la opción la opción de subir libros   </th>
+     <th> 4  </th>
+     <th> Christopher  More </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US09 </th>
+     <th colspan="3"> Colaboración con Ilustradores</th>
+      <th> W11  </th>
+     <th> Collaboration Bounded Context </th>
+     <th> Implementar un chat collaborativo entre artistas y escritores   </th>
+     <th> 3  </th>
+     <th> Niurka Huarcaya </th> 
+     <th> Done </th>
+   </tr>
+
+</table>
+
 #### 5.2.2. Implemented Landing Page Evidence
 Para la implementación de la landing page, se optó por Netlify, una plataforma que simplifica el despliegue de sitios web al integrarse con repositorios Git. Esto permite realizar actualizaciones automáticas cada vez que se modifica el código, asegurando que los cambios se reflejen de manera inmediata en producción.
 
