@@ -1075,9 +1075,11 @@ Respecto a su perfil, todos destacan la importancia de incluir elementos como po
 Además, valoran funciones como estadísticas de perfil, contratos integrados y, en algunos casos, estarían dispuestos a pagar una suscripción premium si esta les garantiza mayores beneficios como una mejor exposición y protección legal.
 
 ### 2.3. Needfinding
+
 #### 2.3.1. User Personas
-<br>
+
 ![image](https://github.com/user-attachments/assets/3c384944-5bf8-4559-83a2-f56d10f7b1cd)
+
 ![image](https://github.com/user-attachments/assets/6de8ca35-97b5-4ddd-917b-15c7cecfc637)
 
 #### 2.3.2. User Task Matrix
@@ -1097,30 +1099,31 @@ Además, valoran funciones como estadísticas de perfil, contratos integrados y,
 #### 2.3.3. User Journey Mapping
 
 **Ilustrador:**
-<br>
+
 ![autor (2)](https://github.com/user-attachments/assets/f87bfb64-3545-4337-a19b-d62e0cfac4ae)
 
 **Escritor:**
-<br>
+
 ![autor](https://github.com/user-attachments/assets/b83dbaa8-f27b-4f3e-a350-a8fd5ca2b008)
 
 #### 2.3.4. Empathy Mapping
+
 **Escritor**
-<br>
+
 ![empathy map autor](https://github.com/user-attachments/assets/4423b371-9535-47cf-af65-0ed0c3f08458)
 
 **Ilsutrador**
-<br>
+
 ![empathy map ilustrador](https://github.com/user-attachments/assets/3fee20fa-195f-468f-a1d6-b2129566c053)
 
 
 #### 2.3.5. As-is Scenario Mapping
 **Escritor**
-<br>
+
 ![as is escritor](https://github.com/user-attachments/assets/67945867-482a-4811-99c2-3f3bcd40c6f6)
 
 **Ilustrador**
-<br>
+
 ![as is ilustrador](https://github.com/user-attachments/assets/574dffa9-a36d-49ba-bed6-7e06db85b098)
 
 ### 2.4. Ubiquitous Language
@@ -1157,15 +1160,15 @@ Además, valoran funciones como estadísticas de perfil, contratos integrados y,
 
 
 ## Capítulo III: Requirements Specification
-# Capítulo III: Requirements Specification
+
 ## 3.1. To-Be Scenario Mapping
 
 **Autor:**
-<br>
+
 ![to be escritor](https://github.com/user-attachments/assets/a8f7d240-80cd-4381-b507-1e6493a795c9)
 
 **Ilustrador:**
-<br>
+
 ![to be ilustrador](https://github.com/user-attachments/assets/bf90d974-0b01-4d37-9cbf-f8a14bb8989e)
 
 
