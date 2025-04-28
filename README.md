@@ -901,7 +901,38 @@ Como escritor, ¿Qué opciones de interacción usted considera más relevantes a
 
 #### 2.2.2. Registro de entrevistas
 **Segmento 01: Escritor**
-**Entrevistado 01: Katia Asenjo Rodríguez**
+
+**Entrevistado 01: David Antonio Reggategui**
+- **Sexo**: Masculino
+- **Edad**: 23
+- **Distrito donde vive**: Santiago de Surco
+- **Nivel socioeconómico**: Medio
+
+**Entrevista**:
+![image](https://github.com/user-attachments/assets/2cbfb381-a253-4f84-a05a-8d5a62026892)
+
+- **Link**: https://drive.google.com/file/d/1NVs0f2xDyYzhDVAR1mXMOByoJFjKieiB/view?usp=drive_link 
+- **Duración**: 4min
+- **Aplicaciones Usadas**: Zoom  
+- **Tecnologías**: Laptop  
+- **Entrevistador**: Frida Sofia Dam Rubianes  
+
+### Resumen:
+David es un joven escritor independiente de 23 años que estudia comunicaciones. Durante la entrevista, compartió lo que busca en una plataforma de lectura en línea y lo que necesita como autor para crecer y conectar con más lectores.
+
+En primer lugar, David quiere que la plataforma sea fácil de usar, tanto para quienes escriben como para quienes leen. También considera importante que tenga variedad de contenidos y que sea segura para publicar.
+
+Sobre cómo le gustaría ganar dinero con sus libros, menciona varias opciones: recibir pagos por cada compra, por anuncios que muestran si el libro es gratuito, o por donaciones de los lectores. Esto muestra que necesita formas flexibles para monetizar su trabajo.
+
+Respecto a la colaboración con ilustradores, David cree que debe haber una comunicación rápida y clara, ya sea por chat, videollamada o en persona. También dice que las ilustraciones ayudan a que el libro sea más dinámico y fácil de entender.
+
+Para llegar a más personas, considera importante que la plataforma crezca y que atraiga a más usuarios con contenido diverso. Le gustaría ofrecer a sus lectores una muestra gratuita del libro, como las primeras páginas, antes de que decidan comprarlo.
+
+En su día a día como escritor, David usa herramientas como Google Docs para escribir, Notion para organizarse, y Hemingway para mejorar su estilo. También promociona sus libros por redes sociales, foros y en eventos presenciales.
+
+Por último, destaca que la opinión de otros escritores y lectores es muy valiosa para él, ya que le ayuda a corregir errores y tener nuevas ideas.
+
+**Entrevistado 02: Katia Asenjo Rodríguez**
 
 - **Sexo**: Femenino
 - **Edad**: 22
@@ -929,35 +960,31 @@ También le gustó la recomendación de libros por género, ya que considera que
 Finalmente, valoró que la interfaz sea clara y accesible, con títulos bien identificados y todas las funciones al alcance de manera sencilla.  
 En resumen, Katia necesita una plataforma que le facilite encontrar ilustradores, organizar y editar sus historias, colaborar con otros artistas y llegar a más lectores. Además, valora mucho que la web sea intuitiva y práctica.
 
-**Entrevistado 02: David Antonio Reggategui**
-- **Sexo**: Masculino
-- **Edad**: 23
-- **Distrito donde vive**: Santiago de Surco
-- **Nivel socioeconómico**: Medio
+**Entrevistado 03:** Rodrigo Andres Oblitas
 
-**Entrevista**:
-![image](https://github.com/user-attachments/assets/2cbfb381-a253-4f84-a05a-8d5a62026892)
+- **Sexo:** Masculino
+- **Edad:** 25
+- **Distrito donde vive:** Santiago de Surco
+- **Nivel socioeconómico:** Medio
 
-- **Link**:  
-- **Duración**: 4min
-- **Aplicaciones Usadas**: Zoom  
-- **Tecnologías**: Laptop  
-- **Entrevistador**: Frida Sofia Dam Rubianes  
+**Entrevista:**
+![image](https://github.com/user-attachments/assets/4fde8cbd-391a-42da-a111-6d3a88982b8e)
 
-### Resumen:
-David es un joven escritor independiente de 23 años que estudia comunicaciones. Durante la entrevista, compartió lo que busca en una plataforma de lectura en línea y lo que necesita como autor para crecer y conectar con más lectores.
 
-En primer lugar, David quiere que la plataforma sea fácil de usar, tanto para quienes escriben como para quienes leen. También considera importante que tenga variedad de contenidos y que sea segura para publicar.
+- **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218352_upc_edu_pe/EGYaHxtqFluCjbBT8ckPgFtPqbLkmGJTPCgF2WrdkNqg?
+- **Duración:** 5:50 min
+- **Aplicaciones Usadas:** Zoom
+- **Tecnologías:** Laptop
+- **Entrevistador:** Frida Sofía Dam Rubianes
 
-Sobre cómo le gustaría ganar dinero con sus libros, menciona varias opciones: recibir pagos por cada compra, por anuncios que muestran si el libro es gratuito, o por donaciones de los lectores. Esto muestra que necesita formas flexibles para monetizar su trabajo.
+**Resumen:**
+El escritor Rodrigo Oblitas está en busca de una plataforma de lectura en línea que le brinde mayor visibilidad a sus obras, proteja sus derechos de autor y le proporcione herramientas para evaluar el impacto de su trabajo. Destaca como esencial que la plataforma ofrezca diversas formas de monetización, como ventas directas, suscripciones y donaciones voluntarias de los lectores.
 
-Respecto a la colaboración con ilustradores, David cree que debe haber una comunicación rápida y clara, ya sea por chat, videollamada o en persona. También dice que las ilustraciones ayudan a que el libro sea más dinámico y fácil de entender.
+En cuanto a la colaboración con ilustradores, valora contar con canales de comunicación directa y espacios que permitan compartir y discutir ideas visuales. Para ampliar su audiencia, considera fundamentales las recomendaciones personalizadas, etiquetas específicas por género y funciones que faciliten el compartir contenido en redes sociales.
 
-Para llegar a más personas, considera importante que la plataforma crezca y que atraiga a más usuarios con contenido diverso. Le gustaría ofrecer a sus lectores una muestra gratuita del libro, como las primeras páginas, antes de que decidan comprarlo.
+Rodrigo también desea ofrecer beneficios a sus lectores, como adelantos gratuitos, contenido exclusivo e interacciones en vivo para promover sus obras. Además, destaca que las ilustraciones enriquecen la experiencia del lector, haciendo que la publicación sea más atractiva.
 
-En su día a día como escritor, David usa herramientas como Google Docs para escribir, Notion para organizarse, y Hemingway para mejorar su estilo. También promociona sus libros por redes sociales, foros y en eventos presenciales.
-
-Por último, destaca que la opinión de otros escritores y lectores es muy valiosa para él, ya que le ayuda a corregir errores y tener nuevas ideas.
+En la actualidad, utiliza redes sociales, blogs, eventos virtuales y colaboraciones para promocionar sus libros. Ha utilizado herramientas como Scrivener, Grammarly y Wattpad, que le han ayudado a organizar, corregir y difundir sus escritos. Finalmente, resalta que la retroalimentación de sus lectores y otros escritores es crucial para mejorar y fortalecer sus historias, y prefiere herramientas de escritura que sean simples, versátiles y accesibles en diferentes dispositivos.
 
 
 **Segmento 02: Ilustrador**
@@ -979,6 +1006,49 @@ Por último, destaca que la opinión de otros escritores y lectores es muy valio
 ### Resumen:
 El entrevistado se muestra interesado en la constante comunicación entre ilustrador y escritor, esto debido a que permite organizar de mejor manera
 el avance del proyecto.
+
+Entrevistado 02: Diana Vera Benavides
+
+- **Sexo:** Femenino
+- **Edad:** 21
+- **Distrito donde vive:** Jesús María
+- **Nivel socioeconómico:** Medio
+
+**Entrevista:**
+![image](https://github.com/user-attachments/assets/06c82ad2-56a9-46ee-a14a-b0da9ebcbb3b)
+
+- **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218352_upc_edu_pe/EQEGYaHxtqFIuHjbBT8ckPgFtPqdLkmGJTsCOFNWrTkNqg?
+- **Duración:** 3:50 min
+- **Aplicaciones Usadas:** Zoom
+- **Tecnologías:** Laptop
+- **Entrevistador:** Frida Sofía Dam Rubianes
+
+**Resumen:**
+Diana necesita una plataforma donde pueda mostrar su portafolio de manera profesional, tener más visibilidad y destacarse, incluso si es nueva. Valora mucho contar con herramientas de comunicación directa con los escritores, como un chat integrado, y la posibilidad de compartir avances y comentarios en tiempo real para mantener un seguimiento claro de los proyectos.
+
+También busca que la app le permita organizar su trabajo fácilmente, con funciones como listas de tareas o notificaciones de avances. Para ella es importante que su perfil de ilustradora incluya una presentación completa: su portafolio, especialidades, precios aproximados, disponibilidad y una breve descripción personal. Además, le gustaría poder interactuar con los lectores, ya que eso le daría más exposición y retroalimentación sobre su arte.
+
+La seguridad en los pagos es otra de sus prioridades; desea tener garantías de que el pago será seguro y de preferencia contar con algún tipo de contrato o acuerdo dentro de la plataforma. A la hora de elegir proyectos, le gustaría filtrar las propuestas basándose en su interés personal en las historias. Además, considera que valdría la pena pagar por una suscripción si eso le ayuda a tener más visibilidad en las búsquedas y acceder a más oportunidades de trabajo. Finalmente, busca un sistema de compensación claro y justo, ya que no quiere trabajar de manera gratuita.
+
+Entrevistado 03: Andres Salazar Monte
+
+- **Sexo:** Masculino
+- **Edad:** 23
+- **Distrito donde vive:** La Molina
+- **Nivel socioeconómico:** Medio
+
+**Entrevista:**
+![image](https://github.com/user-attachments/assets/e08d1ead-b2fa-47ef-8429-b8726be60d18)
+
+- **Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218352_upc_edu_pe/EQEGYaHqdVLJSkmMCpWpPu18nYfImphhcHwyxUwIXPaQM?
+- **Duración:** 3:40 min
+- **Aplicaciones Usadas:** Zoom
+- **Tecnologías:** Laptop
+- **Entrevistador:** Frida Sofía Dam Rubianes
+
+**Resumen:**
+El ilustrador Andrés Salazar sugiere varias funcionalidades para mejorar la aplicación, como un espacio para un portafolio profesional que incluya especialidades, tarifas básicas, idiomas y disponibilidad, además de un sistema de comunicación claro con chat en tiempo real, videollamadas y revisión de avances. Destaca la importancia de asegurar el pago y la firma de contratos dentro de la app, así como contar con un sistema de seguimiento de proyectos que permita organizar y cumplir con los plazos de entrega. También considera útil la visibilidad mediante suscripción, recomendaciones y rankings, y la opción de recibir retroalimentación en tiempo real sobre los borradores. Aunque la interacción con lectores no es su prioridad, valora la posibilidad de recibir comentarios y nuevos encargos. Finalmente, pide herramientas de facturación y un calendario para gestionar los plazos de entrega.
+
 
 
 
