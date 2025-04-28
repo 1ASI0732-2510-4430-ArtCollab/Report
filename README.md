@@ -2838,5 +2838,15 @@ Link de frontend: <a href="https://elegant-beijinho-a167d8.netlify.app/#/registe
 
 ### 5.3. Video About-the-Product
 
-## Avance de Conclusiones, Bibliografía y Anexos
+## Conclusiones y Recomendaciones
+Gracias a este projecto hemos podido identificar la necesidad de crear soluciones que permitean a trabajadores de distintas especialidades conectarse. En este caso, los escritores e ilustradores 
+pueden trabajar juntos para crear nuevo contenido. Así mismo, podemos evidenciar como al ofrecerles libertad, los artistas pueden generar diverso contenido para los gustos de los distintos
+usuarios.
+
+En cuanto a los aspectos a mejorar, sería útil añadir más personalización a la forma en que el ilustrador notifica al escritor, puesto que la comunicación y 
+claridad entre ambos es de gran importancia.
+
+## Anexos
+
+## Bibliografía
 
