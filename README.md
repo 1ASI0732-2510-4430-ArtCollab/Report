@@ -186,11 +186,11 @@ Adrianzen Flores, Carlos Arturo
             Christopher Sebastian More Rondon: En esta entrega fui el encargado de selecciona las user stories para nuestro producto junto con su product backlog, asi como de especificar 
             las desiciones de estilo para la aplicación en moviles, con el obejtivo de darle una buena experiencia al usuario<br>
             Carlos Arturo Adrianzen Flores: En esta entrega fui el encargado de la seccio del analisis competitivo y las entrevistas, ademas de la realizacion de las UX/UI diagrams correspondientes<br>
-            Persona: ..<br>
+            Niurka Lucero Huarcaya Quispe: En esta entrega, elaboré los diagramas de arquitectura que documentan de manera clara y estructurada el funcionamiento del sistema. Además, desarrollé el Sprint Backlog, de manera que la trazabilidad y el cumplimiento de buenas prácticas estén en el proceso de desarrollo.<br>
             Persona: ..<br>
         </td>
         <td>
-            --
+            TB1: Se consideraron las necesidades de los usuarios en todas las fases del desarrollo, desde el diseño de la solución hasta la implementación y el impacto de las decisiones tomadas para la plataforma.
         </td>
     </tr>
     <tr>
@@ -200,11 +200,11 @@ Adrianzen Flores, Carlos Arturo
             Christopher Sebastian More Rondon: Me encargue de crear las user stories, asegurandome de que sean objetivos necesarios para que nuestra aplicación cumpla con los requerimientos
             de los usuario<br>
             Carlos Arturo Adrianzen Flores: Al momento de realizar partes del informe como los diagramas, tuve en cuenta el impacto de las soluciones a nivel global, y como nuestra propia solucion podria llegar a tener dicho impacto.<br>
-            Persona: ..<br>
+            Niurka Lucero Huarcaya Quispe: Me hice cargo de crear diagramas de arquitectura que detallan cómo el sistema interactúa con su entorno y distribuye funcionalidades, lo que me permite evaluar su impacto global, económico, social y ambiental. Además, al gestionar el Sprint Backlog, se priorizaron las tareas teniendo en cuenta estas dimensiones.<br>
             Persona: ..<br>
         </td>
         <td>
-            ---
+            TB1: Se tomaron decisiones conscientes durante el proceso de diseño y desarrollo del producto, considerando cómo nuestras soluciones tecnológicas afectan a las comunidades. Además, en cada etapa, se priorizaron enfoques sostenibles y responsables.
         </td>
     </tr>
 </table>
