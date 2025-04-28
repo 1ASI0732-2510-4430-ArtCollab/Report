@@ -960,8 +960,8 @@ En su día a día como escritor, David usa herramientas como Google Docs para es
 Por último, destaca que la opinión de otros escritores y lectores es muy valiosa para él, ya que le ayuda a corregir errores y tener nuevas ideas.
 
 
-#### 2.2.2. Registro de entrevistas
-**Segmento 01: Ilustrador**
+**Segmento 02: Ilustrador**
+<br>
 **Entrevistado 01: Fabrizio Mori**
 
 - **Sexo**: Masculino
@@ -970,12 +970,15 @@ Por último, destaca que la opinión de otros escritores y lectores es muy valio
 - **Nivel socioeconómico**: Medio
 
 **Entrevista**:
-![image]()
+![image](Images/entrevista_Fabrizio_Mori.png)
 - **Link**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212199_upc_edu_pe/EQEGYqHxcqFIuHjbBT7ckPgBtPqdLkmGJTsCOFNWrTkMqg?e=c1shvi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - **Duración**: 2min
-- **Aplicaciones Usadas**: Discords
+- **Aplicaciones Usadas**: Discord
 - **Tecnologías**: PC
 - **Entrevistador**: Christopher Sebastian More Rondon
+### Resumen:
+El entrevistado se muestra interesado en la constante comunicación entre ilustrador y escritor, esto debido a que permite organizar de mejor manera
+el avance del proyecto.
 
 
 
