@@ -1871,20 +1871,21 @@ Versión Mobile:
 #### 4.3.2. Landing Page Mock-up
 Enlace a la mockup de la Landing Page en Figma: https://www.figma.com/file/P2GY9CsLT82DzIiZEnxhm6/Mockup-Landing-Page-(Vista)?type=design&node-id=0%3A1&mode=design&t=aMu3gnaeqnM4xQgo-1
 
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235653889169293442/Hero.png?ex=663527dc&is=6633d65c&hm=cd960b77b2404b41bca68e03ddbb1d8e73dc5df64187a9175474ac8005c2b20e&=&format=webp&quality=lossless&width=509&height=350" alt="Landing Page Desktop Hero">
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654178156580937/DESCUBRE.png?ex=66352821&is=6633d6a1&hm=3d9ad2994d327be7ff94d7faaccd52a46a141a71a76678427cb697f725b8414c&=&format=webp&quality=lossless&width=234&height=350" alt="Landing Page Desktop DESCUBRE">
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654188592271490/COLABORA.png?ex=66352823&is=6633d6a3&hm=528ff1e37f18d0d5aaf32e91c0e2bf9203bf08da489b6d44b95bb694ba3c0805&=&format=webp&quality=lossless&width=288&height=350" alt="Landing Page Desktop COLABORA">
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654201879826492/Footer.png?ex=66352827&is=6633d6a7&hm=a67a0d6c83c6bb818edafa3f7fab8b4852080e274a344635fa513b546a5578ce&=&format=webp&quality=lossless&width=719&height=172" alt="Landing Page Desktop Footer">
+<img src="https://i.ibb.co/pvpVmTSH/Captura-de-pantalla-2025-04-26-190711.png" alt="Landing Page Desktop Hero">
+<img src="https://i.ibb.co/3m4rxgV3/Captura-de-pantalla-2025-04-26-190746.png" alt="Landing Page Desktop DESCUBRE">
+<br>
+<img src="https://i.ibb.co/mVydnbsk/Captura-de-pantalla-2025-04-26-190827.png" alt="Landing Page Desktop COLABORA">
+<img src="https://i.ibb.co/TMfLLRjz/Captura-de-pantalla-2025-04-26-190918.png" alt="Landing Page Desktop Footer">
 
 Versión Mobile:
 
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654255411466351/Hero-Mobile.png?ex=66352833&is=6633d6b3&hm=987f2a01a3c906a3e577056e3f13823d92a996214308da33abcdb28461f7f48a&=&format=webp&quality=lossless" alt="Landing Page Mobile Hero">
+<img src="https://i.ibb.co/TMdRbhmj/Captura-de-pantalla-2025-04-26-191110.png" alt="Landing Page Mobile Hero">
 <br>
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654270351708180/DESCUBRE-Mobile.png?ex=66352837&is=6633d6b7&hm=6a57a3b4a89a815809f3cf242af959a6561f842cbaa117920023f04e42c378da&=&format=webp&quality=lossless&width=323&height=597" alt="Landing Page Mobile DESCUBRE">
+<img src="https://i.ibb.co/3m4rxgV3/Captura-de-pantalla-2025-04-26-190746.png" alt="Landing Page Mobile DESCUBRE">
 <br>
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654286797705276/COLABORA-Mobile.png?ex=6635283b&is=6633d6bb&hm=28e789b91f9d7b06db5b30fa78852b7efb55922b7e7f549cf997250417c0f2ed&=&format=webp&quality=lossless&width=281&height=597" alt="Landing Page Mobile COLABORA">
+<img src="https://i.ibb.co/mVydnbsk/Captura-de-pantalla-2025-04-26-190827.png" alt="Landing Page Mobile COLABORA">
 <br>
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654303373463594/Footer-Mobile.png?ex=6635283f&is=6633d6bf&hm=b3a44a9a1272e070aeee4de558bda9773bc35de1a460794e2f17d5974b3e5129&=&format=webp&quality=lossless" alt="Landing Page Mobile Footer">
+<img src="https://i.ibb.co/TMfLLRjz/Captura-de-pantalla-2025-04-26-190918.png" alt="Landing Page Mobile Footer">
 
 ### 4.4. Mobile Applications UX/UI Design
 La aplicación móvil de Artweb ha sido diseñada considerando los principios de usabilidad, accesibilidad e inclusión digital. Nuestro objetivo es ofrecer una experiencia intuitiva que potencie el descubrimiento y la publicación de obras ilustradas, fomentando la participación activa de artistas y usuarios.
@@ -1962,51 +1963,52 @@ Los user flows incluyen tanto caminos ideales (happy paths) como caminos alterna
 En esta sección se pueden encontrar los wireframes relacionados a nuestro aplicativo web ArtCollab.
 
 #### Wireframes de la sección Géneros
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654741099544576/Generos.png?ex=663528a7&is=6633d727&hm=b1d0794f30d60b0d5998ce27cf5b53ceddb2cacdb1f809ca40e2ca4cfc031877&=&format=webp&quality=lossless&width=865&height=1002" alt="Web App Desktop Generos">
+<img src="https://i.ibb.co/Y4N6hv30/Captura-de-pantalla-2025-04-26-191617.png" alt="Web App Desktop Generos">
 
 #### Wireframes de la sección Populares
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654728592130068/Populares.png?ex=663528a4&is=6633d724&hm=f9c54739a7cca53e97e5f1230d775a89c2249c43d8b781784c27bda765788dab&=&format=webp&quality=lossless&width=861&height=1002" alt="Web App Desktop Populares">
+<img src="https://i.ibb.co/pG48Dfg/Captura-de-pantalla-2025-04-26-191836.png" alt="Web App Desktop Populares">
 
 #### Wireframes de la sección Suscripciones
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654705385046146/Suscripciones.png?ex=6635289f&is=6633d71f&hm=eaa0c32eebd68f23f6445687cf937a82923ff60cc274f85b860189a2894b2ccc&=&format=webp&quality=lossless&width=1920&height=930" alt="Web App Desktop Suscripciones">
+<img src="https://i.ibb.co/CKrLbJDW/Captura-de-pantalla-2025-04-26-192004.png" alt="Web App Desktop Suscripciones">
 
 #### Wireframes de la sección Monetización
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654692449816730/Monetizacion.png?ex=6635289c&is=6633d71c&hm=f6e9ae61b9b5b5add851f336286808ce9121e2b781788295bd7b20493a12c5da&=&format=webp&quality=lossless&width=756&height=1002" alt="Web App Desktop artistas monetización">
+<img src="https://i.ibb.co/9HPh6TKL/Captura-de-pantalla-2025-04-26-192052.png" alt="Web App Desktop artistas monetización">
 
 #### Wireframes de la sección Artistas
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654680588058644/Artistas.png?ex=66352899&is=6633d719&hm=d4bccda0eef038c37ff2c78eb687212f610f45f15f4ff9535db3c379b9241537&=&format=webp&quality=lossless&width=627&height=1002" alt="Web App Desktop Artistas">
+<img src="https://i.ibb.co/39Kvhg2G/Captura-de-pantalla-2025-04-26-192157.png" alt="Web App Desktop Artistas">
 
 #### Wireframes de la sección inicio de sesión
 <img src="https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Wireframes/Desktop/iniciar-sesion-web.png?raw=true" alt="Web App Desktop Inicio de sesión">
 
 #### Wireframes de la sección registro
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659313616261211/registro-web-app.png?ex=66352ce9&is=6633db69&hm=0afe9beac582f05e5d9a1267d0578a1e5dc344bf064ae113069a66cd6ff80723&=&format=webp&quality=lossless&width=1920&height=934" alt="Web App Desktop Registro">
+<img src="https://i.ibb.co/9kq8pDDn/Captura-de-pantalla-2025-04-26-192301.png" alt="Web App Desktop Registro">
 
 #### Wireframes de la sección recuperar contraseña
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659230418042891/recuperar-contrasena.png?ex=66352cd5&is=6633db55&hm=e9044c6c27fc3910ec7cb4cf642aa534d22e5d8981b0141fba679b8579c81547&=&format=webp&quality=lossless&width=1920&height=933" alt="Web App Desktop Recuperar contraseña">
+<img src="https://i.ibb.co/zTHmZGTH/Captura-de-pantalla-2025-04-26-192341.png" alt="Web App Desktop Recuperar contraseña">
 
 #### Wireframes de la sección perfiles
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659242917204060/perfiles.png?ex=66352cd8&is=6633db58&hm=06477de0575258bd5f7e30c9a744b8f55c4ea7e8e3d916e18d1425ec87528781&=&format=webp&quality=lossless&width=1705&height=1002" alt="Web App Desktop Perfiles">
+<img src="https://i.ibb.co/V0CbL6MH/Captura-de-pantalla-2025-04-26-192445.png" alt="Web App Desktop Perfiles">
 
 #### Wireframes de la sección chat artista
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659253956481044/chat-artista.png?ex=66352cdb&is=6633db5b&hm=18627e23387f30acde77bd444d41db4af7c051d603618b6ff78636678e891648&=&format=webp&quality=lossless&width=1920&height=868" alt="Web App Desktop Chat artista">
+<img src="https://i.ibb.co/XrL7p6zp/Captura-de-pantalla-2025-04-26-192528.png" alt="Web App Desktop Chat artista">
 
 #### Wireframes de la sección historia
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659263473483940/historia.png?ex=66352cdd&is=6633db5d&hm=c8e278cad00e7fdc5278887e8c360fa88d8c8c4cfa32dbeaed34ff47f2e650dd&=&format=webp&quality=lossless&width=1759&height=1002" alt="Web App Desktop Historia">
+<img src="https://i.ibb.co/1JsRNv6h/Captura-de-pantalla-2025-04-26-192715.png" alt="Web App Desktop Historia">
 
 #### Wireframes de la sección publicar libro
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659276538613760/publicar-libro.png?ex=66352ce0&is=6633db60&hm=5a53677cca9eb408f090cb5dea9b3cd064f88513555343e23ae0ce40b154f1c1&=&format=webp&quality=lossless&width=1920&height=766" alt="Web App Desktop Publicar libro">
+<img src="https://i.ibb.co/XxgJQZXs/Captura-de-pantalla-2025-04-26-192757.png" alt="Web App Desktop Publicar libro">
 
 #### Wireframes de la sección editar historia
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659284423905300/Editar-detalles-historia.png?ex=66352ce2&is=6633db62&hm=71aed3128acf03fa052418f08a5f41da7a6972c9de19597a74534acd57e1214a&=&format=webp&quality=lossless&width=1920&height=559" alt="Web App Desktop Editar historia">
+<img src="https://i.ibb.co/cKJZ8vLR/Captura-de-pantalla-2025-04-26-192842.png" alt="Web App Desktop Editar historia">
 
 #### Wireframes de la sección editar perfil escritor/lector
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659293416620142/Editar-perfil-lector-escritor.png?ex=66352ce4&is=6633db64&hm=ec6b3585fbb8ae61c06d8f51bce44176f0387ec295cfac24346f21c2eff95a1f&=&format=webp&quality=lossless&width=1920&height=780" alt="Web App Desktop Editar perfil">
+<img src="https://i.ibb.co/9kJDFs7C/Captura-de-pantalla-2025-04-26-192941.png" alt="Web App Desktop Editar perfil">
 
 #### Wireframes de la sección editar perfil artista
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235659303969488966/Editar-perfil-ilustrador.png?ex=66352ce7&is=6633db67&hm=081afb78ffe1070c8893954487fe810debd06d7f691ac527faac2b6595bc00ec&=&format=webp&quality=lossless&width=1488&height=1002" alt="Web App Desktop Editar artista">
+<img src="https://i.ibb.co/4RLbDRJ1/Captura-de-pantalla-2025-04-26-193033.png" alt="Web App Desktop Editar artista">
 
 Enlace a los wireframes de la App Web en Figma: https://www.figma.com/file/llRxY8xD9zTHhYNwSaoRHP/ArtCollab-WebApp?type=design&node-id=151%3A467&mode=design&t=UfHDditQXtCzv4qd-1
+
 
 #### 4.6.2. Web Applications Wireflow Diagrams
 Enlace a traves de la herramienta LucidChart: https://lucid.app/lucidchart/1f8c4e0b-8101-4166-9a44-dca738736ddd/edit?viewport_loc=2076%2C-7%2C1953%2C988%2C0_0&invitationId=inv_7fd31580-59fc-4cd2-bee3-fc3d15fcfde4
@@ -2091,54 +2093,52 @@ En esta sección se pueden encontrar los Mock-ups relacionados a nuestro aplicat
 
 ### Mock-ups versión Desktop:
 #### Mock-ups de la página principal
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657428088131595/Pagina-principal.png?ex=66352b28&is=6633d9a8&hm=f96d772a5b0048e7fdfe1a0cf87da26672eb14f8225eef05c5bb845ec64bc931&=&format=webp&quality=lossless&width=720&height=308" alt="Web App Page Desktop Main page">
+<img src="https://i.ibb.co/N2J0v3TL/Captura-de-pantalla-2025-04-26-193337.png" alt="Web App Page Desktop Main page">
 
 #### Mock-ups de la sección Géneros
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657452565827696/Generos.png?ex=66352b2e&is=6633d9ae&hm=f0052557e2d40bf0fce243f79d427b1e649b9bb0531019f52235455a7f4a893f&=&format=webp&quality=lossless&width=517&height=603" alt="Web App Desktop Generos">
+<img src="https://i.ibb.co/vCsd9f3m/Captura-de-pantalla-2025-04-26-193418.png" alt="Web App Desktop Generos">
 
 #### Mock-ups de la sección Populares
-<img src="[https://github.com/Open-Source-SW54-Group-3-ArtCollab/Report/blob/develop/assets/images/WebApp-Mockups/Desktop/Populares.png?raw=true](https://media.discordapp.net/attachments/1235639705157107719/1235657473147408458/Populares.png?ex=66352b33&is=6633d9b3&hm=72c7164e8b1649e50ecd74669a85a1d43902c38c2bbcdeecc1b0550f65b00470&=&format=webp&quality=lossless&width=516&height=603)" alt="Web App Desktop Populares">
+<img src="https://i.ibb.co/fYzXMzdn/Captura-de-pantalla-2025-04-26-193503.png" alt="Web App Desktop Populares">
 
 #### Mock-ups de la sección Suscripciones
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657490109038682/Suscripciones.png?ex=66352b37&is=6633d9b7&hm=b024ec3f83e2233c5a21d8a6afc20f61ab79344ab7eccfc37c33a0f6d7abd59a&=&format=webp&quality=lossless&width=720&height=385" alt="Web App Desktop Suscripciones">
+<img src="https://i.ibb.co/b549krp4/Captura-de-pantalla-2025-04-26-193551.png" alt="Web App Desktop Suscripciones">
 
 #### Mock-ups de la sección Monetización
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657505338822666/Monetizacion.png?ex=66352b3a&is=6633d9ba&hm=6c831aad9184b321797b28c15599225d6f3ef5a10f515d3ee6542a36d2120636&=&format=webp&quality=lossless&width=456&height=602" alt="Web App Desktop artistas monetización">
+<img src="https://i.ibb.co/fY5LyyVC/Captura-de-pantalla-2025-04-26-193624.png" alt="Web App Desktop artistas monetización">
 
 #### Mock-ups de la sección Artistas
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657523587977236/Artistas.png?ex=66352b3f&is=6633d9bf&hm=ba3120bd8dcb1ef7f278f3ae72624841f3be788a113213ada7bef0d7eafe6f14&=&format=webp&quality=lossless&width=221&height=350" alt="Web App Desktop Artistas">
+<img src="https://i.ibb.co/fzybw2QB/Captura-de-pantalla-2025-04-26-193720.png" alt="Web App Desktop Artistas">
 
 #### Mock-ups de la sección inicio de sesión
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657545465466964/iniciar-sesion-web.png?ex=66352b44&is=6633d9c4&hm=5054ee3e03999cff2bea0edc6329bd126f9f1a14444400d3dba2e3f5be14f1fa&=&format=webp&quality=lossless&width=481&height=350" alt="Web App Desktop Inicio de sesión">
+<img src="https://i.ibb.co/WWwdrQy2/Captura-de-pantalla-2025-04-26-193810.png" alt="Web App Desktop Inicio de sesión">
 
 #### Mock-ups de la sección registro
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657561034981446/registro-web-app.png?ex=66352b47&is=6633d9c7&hm=e63b89c51dc5f3223ef152e1156da0cf56e49fed89ffcfd31fa3588d3954b4fa&=&format=webp&quality=lossless&width=720&height=357" alt="Web App Desktop Registro">
+<img src="https://i.ibb.co/vCrnHQS7/Captura-de-pantalla-2025-04-26-193849.png" alt="Web App Desktop Registro">
 
 #### Mock-ups de la sección recuperar contraseña
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657587354112000/recuperar-contraseC3B1a.png?ex=66352b4e&is=6633d9ce&hm=382a5b691c8b405a4ad37184ffe410abeb46b86f63751b8277a2a9bd5de5c6b6&=&format=webp&quality=lossless&width=550&height=272" alt="Web App Desktop Recuperar contraseña">
-
-#### Mock-ups de la sección perfiles
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657604341170176/perfiles.png?ex=66352b52&is=6633d9d2&hm=2a2f365a7a05b723f6b659ac910c16a8f0e1f4ff3f2c7ceea94f17274ac1bbe8&=&format=webp&quality=lossless&width=550&height=311" alt="Web App Desktop Perfiles">
+<img src="https://i.ibb.co/5hkjw62h/Captura-de-pantalla-2025-04-26-193926.png" alt="Web App Desktop Recuperar contraseña">
 
 #### Mock-ups de la sección chat artista
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657622372356177/chat-artista.png?ex=66352b56&is=6633d9d6&hm=c7bd643713399f67ebe81a94a1ecbe1560d78f9fe4ad8b5262e31ec5049de8d2&=&format=webp&quality=lossless&width=720&height=326" alt="Web App Desktop Chat artista">
+<img src="https://i.ibb.co/sdB5zBr8/Captura-de-pantalla-2025-04-26-194103.png" alt="Web App Desktop Chat artista">
 
 #### Mock-ups de la sección historia
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657645185306645/historia.png?ex=66352b5c&is=6633d9dc&hm=48d80ade29f57e68a8b5488eafed8edbd76dc7ace8b89d15364a272e6f85d003&=&format=webp&quality=lossless&width=550&height=304" alt="Web App Desktop Historia">
+<img src="https://i.ibb.co/1GshQhz1/Captura-de-pantalla-2025-04-26-194146.png" alt="Web App Desktop Historia">
 
 #### Mock-ups de la sección publicar libro
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657660762947646/publicar-libro.png?ex=66352b5f&is=6633d9df&hm=3e0d0617e7872c4f84f38eca073ec860d58410a8cc8e42ddb137a7293968fa9e&=&format=webp&quality=lossless&width=550&height=218" alt="Web App Desktop Publciar libro">
+<img src="https://i.ibb.co/nqHPzfWm/Captura-de-pantalla-2025-04-26-194230.png" alt="Web App Desktop Publciar libro">
 
 #### Mock-ups de la sección editar historia
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235658744004743290/Editar-detalles-historia.png?ex=66352c62&is=6633dae2&hm=40e77e55f3e7e16d8ec1c34ea34447be45c4771c4dc8502f627c278334939468&=&format=webp&quality=lossless&width=720&height=207" alt="Web App Desktop Editar historia">
+<img src="https://i.ibb.co/SWYH6m3/Captura-de-pantalla-2025-04-26-194322.png" alt="Web App Desktop Editar historia">
 
 #### Mock-ups de la sección editar perfil escritor/lector
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657677359808512/Editar-perfil-lector-escritor.png?ex=66352b63&is=6633d9e3&hm=7abb415af8ca32a0d14785c3d56a1d020ad5137e5446187fda8918446e90d273&=&format=webp&quality=lossless&width=720&height=286" alt="Web App Desktop Editar perfil">
+<img src="https://i.ibb.co/9mWgyfTf/Captura-de-pantalla-2025-04-26-194441.png" alt="Web App Desktop Editar perfil">
 
 #### Mock-ups de la sección editar perfil artista
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235657694375837726/Editar-perfil-ilustrador.png?ex=66352b67&is=6633d9e7&hm=d8210ee69db2efc9cf93981a7aa10732c935c6de228e6b088837d8563fb267c6&=&format=webp&quality=lossless&width=511&height=350" alt="Web App Desktop Editar artista">
+<img src="https://i.ibb.co/F4xfhyb2/Captura-de-pantalla-2025-04-26-194523.png" alt="Web App Desktop Editar artista">
 
-<br>
+Enlace a los mockups de la App Web en Figma: https://www.figma.com/file/llRxY8xD9zTHhYNwSaoRHP/ArtCollab-WebApp?type=design&node-id=0%3A1&mode=design&t=Z0sYOEHMCMKvy3wN-1
+
 #### 4.6.4. Web Applications User Flow Diagrams
 Enlace de los User Flow Diagrams en LucidChart: https://lucid.app/lucidchart/3042a7f1-cfbd-49ad-bb1d-7d5b1e8f9c67/edit?viewport_loc=248%2C38%2C5260%2C2976%2C0_0&invitationId=inv_faedf934-db22-495f-9b16-9d38cb444726
 
