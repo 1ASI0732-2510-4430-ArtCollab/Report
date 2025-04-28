@@ -571,7 +571,7 @@ Link de landing page: https://group2-wx53-si730.netlify.app/#
 #### 5.2.2. Implemented Landing Page Evidence
 Para la implementación de la landing page, se optó por Netlify, una plataforma que simplifica el despliegue de sitios web al integrarse con repositorios Git. Esto permite realizar actualizaciones automáticas cada vez que se modifica el código, asegurando que los cambios se reflejen de manera inmediata en producción.
 
-<img src="https://i.ibb.co/q8f4sDQ/Captura-de-pantalla-2025-04-27-183105.png" alt="Captura-de-pantalla-2025-04-27-183105" border="0"></a>
+<img src="https://i.ibb.co/q8f4sDQ/Captura-de-pantalla-2025-04-27-183105.png" alt="Captura-de-pantalla-2025-04-27-183105" border="0">
 
 Link de landing page: <a href="https://group2-wx53-si730.netlify.app/#">https://group2-wx53-si730.netlify.app/#</a>
 
@@ -584,9 +584,17 @@ Link de frontend: <a href="https://elegant-beijinho-a167d8.netlify.app/#/registe
 
 #### 5.2.4. Implemented Native-Mobile Application Evidence
 #### 5.2.5. Implemented RESTful API and/or Serverless Backend Evidence
+<img src="https://i.ibb.co/prJYkmbh/Captura-de-pantalla-2025-04-27-195306.png" alt="Captura-de-pantalla-2025-04-27-195306" border="0">
 
 #### 5.2.6. RESTful API Documentation
+<img src="https://i.ibb.co/4RwRMkBY/Captura-de-pantalla-2025-04-27-195438.png" alt="Captura-de-pantalla-2025-04-27-195438" border="0">
+
+<img src="https://i.ibb.co/YGNjY80/Captura-de-pantalla-2025-04-27-195521.png" alt="Captura-de-pantalla-2025-04-27-195521" border="0">
+
+<img src="https://i.ibb.co/0RLQ1BgG/Captura-de-pantalla-2025-04-27-195626.png" alt="Captura-de-pantalla-2025-04-27-195626" border="0">
+
 #### 5.2.7. Team Collaboration Insights
+
 ### 5.3. Video About-the-Product
 
 ## Avance de Conclusiones, Bibliografía y Anexos
