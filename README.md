@@ -2837,6 +2837,10 @@ Link de frontend: <a href="https://elegant-beijinho-a167d8.netlify.app/#/registe
 <img src="https://i.ibb.co/kVKhhZqq/Captura-de-pantalla-2025-04-27-225255.png" alt="Captura-de-pantalla-2025-04-27-225255" border="0">
 
 ### 5.3. Video About-the-Product
+Link: https://youtu.be/0QbsG61CKMs 
+![image](https://github.com/user-attachments/assets/4b6b25d3-b9e4-477d-a2f2-174bb3193154)
+![image](https://github.com/user-attachments/assets/5ac7b6d5-0863-42e9-8450-93716677731d)
+
 
 ## Conclusiones y Recomendaciones
 Gracias a este projecto hemos podido identificar la necesidad de crear soluciones que permitean a trabajadores de distintas especialidades conectarse. En este caso, los escritores e ilustradores 
