@@ -2847,7 +2847,7 @@ En cuanto a los aspectos a mejorar, sería útil añadir más personalización a
 claridad entre ambos es de gran importancia.
 
 ## Anexos
-- Video grupal del TB1: 
+- Video grupal del TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212199_upc_edu_pe/Eb280Z89m-ZPmg7ozJnm6hIBNes3VlHld0jLGZFEOL3EcA?e=fc2U6n&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ## Bibliografía
 Codega, L. (2022, junio 15). Webtoon Walks Back 'Side-Hustle' Ad Campaign After Online Fury. Gizmodo.        https://gizmodo.com/webtoon-side-hustle-ad-controversy-apology-1849064106
