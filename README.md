@@ -2711,34 +2711,38 @@ Para la escritura del código en C#, se ha adoptado la convención estándar **M
 
   <li> Accedemos a https://www.netlify.com/ e iniciamos sesión con nuestra cuenta de github, luego seleccionamos la opción de importar un proyecto existente desde git.
 
-  <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/deploy-landingpage/Import-Git-Netlify.png">
+  ![text](Images/CAP5/Import-Git-Netlify.png)
   </li>
 
    <li>Luego seleccionamos la opción de importar desde un repositorio existente de github.
 
-  <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/deploy-landingpage/Deploy-Netlify.png">
+  ![text](Images/CAP5/Deploy-Netlify.png)
   </li>
 
   <li>Despues de seleccionar el repositorio de nuestra landing page, configuramos los detalles de la pagina web.
-  <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/deploy-landingpage/configurationpng.png">
+	  
+  ![text](Images/CAP5/configuration.png)
   </li>
 
   <li>Posteriormente seleccionamos la opción de desplegar nuestra pagina web.
-  <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/deploy-landingpage/Configuration-Part2-Netlify.png">
+	  
+  ![text](Images/CAP5/Configuration-Part2-Netlify.png)
   </li>
 
   <li> Luego de seleccionar la opción de deploy podemos visualizar el proceso de deploy en producción desde el apartado de site overview 
 
-  <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/deploy-landingpage/LandingPageTools.png"/>
+  ![text](Images/CAP5/LandingPageTools.png)
 
   </li>
 
    <li> Posterior al deploy, Netlify verificara si el nombre del dominio ya existe, en dicho caso asignara un nombre por defecto, sin embargo podemos modificar el nombre accediendo a las confguraciones de nuestro deploy.
-  <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/deploy-landingpage/Configuration3.png">
+	   
+  ![text](Images/CAP5/Configuration3.png)
   </li>
 
 <li> Al finalizar el proceso de deploy y configuraciones, podemos visualizar todos los cambios en producción a traves de la opción deploys.
-  <img src="https://raw.githubusercontent.com/Aplicaciones-Web-WX53-Group2-ArtCollab/Report/develop/assets/deploy-landingpage/LangingPageProduction.png"/>
+	
+  ![text](Images/CAP5/LangingPageProduction.png)
 
 </li>
 
@@ -2884,35 +2888,33 @@ Link de landing page: https://group2-wx53-si730.netlify.app/#
 #### 5.2.2. Implemented Landing Page Evidence
 Para la implementación de la landing page, se optó por Netlify, una plataforma que simplifica el despliegue de sitios web al integrarse con repositorios Git. Esto permite realizar actualizaciones automáticas cada vez que se modifica el código, asegurando que los cambios se reflejen de manera inmediata en producción.
 
-<img src="https://i.ibb.co/q8f4sDQ/Captura-de-pantalla-2025-04-27-183105.png" alt="Captura-de-pantalla-2025-04-27-183105" border="0">
+![text](Images/CAP5/LandingPageEvidence.png)
 
 Link de landing page: <a href="https://group2-wx53-si730.netlify.app/#">https://group2-wx53-si730.netlify.app/#</a>
 
 #### 5.2.3. Implemented Frontend-Web Application Evidence
 Para el despliegue del frontend de la aplicación web, se ha utilizado Netlify, una plataforma que permite la implementación sencilla y eficiente de proyectos web. Netlify facilita la integración con repositorios Git, lo que permite actualizar el sitio automáticamente con cada nuevo commit. Además, su infraestructura optimizada proporciona tiempos de carga rápidos y una administración eficiente de recursos, mejorando la accesibilidad y el rendimiento de la aplicación para los usuarios finales.
 
-<img src="https://i.ibb.co/RGMFRWKw/Captura-de-pantalla-2025-04-27-182647.png" alt="Captura-de-pantalla-2025-04-27-182647" border="0"></a>
+![text](Images/CAP5/FrontendEvidence.png)
 
 Link de frontend: <a href="https://elegant-beijinho-a167d8.netlify.app/#/register">https://elegant-beijinho-a167d8.netlify.app/#/register</a>
 
 #### 5.2.4. Implemented Native-Mobile Application Evidence
 #### 5.2.5. Implemented RESTful API and/or Serverless Backend Evidence
-<img src="https://i.ibb.co/prJYkmbh/Captura-de-pantalla-2025-04-27-195306.png" alt="Captura-de-pantalla-2025-04-27-195306" border="0">
+![text](Images/CAP5/BackednEvidence.png)
 
 #### 5.2.6. RESTful API Documentation
-<img src="https://i.ibb.co/4RwRMkBY/Captura-de-pantalla-2025-04-27-195438.png" alt="Captura-de-pantalla-2025-04-27-195438" border="0">
-
-<img src="https://i.ibb.co/YGNjY80/Captura-de-pantalla-2025-04-27-195521.png" alt="Captura-de-pantalla-2025-04-27-195521" border="0">
-
-<img src="https://i.ibb.co/0RLQ1BgG/Captura-de-pantalla-2025-04-27-195626.png" alt="Captura-de-pantalla-2025-04-27-195626" border="0">
+![text](Images/CAP5/API1.png)
+![text](Images/CAP5/API2.png)
+![text](Images/CAP5/API3.png)
 
 #### 5.2.7. Team Collaboration Insights
-<img src="https://i.ibb.co/kVKhhZqq/Captura-de-pantalla-2025-04-27-225255.png" alt="Captura-de-pantalla-2025-04-27-225255" border="0">
+![text](Images/CAP5/Insights.png)
 
 ### 5.3. Video About-the-Product
 Link: https://youtu.be/0QbsG61CKMs 
-![image](https://github.com/user-attachments/assets/4b6b25d3-b9e4-477d-a2f2-174bb3193154)
-![image](https://github.com/user-attachments/assets/5ac7b6d5-0863-42e9-8450-93716677731d)
+![text](Images/CAP5/VAP1.png)
+![text](Images/CAP5/VAP2.png)
 
 
 ## Conclusiones y Recomendaciones
