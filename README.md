@@ -2949,6 +2949,15 @@ Link: https://youtu.be/0QbsG61CKMs
 ## Capítulo VII: DevOps Practices
 
 ### 7.1. Continuos Integration
+En el desarrollo y prueba de software, resulta fundamental emplear herramientas y métodos que garanticen tanto la calidad del código como la eficiencia del equipo. En nuestro flujo de trabajo, incorporamos una variedad de herramientas que facilitan la creación y validación de las funcionalidades, asegurando que el comportamiento de la aplicación cumpla con lo esperado. Estas herramientas se integran a lo largo de las diferentes etapas del ciclo de vida del software, desde la codificación hasta la ejecución de pruebas y la automatización de procesos.
+
+Utilizamos enfoques como el Desarrollo Guiado por el Comportamiento (BDD) y el Desarrollo Guiado por Pruebas (TDD), lo que nos permite asegurar que nuestras soluciones respondan a las necesidades del cliente y se mantengan dentro de altos estándares técnicos. Entre las herramientas más relevantes que empleamos se encuentran:
+
+| Herramienta | Tipo                        | Descripción                                                                 | Propósito                                                                                     |
+|-------------|-----------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| NUnit       | Herramienta de pruebas (TDD) | Framework para C# que permite verificar unidades individuales de código.   | Facilita la creación y ejecución de pruebas para confirmar que los métodos funcionen bien.    |
+| Mockito     | Herramienta de simulación (TDD) | Librería para simular objetos en pruebas unitarias en Java.                | Permite replicar el comportamiento de dependencias externas para realizar pruebas más aisladas. |
+| Gherkin     | Herramienta de BDD           | Lenguaje de texto estructurado que permite escribir escenarios comprensibles por todos. | Facilita la definición de comportamientos esperados del sistema, alineando desarrollo con negocio. |
 
 #### 7.1.1. Tools and Practices
 
