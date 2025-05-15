@@ -2949,6 +2949,8 @@ Link: https://youtu.be/0QbsG61CKMs
 ## Capítulo VII: DevOps Practices
 
 ### 7.1. Continuos Integration
+
+#### 7.1.1. Tools and Practices
 En el desarrollo y prueba de software, resulta fundamental emplear herramientas y métodos que garanticen tanto la calidad del código como la eficiencia del equipo. En nuestro flujo de trabajo, incorporamos una variedad de herramientas que facilitan la creación y validación de las funcionalidades, asegurando que el comportamiento de la aplicación cumpla con lo esperado. Estas herramientas se integran a lo largo de las diferentes etapas del ciclo de vida del software, desde la codificación hasta la ejecución de pruebas y la automatización de procesos.
 
 Utilizamos enfoques como el Desarrollo Guiado por el Comportamiento (BDD) y el Desarrollo Guiado por Pruebas (TDD), lo que nos permite asegurar que nuestras soluciones respondan a las necesidades del cliente y se mantengan dentro de altos estándares técnicos. Entre las herramientas más relevantes que empleamos se encuentran:
@@ -2959,13 +2961,29 @@ Utilizamos enfoques como el Desarrollo Guiado por el Comportamiento (BDD) y el D
 | Mockito     | Herramienta de simulación (TDD) | Librería para simular objetos en pruebas unitarias en Java.                | Permite replicar el comportamiento de dependencias externas para realizar pruebas más aisladas. |
 | Gherkin     | Herramienta de BDD           | Lenguaje de texto estructurado que permite escribir escenarios comprensibles por todos. | Facilita la definición de comportamientos esperados del sistema, alineando desarrollo con negocio. |
 
-#### 7.1.1. Tools and Practices
-
 #### 7.1.2. Build & Test Suite Pipeline Components
 
 ### 7.2. Continuos Delivery
 
 #### 7.2.1. Tools and Practices
+## Herramientas
+
+- **Git**: Se empleó Git como sistema de control de versiones. Facilitó el manejo del código fuente, la colaboración entre los miembros del equipo y el seguimiento de cambios a través de pull requests.
+  
+- **GitHub**: Se empleó GitHub como plataforma de alojamiento del repositorio. Facilitó el manejo del código fuente, la colaboración entre los miembros del equipo y el seguimiento de cambios a través de pull requests.
+
+- **Netlify**: La página de aterrizaje fue publicada usando Netlify, lo cual permitió compartirla públicamente de forma rápida y sin requerir infraestructura propia.
+
+- **Docker**: Se utilizó Docker para empaquetar los servicios web dentro de contenedores, garantizando que pudieran ejecutarse en cualquier entorno compatible, con portabilidad, aislamiento y facilidad de despliegue.
+
+## Prácticas
+
+- **Uso de Ramas**: Se gestionó el desarrollo mediante una rama principal y ramas independientes para nuevas funcionalidades. Cada rama era revisada y fusionada a través de pull requests, lo que ayudó a mantener la calidad del código y evitar errores.
+
+- **Integración Continua (CI)**: Se configuró la ejecución automática de pruebas al hacer push a una rama o crear un pull request. Esto permitió detectar posibles fallos rápidamente y evitar que el código nuevo afectara funcionalidades previas.
+
+- **Entrega Continua (CD) con Docker**: Las nuevas versiones de la aplicación se generaban como contenedores Docker y se desplegaban en entornos de prueba (staging). Esto simulaba condiciones de producción y facilitaba una validación rápida y confiable antes de lanzar a producción.
+
 
 #### 7.2.2. Stage Deployment Pipeline Components
 
