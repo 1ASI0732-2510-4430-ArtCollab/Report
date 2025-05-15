@@ -2962,6 +2962,11 @@ Utilizamos enfoques como el Desarrollo Guiado por el Comportamiento (BDD) y el D
 | Gherkin     | Herramienta de BDD           | Lenguaje de texto estructurado que permite escribir escenarios comprensibles por todos. | Facilita la definición de comportamientos esperados del sistema, alineando desarrollo con negocio. |
 
 #### 7.1.2. Build & Test Suite Pipeline Components
+Se emplearon herramientas como NUnit y Moq para implementar pruebas automatizadas, tanto unitarias como de integración, sobre la API RESTful, asegurando así la calidad del código como parte del proceso de integración continua.
+
+Además, se empleó el lenguaje **Gherkin** para definir escenarios de prueba bajo el enfoque de **Desarrollo Guiado por Comportamiento (BDD)**. Esto permitió verificar que el sistema respondiera correctamente según los casos de uso y las historias de usuario planteadas.  
+
+Por otro lado, las **pruebas funcionales** fueron automatizadas utilizando **Selenium**, una herramienta que facilita la simulación de acciones del usuario en aplicaciones web, asegurando que las funcionalidades clave operen como se espera en entornos reales.
 
 ### 7.2. Continuos Delivery
 
