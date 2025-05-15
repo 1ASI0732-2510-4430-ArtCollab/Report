@@ -3020,9 +3020,25 @@ El despliegue del producto **ArtCollab** se gestiona mediante un pipeline automa
 
 ### 7.3. Continuos Deployment
 
-#### 7.2.1. Tools and Practices
+#### 7.3.1. Tools and Practices
 
-#### 7.2.2. Production Deployment Pipeline Components
+### Backend
+
+Una vez que se construye la imagen Docker con la versión actual del backend, esta puede implementarse tanto en entornos de prueba como en producción. Esto simplifica el proceso de entrega continua, asegurando que el entorno probado sea el mismo que se pone en producción, gracias a la portabilidad de la imagen.
+
+### Frontend (Landing Page y Aplicación Web)
+
+Para la landing page y la app web desarrollada con Vue.js, se utilizó **Netlify**. Esta plataforma detecta automáticamente nuevos commits en la rama `main` y ejecuta los scripts de construcción. Una vez completado el proceso, los archivos estáticos resultantes se despliegan de forma automática.
+
+### Herramientas Usadas
+
+- **Netlify**: Para el despliegue automático del frontend.
+- **Vue.js**: Framework utilizado para desarrollar la aplicación web.
+- **GitHub**: Para alojar el repositorio y gestionar el control de versiones.
+- **Docker**: Usado para contenerizar el backend y facilitar su despliegue.
+
+
+#### 7.3.2. Production Deployment Pipeline Components
 
 
 
