@@ -3040,6 +3040,36 @@ Para la landing page y la app web desarrollada con Vue.js, se utilizó **Netlify
 
 #### 7.3.2. Production Deployment Pipeline Components
 
+### Pipeline del Backend (.NET + Docker)
+
+- **Empaquetado con Docker**: El backend, desarrollado en .NET, fue encapsulado en una imagen Docker para garantizar su ejecución en cualquier entorno compatible con Docker.
+
+- **Generación de Imagen**: Cada vez que se realiza una modificación en el repositorio, se genera una nueva imagen Docker con la versión más reciente del backend.
+
+- **Despliegue en Producción**: Esta imagen se implementa directamente en el entorno productivo mediante Docker, asegurando coherencia entre entornos, facilidad de mantenimiento y portabilidad.
+
+---
+
+### Pipeline de la Landing Page (Netlify)
+
+- **Monitoreo de Cambios en GitHub**: Netlify está enlazado al repositorio de la landing page. Al detectar nuevos commits en la rama `main`, inicia automáticamente el proceso de construcción.
+
+- **Construcción del Sitio**: Se ejecuta el comando `npm run build` para compilar el sitio y generar los archivos estáticos necesarios.
+
+- **Despliegue Automatizado**: Al finalizar la compilación, Netlify publica la nueva versión de la landing page automáticamente.
+
+- **Distribución Global**: La página es entregada a través de la red CDN de Netlify, lo que mejora la velocidad de carga y disponibilidad a nivel mundial.
+
+---
+
+### Pipeline de la Aplicación Web (Vue + Netlify)
+
+- **Compilación de Vue**: Netlify detecta nuevos commits en la rama `main` y ejecuta automáticamente la compilación de la versión productiva (`npm run build`) de la app desarrollada en Vue.
+
+- **Publicación en Producción**: La versión actualizada de la aplicación se despliega automáticamente y se encuentra disponible para los usuarios.
+
+- **Actualización Instantánea**: Netlify gestiona el borrado de caché y entrega la nueva versión a través de su CDN, asegurando que los usuarios accedan siempre a la última versión disponible.
+
 
 
 ## Conclusiones y Recomendaciones
