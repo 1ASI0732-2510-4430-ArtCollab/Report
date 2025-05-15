@@ -2982,6 +2982,28 @@ Se realizaron integration test para verificar el correcto llamado de los servici
 
 #### 6.1.3. Core Behavior-Driven Development
 
+El desarrollo sigue la estructura de **Given-When-Then**, asegurando que los casos reflejen el comportamiento esperado por los usuarios e ilustradores dentro de la aplicación.  
+
+Se presentan los escenarios en formato visual para facilitar su análisis:
+
+1. Landing page
+   ![landing-page-features](Images/Cap6/BDD/landing-page-features.png)
+
+2. Gestión del perfil
+   ![gestion-perfil-features](Images/Cap6/BDD/gestion-perfil-features.png)
+
+3. Contenido
+   ![content-features](Images/Cap6/BDD/contenido-features.png)
+
+4. Visibilidad
+   ![visibility-features](Images/Cap6/BDD/visibility-features.png)
+
+5. Descubrimiento
+   ![descubrir-features](Images/Cap6/BDD/descubrir-features.png)
+
+6. Monetización
+   ![monetizacion-features](Images/Cap6/BDD/monetizacion-features.png)
+
 #### 6.1.4. Core System Tests
  
 ## Capítulo VII: DevOps Practices
