@@ -2940,7 +2940,45 @@ Link: https://youtu.be/0QbsG61CKMs
 
 #### 6.1.1. Core Entities Unit Tests
 
+Se realizaron Unit Test para comprobar la creacion de los distintos objetos
+
+**Comentarios:**
+
+![comment test](Images/Cap6/unitTests/commentTest.png)
+
+**Comision:**
+
+![commision test](Images/Cap6/unitTests/commisionTest.png)
+
+**Lector:**
+
+![lector test 1](Images/Cap6/unitTests/readerTest1.png)
+
+![lector test 2](Images/Cap6/unitTests/readerTest2.png)
+
+**Subscriptor:**
+
+![subscription test](Images/Cap6/unitTests/subscriptionTest.png)
+
+**Template:**
+
+![template test 1](Images/Cap6/unitTests/templateTest1.png)
+
+![template test 2](Images/Cap6/unitTests/templateTest2.png)
+
+**Resultados:**
+
+![results](Images/Cap6/unitTests/executionTest.png)
+
 #### 6.1.2. Core Integration Tests
+
+Se realizaron integration test para verificar el correcto llamado de los servicios para crear o modificar objetos
+
+**Comment Service:**
+
+![comment service 1](Images/Cap6/integrationTests/testCommentService1.png)
+
+![comment service 2](Images/Cap6/integrationTests/testCommentService2.png)
 
 #### 6.1.3. Core Behavior-Driven Development
 
