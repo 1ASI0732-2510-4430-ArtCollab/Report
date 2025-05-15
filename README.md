@@ -2987,6 +2987,37 @@ Utilizamos enfoques como el Desarrollo Guiado por el Comportamiento (BDD) y el D
 
 #### 7.2.2. Stage Deployment Pipeline Components
 
+## Proceso de Despliegue de ArtCollab
+
+El despliegue del producto **ArtCollab** se gestiona mediante un pipeline automatizado, diseñado para asegurar la calidad, eficiencia y control en cada entrega. Este proceso consta de las siguientes fases:
+
+### 1. Etapa de Construcción (Build)
+
+- Se generan las imágenes Docker para cada microservicio a partir de sus respectivos Dockerfile.
+- Esta fase garantiza que todas las dependencias estén correctamente configuradas y que el código pueda ejecutarse en un entorno estándar y reproducible.
+
+### 2. Etapa de Pruebas (Test)
+
+- Se ejecutan pruebas unitarias y, cuando corresponda, pruebas de integración para validar la lógica del negocio.
+- Se comprueba la respuesta adecuada de los endpoints y la interacción entre los servicios.
+
+### 3. Etapa de Publicación (Push)
+
+- Las imágenes Docker que han pasado las pruebas se suben a un registro de contenedores.
+- Esto permite gestionar versiones, reutilizar imágenes y facilitar su despliegue en diferentes entornos.
+
+### 4. Etapa de Despliegue (Deploy)
+
+- Utilizamos **Render** para realizar el despliegue automático de los microservicios.
+- Se configuran variables de entorno, rutas de acceso y la conexión con la base de datos PostgreSQL.
+- Cada servicio se despliega de forma independiente, manteniendo la comunicación entre ellos.
+
+### 5. Etapa Post-Despliegue (Post-Deployment)
+
+- Se ejecutan pruebas rápidas (smoke tests) para verificar que los servicios funcionen correctamente.
+- A través de las herramientas de monitoreo de Render, se supervisa el estado de los servicios, asegurando que las APIs estén operativas y accesibles.
+
+
 ### 7.3. Continuos Deployment
 
 #### 7.2.1. Tools and Practices
