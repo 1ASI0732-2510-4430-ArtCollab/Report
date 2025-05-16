@@ -3015,7 +3015,7 @@ El objetivo de estas pruebas fue asegurarse del flujo de navegación correcto de
 
   <br>
 
-  ![system-test2](Images/Cap6/BDD/System-test2.png)
+  ![system-test2](Images/Cap6/BDD/system-test2.png)
 
  
 ## Capítulo VII: DevOps Practices
