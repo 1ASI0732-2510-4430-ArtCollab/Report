@@ -1982,7 +1982,7 @@ Hero Section:
 <img src="Images/Wireframes/LPMobile_Colabora.jpg" alt="Landing Page Mobile Hero Wireframe">
 
 Descubre Section:
-<img src="Images/Wireframes/LPMobile_Descbure.jpg" alt="Landing Page Mobile DESCUBRE Wireframe">
+<img src="Images/Wireframes/LPMobile_Descubre.jpg" alt="Landing Page Mobile DESCUBRE Wireframe">
 
 Colabora Section:
 <img src="Images/Wireframes/LPMobile_Colabora.jpg" alt="Landing Page Mobile COLABORA Wireframe">
