@@ -1974,12 +1974,12 @@ Colabora Section:
 <img src="Images/Wireframes/LP_Colabora.jpg">
 
 Footer Section:
-<img src="Images/Wireframes/LP_Colabora.jpg" alt="Landing Page Footer Wireframe">
+<img src="Images/Wireframes/LP_Footer.jpg" alt="Landing Page Footer Wireframe">
 
 Versión Mobile:
 
 Hero Section:
-<img src="Images/Wireframes/LPMobile_Colabora.jpg" alt="Landing Page Mobile Hero Wireframe">
+<img src="Images/Wireframes/LPMobile_Hero.jpg" alt="Landing Page Mobile Hero Wireframe">
 
 Descubre Section:
 <img src="Images/Wireframes/LPMobile_Descubre.jpg" alt="Landing Page Mobile DESCUBRE Wireframe">
