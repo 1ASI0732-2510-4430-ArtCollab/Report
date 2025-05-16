@@ -2769,6 +2769,7 @@ Link de landing page: https://group2-wx53-si730.netlify.app/#
 
 ### 5.2. Product Implementation & Deployment
 #### 5.2.1. Sprint Backlogs
+#### 5.2.1.1 Sprint 1
 <table style="width:400px; height:100px;"> 
    <tr>
       <th colspan="4"> Sprint # </th>
@@ -2900,6 +2901,131 @@ Link de landing page: https://group2-wx53-si730.netlify.app/#
      <th> Done </th>
    </tr>
 
+</table>
+
+#### 5.2.1.2 Sprint 2
+
+<table>
+<tbody>
+    <tr>
+        <th colspan="7" valign="top">Sprint 2</th>
+    </tr>
+    <tr>
+        <td colspan="2" valign="top">User Story</td>
+        <td colspan="6" valign="top">Work-Item / Task</td>
+    </tr>
+    <tr>
+        <td valign="top">Id</td>
+        <td valign="top">Title</td>
+        <td valign="top">Id</td>
+        <td valign="top">Title</td>
+        <td valign="top">Description</td>
+        <td valign="top">Estimation (Hours)</td>
+        <td valign="top">Assigned To</td><td valign="top"><p dir="auto">Status </p><p dir="auto">(To-do/In Process/To Review /Done)</p></td>
+    </tr>
+    <tr>
+        <td rowspan="2" valign="top">US08</td>
+        <td rowspan="2" valign="top">Sube tus libros</td>
+        <td valign="top">W01</td>
+        <td valign="top">Prueba de creación de template</td>
+        <td valign="top">Verificar que el template se cree correctamente con datos</td>
+        <td valign="top">2</td>
+        <td valign="top">Christopher More</td>
+        <td valign="top">Done</td>
+    </tr>
+  <tr>
+    <td valign="top">W02</td>
+        <td valign="top">Prueba de creación vacía</td>
+        <td valign="top">Validar que la entidad de teamplate se genere correctamente sin datos iniciales</td>
+        <td valign="top">2</td>
+        <td valign="top">Christopher More</td>
+        <td valign="top">Done</td>
+  </tr>
+  <tr>
+        <td rowspan="3" valign="top">US14</td>
+        <td rowspan="3" valign="top">Dejar comentarios</td>
+        <td valign="top">W03</td>
+        <td valign="top">Prueba de contenido de comentario</td>
+        <td valign="top">Validar que el contenido guardado sea el esperado</td>
+        <td valign="top">1.5</td>
+        <td valign="top">Christopher More</td>
+        <td valign="top">Done</td>
+    </tr>
+  <tr>
+    <td valign="top">W04</td>
+        <td valign="top">Prueba de tiempo de respuesta</td>
+        <td valign="top">Confirmar que la creación de comentario no tarde más de un minuto</td>
+        <td valign="top">1.5</td>
+        <td valign="top">Christopher More</td>
+        <td valign="top">Done</td>
+  </tr>
+   <tr>
+    <td valign="top">W05</td>
+        <td valign="top">Prueba de integración</td>
+        <td valign="top">Probar el servicio de comentarios en creación y actualización</td>
+        <td valign="top">2</td>
+        <td valign="top">Christopher More</td>
+        <td valign="top">Done</td>
+  </tr>
+    <tr>
+        <td rowspan="2" valign="top">US15</td>
+        <td rowspan="2" valign="top"> Ingreso por ilustraciones</td>
+        <td valign="top">W06</td>
+        <td valign="top">Prueba de comisión</td>
+        <td valign="top">Validar que la cantidad y contenido de la comisión sean correctos</td>
+        <td valign="top">2.5</td>
+        <td valign="top">Frida Dam</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+    <td valign="top">W07</td>
+        <td valign="top">Prueba de tiempo de creación</td>
+        <td valign="top">Confirmar que la comisión se cree en menos de un minuto</td>
+        <td valign="top">1.5</td>
+        <td valign="top">Frida Dam</td>
+        <td valign="top">Done</td>
+  </tr>
+    <tr>
+        <td rowspan="1" valign="top">US06</td>
+        <td rowspan="1" valign="top">Asignación de Rol</td>
+        <td valign="top">W08</td>
+        <td valign="top">Prueba de creación de lector</td>
+        <td valign="top">Validar que el usuario sea registrado como lector correctamente</td>
+        <td valign="top">2</td>
+        <td valign="top">Carlos Adrianzen</td>
+        <td valign="top">Done</td>
+    </tr>
+    <tr>
+        <td rowspan="1" valign="top">US16</td>
+        <td rowspan="1" valign="top">Flexibilidad al ilustrar</td>
+        <td valign="top">W09</td>
+        <td valign="top">Prueba de creación de entidad</td>
+        <td valign="top">Validar la creación de portafolio con datos</td>
+        <td valign="top">2</td>
+        <td valign="top">Carlos Adrianzen</td>
+        <td valign="top">In-process</td>
+    </tr>
+        <tr>
+        <td rowspan="1" valign="top">US13</td>
+        <td rowspan="1" valign="top">Desbloqueo de capítulos</td>
+        <td valign="top">W10</td>
+        <td valign="top">Prueba de creación de suscripción</td>
+        <td valign="top">Verificar si la suscripción se activa correctamente</td>
+        <td valign="top">2</td>
+        <td valign="top">Niurka Huarcaya</td>
+        <td valign="top">Done</td>
+    </tr>
+   <tr>
+        <td rowspan="1" valign="top">US12</td>
+        <td rowspan="1" valign="top">Diversos géneros literarios</td>
+        <td valign="top">W11</td>
+        <td valign="top">Validación de la navegación entre géneros</td>
+        <td valign="top">Confirmar que la transición entre géneros es fluida y sin errores</td>
+        <td valign="top">2.5</td>
+        <td valign="top">Niurka Huarcaya</td>
+        <td valign="top">In process</td>
+    </tr>
+</tbody>
 </table>
 
 #### 5.2.2. Implemented Landing Page Evidence
