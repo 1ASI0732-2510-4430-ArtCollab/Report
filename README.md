@@ -1980,6 +1980,10 @@ Footer Section:
 
 <img src="Images/Wireframes/LP_Footer.jpg" alt="Landing Page Footer Wireframe">
 
+
+
+
+
 Versión Mobile:
 
 Hero Section:
@@ -2006,6 +2010,9 @@ Enlace a la mockup de la Landing Page en Figma: https://www.figma.com/file/P2GY9
 <br>
 <img src="https://i.ibb.co/mVydnbsk/Captura-de-pantalla-2025-04-26-190827.png" alt="Landing Page Desktop COLABORA">
 <img src="https://i.ibb.co/TMfLLRjz/Captura-de-pantalla-2025-04-26-190918.png" alt="Landing Page Desktop Footer">
+
+
+
 
 Versión Mobile:
 
@@ -2997,6 +3004,10 @@ claridad entre ambos es de gran importancia.
 
 ## Anexos
 - Video grupal del TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212199_upc_edu_pe/Eb280Z89m-ZPmg7ozJnm6hIBNes3VlHld0jLGZFEOL3EcA?e=fc2U6n&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+- Landing page deployada: https://group2-wx53-si730.netlify.app/#
+
+-FrontEnd deployado: https://elegant-beijinho-a167d8.netlify.app/#/register
 
 ## Bibliografía
 Codega, L. (2022, junio 15). Webtoon Walks Back 'Side-Hustle' Ad Campaign After Online Fury. Gizmodo.        https://gizmodo.com/webtoon-side-hustle-ad-controversy-apology-1849064106
