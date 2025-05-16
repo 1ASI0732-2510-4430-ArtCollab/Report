@@ -179,31 +179,46 @@
         <td>4.c.1 Reconoce responsabilidad ética y profesional en situaciones de ingenieria de software</td>
         <td>
             TB1: <br>
-            Christopher Sebastian More Rondon: En esta entrega fui el encargado de selecciona las user stories para nuestro producto junto con su product backlog, asi como de especificar 
-            las desiciones de estilo para la aplicación en moviles, con el obejtivo de darle una buena experiencia al usuario<br>
-            Carlos Arturo Adrianzen Flores: En esta entrega fui el encargado de la seccio del analisis competitivo y las entrevistas, ademas de la realizacion de las UX/UI diagrams correspondientes<br>
+            Christopher Sebastian More Rondon: En esta entrega fui el encargado de seleccionar las user stories para nuestro producto junto con su product backlog, así como de especificar 
+            las decisiones de estilo para la aplicación en móviles, con el objetivo de darle una buena experiencia al usuario.<br>
+            Carlos Arturo Adrianzen Flores: En esta entrega fui el encargado de la sección del análisis competitivo y las entrevistas, además de la realización de los UX/UI diagrams correspondientes.<br>
             Niurka Lucero Huarcaya Quispe: En esta entrega, elaboré los diagramas de arquitectura que documentan de manera clara y estructurada el funcionamiento del sistema. Además, desarrollé el Sprint Backlog, de manera que la trazabilidad y el cumplimiento de buenas prácticas estén en el proceso de desarrollo.<br>
-            Frida Sofia Dam Rubianes: En esta entrega, participé en la definición de criterios de calidad y validación para las funcionalidades del sistema, asegurándome de que cumplan con los principios éticos y profesionales de la ingeniería de software. Además, colaboré en la revisión de los entregables del equipo para garantizar que reflejen buenas prácticas de desarrollo y un compromiso real con la responsabilidad hacia los usuarios finales.<br>
+            Frida Sofia Dam Rubianes: En esta entrega, participé en la definición de criterios de calidad y validación para las funcionalidades del sistema, asegurándome de que cumplan con los principios éticos y profesionales de la ingeniería de software. Además, colaboré en la revisión de los entregables del equipo para garantizar que reflejen buenas prácticas de desarrollo y un compromiso real con la responsabilidad hacia los usuarios finales.<br><br>
+
+            TB2: <br>
+            Christopher Sebastian More Rondon: Se encargó de los apartados 3.1 (To-Be Scenario Mapping), 5.2.1 (Sprint Backlogs), 5.2.2 (Landing Page Evidence), y 7.1.1 (CI Tools and Practices).<br>
+            Carlos Arturo Adrianzen Flores: Desarrolló los puntos 3.2 (User Stories), 5.2.3 (Frontend-Web App Evidence), 5.2.6 (API documentation) y 7.2.1 (CD Tools and Practices).<br>
+            Niurka Lucero Huarcaya Quispe: Se encargó de los apartados 3.3 (Product Backlog), 5.2.4 (Mobile App Evidence), 6.1.1 (Unit Tests), y 7.3.1 (CDP Tools and Practices).<br>
+            Frida Sofia Dam Rubianes: Desarrolló los puntos 3.4 (Impact Mapping), 5.2.5 (RESTful API Evidence), 6.1.2 (Integration Tests) y 7.3.2 (Production Deployment Pipeline Components).<br>
         </td>
         <td>
-            TB1: Se consideraron las necesidades de los usuarios en todas las fases del desarrollo, desde el diseño de la solución hasta la implementación y el impacto de las decisiones tomadas para la plataforma.
+            TB1: Se consideraron las necesidades de los usuarios en todas las fases del desarrollo, desde el diseño de la solución hasta la implementación y el impacto de las decisiones tomadas para la plataforma.<br>
+            TB2: Cada integrante asumió con responsabilidad el desarrollo de partes clave del sistema, aplicando buenas prácticas profesionales. Se priorizó la calidad del código, la trazabilidad y el cumplimiento de criterios técnicos, asegurando que el producto sea funcional, mantenible y alineado con principios éticos de la ingeniería de software.
         </td>
     </tr>
     <tr>
         <td>4.c.2 Emite juicios informados considerando el impacto de las soluciones de Ingenieria de software en contextos globales, económicos, ambientales y sociales</td>
         <td>
             TB1: <br>
-            Christopher Sebastian More Rondon: Me encargue de crear las user stories, asegurandome de que sean objetivos necesarios para que nuestra aplicación cumpla con los requerimientos
-            de los usuario<br>
-            Carlos Arturo Adrianzen Flores: Al momento de realizar partes del informe como los diagramas, tuve en cuenta el impacto de las soluciones a nivel global, y como nuestra propia solucion podria llegar a tener dicho impacto.<br>
+            Christopher Sebastian More Rondon: Me encargué de crear las user stories, asegurándome de que sean objetivos necesarios para que nuestra aplicación cumpla con los requerimientos
+            de los usuarios.<br>
+            Carlos Arturo Adrianzen Flores: Al momento de realizar partes del informe como los diagramas, tuve en cuenta el impacto de las soluciones a nivel global, y cómo nuestra propia solución podría llegar a tener dicho impacto.<br>
             Niurka Lucero Huarcaya Quispe: Me hice cargo de crear diagramas de arquitectura que detallan cómo el sistema interactúa con su entorno y distribuye funcionalidades, lo que me permite evaluar su impacto global, económico, social y ambiental. Además, al gestionar el Sprint Backlog, se priorizaron las tareas teniendo en cuenta estas dimensiones.<br>
-            Frida Sofia Dam Rubianes: En esta entrega, analicé los posibles efectos de nuestra solución en diferentes contextos, enfocándome en cómo el diseño y las funcionalidades propuestas podrían influir en la accesibilidad y sostenibilidad del producto. Asimismo, aporté en la planificación de tareas, priorizando aquellas que maximicen el valor social y económico para los usuarios, sin comprometer la responsabilidad ambiental. ..<br>
+            Frida Sofia Dam Rubianes: En esta entrega, analicé los posibles efectos de nuestra solución en diferentes contextos, enfocándome en cómo el diseño y las funcionalidades propuestas podrían influir en la accesibilidad y sostenibilidad del producto. Asimismo, aporté en la planificación de tareas, priorizando aquellas que maximicen el valor social y económico para los usuarios, sin comprometer la responsabilidad ambiental.<br><br>
+
+            TB2: <br>
+            Christopher Sebastian More Rondon: Evaluó el impacto del mapeo de escenarios To-Be y la visibilidad del producto (landing page) en contextos sociales reales, así como la necesidad de integración continua responsable.<br>
+            Carlos Arturo Adrianzen Flores: Analizó la relación entre la documentación API y la eficiencia global del sistema, asegurando un diseño accesible y sostenible para diversas comunidades.<br>
+            Niurka Lucero Huarcaya Quispe: Consideró el impacto social del desarrollo móvil, de las pruebas unitarias y del despliegue continuo en comunidades remotas y contextos económicos restringidos.<br>
+            Frida Sofia Dam Rubianes: Evaluó el uso de pruebas de integración y despliegue a producción desde una perspectiva de sostenibilidad y confiabilidad, considerando el impacto ambiental del ciclo de vida del software.<br>
         </td>
         <td>
-            TB1: Se tomaron decisiones conscientes durante el proceso de diseño y desarrollo del producto, considerando cómo nuestras soluciones tecnológicas afectan a las comunidades. Además, en cada etapa, se priorizaron enfoques sostenibles y responsables.
+            TB1: Se tomaron decisiones conscientes durante el proceso de diseño y desarrollo del producto, considerando cómo nuestras soluciones tecnológicas afectan a las comunidades. Además, en cada etapa, se priorizaron enfoques sostenibles y responsables.<br>
+            TB2: El equipo fue consciente del impacto de cada funcionalidad desarrollada, evaluando cómo estas podrían escalarse en diferentes contextos sociales, económicos y tecnológicos. Se buscó constantemente un equilibrio entre funcionalidad, accesibilidad y sostenibilidad.
         </td>
     </tr>
 </table>
+
   
 ---
 
