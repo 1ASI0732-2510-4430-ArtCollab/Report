@@ -3007,7 +3007,7 @@ claridad entre ambos es de gran importancia.
 
 - Landing page deployada: https://group2-wx53-si730.netlify.app/#
 
--FrontEnd deployado: https://elegant-beijinho-a167d8.netlify.app/#/register
+- FrontEnd deployado: https://elegant-beijinho-a167d8.netlify.app/#/register
 
 ## Bibliografía
 Codega, L. (2022, junio 15). Webtoon Walks Back 'Side-Hustle' Ad Campaign After Online Fury. Gizmodo.        https://gizmodo.com/webtoon-side-hustle-ad-controversy-apology-1849064106
