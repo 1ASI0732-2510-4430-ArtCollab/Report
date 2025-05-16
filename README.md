@@ -1964,20 +1964,31 @@ Enlace a los Wireframes de la Landing Page en Figma: https://www.figma.com/file/
 
 Versión Desktop:
 
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235653889169293442/Hero.png?ex=680e725c&is=680d20dc&hm=decdf2c169d5882883bc2b478ea7b11bdb66cc2789beab504993d69d0bd4fa46&=&format=webp&quality=lossless&width=1047&height=719" alt="Landing Page Hero Wireframe">
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654178156580937/DESCUBRE.png?ex=680e72a1&is=680d2121&hm=4d35739d5dcd6365ea35acf8408d8b66997e1be136753b3dbd12f133f648ab26&=&format=webp&quality=lossless&width=480&height=717" alt="Landing Page DESCUBRE Wireframe">
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654188592271490/COLABORA.png?ex=680e72a3&is=680d2123&hm=e621d322732a1686f444c78fda689185e5ad2b8b5e8b0f5fc92930460dc88269&=&format=webp&quality=lossless&width=591&height=719" alt="Landing Page COLABORA Wireframe">
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654201879826492/Footer.png?ex=680e72a7&is=680d2127&hm=b1b99f68523e1b23d3128c19b970eefc4060f6d488188a4bd09035c3a907a243&=&format=webp&quality=lossless&width=1500&height=359" alt="Landing Page Footer Wireframe">
+Hero Section:
+<img src="Images/Wireframes/LP_HeroSection.jpg" alt="Landing Page Hero Wireframe">
+
+Descubre Section:
+<img src="Images/Wireframes/LP_Descubre.jpg" alt="Landing Page DESCUBRE Wireframe">
+
+Colabora Section:
+<img src="Images/Wireframes/LP_Colabora.jpg">
+
+Footer Section:
+<img src="Images/Wireframes/LP_Colabora.jpg" alt="Landing Page Footer Wireframe">
 
 Versión Mobile:
 
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654255411466351/Hero-Mobile.png?ex=680e72b3&is=680d2133&hm=d5eff7edb5b68676d8c94b46c1fe600b04a0c1953d5c018e72152da93537e068&=&format=webp&quality=lossless&width=645&height=483" alt="Landing Page Mobile Hero Wireframe">
-<br>
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654270351708180/DESCUBRE-Mobile.png?ex=680e72b7&is=680d2137&hm=c49e35c7e7d1408a2d06c6c3ea83f212bdaababa171281b35c50babf63d8d6e5&=&format=webp&quality=lossless&width=390&height=719" alt="Landing Page Mobile DESCUBRE Wireframe">
-<br>
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654286797705276/COLABORA-Mobile.png?ex=680e72bb&is=680d213b&hm=3d4dfc2e6c96628ac3443c6453f0e63e938964c7ddecbd06c0843a89cf3ff137&=&format=webp&quality=lossless&width=339&height=719" alt="Landing Page Mobile COLABORA Wireframe">
-<br>
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654303373463594/Footer-Mobile.png?ex=680e72bf&is=680d213f&hm=c28fd72480baba918565da70daacf669773648f090430f8444dd71bb6e679d88&=&format=webp&quality=lossless&width=645&height=603" alt="Landing Page Mobile Footer Wireframe">
+Hero Section:
+<img src="Images/Wireframes/LPMobile_Colabora.jpg" alt="Landing Page Mobile Hero Wireframe">
+
+Descubre Section:
+<img src="Images/Wireframes/LPMobile_Descbure.jpg" alt="Landing Page Mobile DESCUBRE Wireframe">
+
+Colabora Section:
+<img src="Images/Wireframes/LPMobile_Colabora.jpg" alt="Landing Page Mobile COLABORA Wireframe">
+
+Footer Section:
+<img src="Images/Wireframes/LPMobile_Footer.jpg">
 
 #### 4.3.2. Landing Page Mock-up
 Enlace a la mockup de la Landing Page en Figma: https://www.figma.com/file/P2GY9CsLT82DzIiZEnxhm6/Mockup-Landing-Page-(Vista)?type=design&node-id=0%3A1&mode=design&t=aMu3gnaeqnM4xQgo-1
