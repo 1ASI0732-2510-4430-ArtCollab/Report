@@ -110,7 +110,7 @@
   - [4.2.5. Navigation Systems](#425-navigation-systems)
 - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
   - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
-  - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up.
+  - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up.)
 - [4.4. Mobile Applications UX/UI Design](#44-mobile-applications-uxui-design)
   - [4.4.1. Mobile Applications Wireframes](#441-mobile-applications-wireframes)
   - [4.4.2. Mobile Applications Wireflow Diagrams](#442-mobile-applications-wireflow-diagrams)
