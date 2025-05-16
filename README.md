@@ -269,7 +269,7 @@ Ser reconocidos como la plataforma líder en Latinoamérica —con enfoque inici
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="Arturo.jpg" alt="Carlos Arturo" style="margin-bottom: 5px;" width="600"/>
+            <img src="images/team/Arturo.jpg" alt="Carlos Arturo" style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -3008,6 +3008,7 @@ claridad entre ambos es de gran importancia.
 - Landing page deployada: https://group2-wx53-si730.netlify.app/#
 
 - FrontEnd deployado: https://elegant-beijinho-a167d8.netlify.app/#/register
+
 
 ## Bibliografía
 Codega, L. (2022, junio 15). Webtoon Walks Back 'Side-Hustle' Ad Campaign After Online Fury. Gizmodo.        https://gizmodo.com/webtoon-side-hustle-ad-controversy-apology-1849064106
