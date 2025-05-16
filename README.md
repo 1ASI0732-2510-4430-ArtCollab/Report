@@ -1965,29 +1965,37 @@ Enlace a los Wireframes de la Landing Page en Figma: https://www.figma.com/file/
 Versión Desktop:
 
 Hero Section:
+
 <img src="Images/Wireframes/LP_HeroSection.jpg" alt="Landing Page Hero Wireframe">
 
 Descubre Section:
+
 <img src="Images/Wireframes/LP_Descubre.jpg" alt="Landing Page DESCUBRE Wireframe">
 
 Colabora Section:
+
 <img src="Images/Wireframes/LP_Colabora.jpg">
 
 Footer Section:
+
 <img src="Images/Wireframes/LP_Footer.jpg" alt="Landing Page Footer Wireframe">
 
 Versión Mobile:
 
 Hero Section:
+
 <img src="Images/Wireframes/LPMobile_Hero.jpg" alt="Landing Page Mobile Hero Wireframe">
 
 Descubre Section:
+
 <img src="Images/Wireframes/LPMobile_Descubre.jpg" alt="Landing Page Mobile DESCUBRE Wireframe">
 
 Colabora Section:
+
 <img src="Images/Wireframes/LPMobile_Colabora.jpg" alt="Landing Page Mobile COLABORA Wireframe">
 
 Footer Section:
+
 <img src="Images/Wireframes/LPMobile_Footer.jpg">
 
 #### 4.3.2. Landing Page Mock-up
