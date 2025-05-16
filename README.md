@@ -3005,6 +3005,18 @@ Se presentan los escenarios en formato visual para facilitar su análisis:
    ![monetizacion-features](Images/Cap6/BDD/monetizacion-features.png)
 
 #### 6.1.4. Core System Tests
+
+El objetivo de estas pruebas fue asegurarse del flujo de navegación correcto de la página web. Se probó con Selenium si:
+- Los enlaces están correctamente configurados.
+- La navegación dentro de la plataforma es intuitiva y funcional.
+- La URL se actualiza conforme a la interacción del usuario.
+  
+  ![system-test1](Images/Cap6/BDD/System-test1.png)
+
+  <br>
+
+  ![system-test2](Images/Cap6/BDD/System-test2.png)
+
  
 ## Capítulo VII: DevOps Practices
 
