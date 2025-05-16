@@ -64,6 +64,10 @@ Dam Rubianes, Frida Sofia
 
 Adrianzen Flores, Carlos Arturo
 
+Huarcaya Quispe, Niurka Lucero
+
+More Rondon, Christopher Sebastian
+
 3er integrante
 
 4to integrante
