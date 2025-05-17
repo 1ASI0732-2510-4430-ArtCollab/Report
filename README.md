@@ -144,10 +144,11 @@
   - [5.2.1. Sprint Backlogs](#521-sprint-backlogs)
   - [5.2.2. Implemented Landing Page Evidence](#522-implemented-landing-page-evidence)
   - [5.2.3. Implemented Frontend-Web Application Evidence](#523-implemented-frontend-web-application-evidence)
-  - [5.2.4. Implemented Native-Mobile Application Evidence](#524-implemented-native-mobile-application-evidence)
-  - [5.2.5. Implemented RESTful API and/or Serverless Backend Evidence](#525-implemented-restful-api-andor-serverless-backend-evidence)
-  - [5.2.6. RESTful API Documentation](#526-restful-api-documentation)
-  - [5.2.7. Team Collaboration Insights](#527-team-collaboration-insights)
+  - [5.2.4. Acuerdo de Servicio - SaaS](#524-acuerdo-de-servicio-saas)
+  - [5.2.5. Implemented Native-Mobile Application Evidence](#525-implemented-native-mobile-application-evidence)
+  - [5.2.6. Implemented RESTful API and/or Serverless Backend Evidence](#526-implemented-restful-api-andor-serverless-backend-evidence)
+  - [5.2.7. RESTful API Documentation](#527-restful-api-documentation)
+  - [5.2.8. Team Collaboration Insights](#528-team-collaboration-insights)
 - [5.3. Video About-the-Product](#53-video-about-the-product)
 ## [Capítulo VI: Product Verification & Validation](#capítulo-vi-product-verification-&-validation)
 - [6.1. Testing Suites & Validation](#61-testing-suites-&-validation)
@@ -2921,16 +2922,20 @@ Para el despliegue del frontend de la aplicación web, se ha utilizado Netlify, 
 
 Link de frontend: <a href="https://elegant-beijinho-a167d8.netlify.app/#/register">https://elegant-beijinho-a167d8.netlify.app/#/register</a>
 
-#### 5.2.4. Implemented Native-Mobile Application Evidence
-#### 5.2.5. Implemented RESTful API and/or Serverless Backend Evidence
+#### 5.2.4. Acuerdo de Servicio - SaaS
+
+El usuario tiene el derecho de usar nuestra aplicación para publicar sus textos y dibujos, así como tener chats con otros usuarios y mirar sus creaciones. Nos reservamos el derecho a eliminar una cuenta si detectamos que el contenido publicado, o una de sus conversaciones son inadecuadas. Así mismo, tenemos el derecho de eliminar cualquier historia considerada inapropiada. Finalmente, el usuario tiene la obligación de proteger su información personal y evitar filtrarla a desconocidos.
+
+#### 5.2.5. Implemented Native-Mobile Application Evidence
+#### 5.2.6. Implemented RESTful API and/or Serverless Backend Evidence
 ![text](Images/CAP5/BackednEvidence.png)
 
-#### 5.2.6. RESTful API Documentation
+#### 5.2.7. RESTful API Documentation
 ![text](Images/CAP5/API1.png)
 ![text](Images/CAP5/API2.png)
 ![text](Images/CAP5/API3.png)
 
-#### 5.2.7. Team Collaboration Insights
+#### 5.2.8. Team Collaboration Insights
 ![text](Images/CAP5/Insights.png)
 
 ### 5.3. Video About-the-Product
