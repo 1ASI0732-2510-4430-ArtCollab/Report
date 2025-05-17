@@ -184,7 +184,12 @@
             las desiciones de estilo para la aplicación en moviles, con el obejtivo de darle una buena experiencia al usuario<br>
             Carlos Arturo Adrianzen Flores: En esta entrega fui el encargado de la seccio del analisis competitivo y las entrevistas, ademas de la realizacion de las UX/UI diagrams correspondientes<br>
             Niurka Lucero Huarcaya Quispe: En esta entrega, elaboré los diagramas de arquitectura que documentan de manera clara y estructurada el funcionamiento del sistema. Además, desarrollé el Sprint Backlog, de manera que la trazabilidad y el cumplimiento de buenas prácticas estén en el proceso de desarrollo.<br>
-            Frida Sofia Dam Rubianes: En esta entrega, participé en la definición de criterios de calidad y validación para las funcionalidades del sistema, asegurándome de que cumplan con los principios éticos y profesionales de la ingeniería de software. Además, colaboré en la revisión de los entregables del equipo para garantizar que reflejen buenas prácticas de desarrollo y un compromiso real con la responsabilidad hacia los usuarios finales.<br>
+            Frida Sofia Dam Rubianes: En esta entrega, participé en la definición de criterios de calidad y validación para las funcionalidades del sistema, asegurándome de que cumplan con los principios éticos y profesionales de la ingeniería de software. Además, colaboré en la revisión de los entregables del equipo para garantizar que reflejen buenas prácticas de desarrollo y un compromiso real con la responsabilidad hacia los usuarios finales.<br><br>
+	    TP: <br>
+            Christopher Sebastian More Rondon: Me encargué de desarrollar los unit tests e integration tests, asegurandome de que estos verifiquen funciones clave del programa para asegurar estar creando un beun producto.<br>
+            Carlos Arturo Adrianzen Flores: <br>
+            Niurka Lucero Huarcaya Quispe: <br>
+            Frida Sofia Dam Rubianes: <br>
         </td>
         <td>
             TB1: Se consideraron las necesidades de los usuarios en todas las fases del desarrollo, desde el diseño de la solución hasta la implementación y el impacto de las decisiones tomadas para la plataforma.
@@ -198,7 +203,12 @@
             de los usuario<br>
             Carlos Arturo Adrianzen Flores: Al momento de realizar partes del informe como los diagramas, tuve en cuenta el impacto de las soluciones a nivel global, y como nuestra propia solucion podria llegar a tener dicho impacto.<br>
             Niurka Lucero Huarcaya Quispe: Me hice cargo de crear diagramas de arquitectura que detallan cómo el sistema interactúa con su entorno y distribuye funcionalidades, lo que me permite evaluar su impacto global, económico, social y ambiental. Además, al gestionar el Sprint Backlog, se priorizaron las tareas teniendo en cuenta estas dimensiones.<br>
-            Frida Sofia Dam Rubianes: En esta entrega, analicé los posibles efectos de nuestra solución en diferentes contextos, enfocándome en cómo el diseño y las funcionalidades propuestas podrían influir en la accesibilidad y sostenibilidad del producto. Asimismo, aporté en la planificación de tareas, priorizando aquellas que maximicen el valor social y económico para los usuarios, sin comprometer la responsabilidad ambiental. ..<br>
+            Frida Sofia Dam Rubianes: En esta entrega, analicé los posibles efectos de nuestra solución en diferentes contextos, enfocándome en cómo el diseño y las funcionalidades propuestas podrían influir en la accesibilidad y sostenibilidad del producto. Asimismo, aporté en la planificación de tareas, priorizando aquellas que maximicen el valor social y económico para los usuarios, sin comprometer la responsabilidad ambiental.<br><br>
+	    TP: <br>
+            Christopher Sebastian More Rondon: Realizé los tests con el objetivo de asegurarle al usuario un buen producto final, centrandome en probar funciones clave para la aplicación.<br>
+            Carlos Arturo Adrianzen Flores: <br>
+            Niurka Lucero Huarcaya Quispe: <br>
+            Frida Sofia Dam Rubianes: <br>
         </td>
         <td>
             TB1: Se tomaron decisiones conscientes durante el proceso de diseño y desarrollo del producto, considerando cómo nuestras soluciones tecnológicas afectan a las comunidades. Además, en cada etapa, se priorizaron enfoques sostenibles y responsables.
