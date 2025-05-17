@@ -3159,20 +3159,129 @@ El objetivo de estas pruebas fue asegurarse del flujo de navegación correcto de
 ### 7.1. Continuos Integration
 
 #### 7.1.1. Tools and Practices
+En el desarrollo y prueba de software, resulta fundamental emplear herramientas y métodos que garanticen tanto la calidad del código como la eficiencia del equipo. En nuestro flujo de trabajo, incorporamos una variedad de herramientas que facilitan la creación y validación de las funcionalidades, asegurando que el comportamiento de la aplicación cumpla con lo esperado. Estas herramientas se integran a lo largo de las diferentes etapas del ciclo de vida del software, desde la codificación hasta la ejecución de pruebas y la automatización de procesos.
+
+Utilizamos enfoques como el Desarrollo Guiado por el Comportamiento (BDD) y el Desarrollo Guiado por Pruebas (TDD), lo que nos permite asegurar que nuestras soluciones respondan a las necesidades del cliente y se mantengan dentro de altos estándares técnicos. Entre las herramientas más relevantes que empleamos se encuentran:
+
+| Herramienta | Tipo                        | Descripción                                                                 | Propósito                                                                                     |
+|-------------|-----------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| NUnit       | Herramienta de pruebas (TDD) | Framework para C# que permite verificar unidades individuales de código.   | Facilita la creación y ejecución de pruebas para confirmar que los métodos funcionen bien.    |
+| Mockito     | Herramienta de simulación (TDD) | Librería para simular objetos en pruebas unitarias en Java.                | Permite replicar el comportamiento de dependencias externas para realizar pruebas más aisladas. |
+| Gherkin     | Herramienta de BDD           | Lenguaje de texto estructurado que permite escribir escenarios comprensibles por todos. | Facilita la definición de comportamientos esperados del sistema, alineando desarrollo con negocio. |
 
 #### 7.1.2. Build & Test Suite Pipeline Components
+Se emplearon herramientas como NUnit y Moq para implementar pruebas automatizadas, tanto unitarias como de integración, sobre la API RESTful, asegurando así la calidad del código como parte del proceso de integración continua.
+
+Además, se empleó el lenguaje **Gherkin** para definir escenarios de prueba bajo el enfoque de **Desarrollo Guiado por Comportamiento (BDD)**. Esto permitió verificar que el sistema respondiera correctamente según los casos de uso y las historias de usuario planteadas.  
+
+Por otro lado, las **pruebas funcionales** fueron automatizadas utilizando **Selenium**, una herramienta que facilita la simulación de acciones del usuario en aplicaciones web, asegurando que las funcionalidades clave operen como se espera en entornos reales.
 
 ### 7.2. Continuos Delivery
 
 #### 7.2.1. Tools and Practices
+## Herramientas
+
+- **Git**: Se empleó Git como sistema de control de versiones. Facilitó el manejo del código fuente, la colaboración entre los miembros del equipo y el seguimiento de cambios a través de pull requests.
+  
+- **GitHub**: Se empleó GitHub como plataforma de alojamiento del repositorio. Facilitó el manejo del código fuente, la colaboración entre los miembros del equipo y el seguimiento de cambios a través de pull requests.
+
+- **Netlify**: La página de aterrizaje fue publicada usando Netlify, lo cual permitió compartirla públicamente de forma rápida y sin requerir infraestructura propia.
+
+- **Docker**: Se utilizó Docker para empaquetar los servicios web dentro de contenedores, garantizando que pudieran ejecutarse en cualquier entorno compatible, con portabilidad, aislamiento y facilidad de despliegue.
+
+## Prácticas
+
+- **Uso de Ramas**: Se gestionó el desarrollo mediante una rama principal y ramas independientes para nuevas funcionalidades. Cada rama era revisada y fusionada a través de pull requests, lo que ayudó a mantener la calidad del código y evitar errores.
+
+- **Integración Continua (CI)**: Se configuró la ejecución automática de pruebas al hacer push a una rama o crear un pull request. Esto permitió detectar posibles fallos rápidamente y evitar que el código nuevo afectara funcionalidades previas.
+
+- **Entrega Continua (CD) con Docker**: Las nuevas versiones de la aplicación se generaban como contenedores Docker y se desplegaban en entornos de prueba (staging). Esto simulaba condiciones de producción y facilitaba una validación rápida y confiable antes de lanzar a producción.
+
 
 #### 7.2.2. Stage Deployment Pipeline Components
 
+## Proceso de Despliegue de ArtCollab
+
+El despliegue del producto **ArtCollab** se gestiona mediante un pipeline automatizado, diseñado para asegurar la calidad, eficiencia y control en cada entrega. Este proceso consta de las siguientes fases:
+
+### 1. Etapa de Construcción (Build)
+
+- Se generan las imágenes Docker para cada microservicio a partir de sus respectivos Dockerfile.
+- Esta fase garantiza que todas las dependencias estén correctamente configuradas y que el código pueda ejecutarse en un entorno estándar y reproducible.
+
+### 2. Etapa de Pruebas (Test)
+
+- Se ejecutan pruebas unitarias y, cuando corresponda, pruebas de integración para validar la lógica del negocio.
+- Se comprueba la respuesta adecuada de los endpoints y la interacción entre los servicios.
+
+### 3. Etapa de Publicación (Push)
+
+- Las imágenes Docker que han pasado las pruebas se suben a un registro de contenedores.
+- Esto permite gestionar versiones, reutilizar imágenes y facilitar su despliegue en diferentes entornos.
+
+### 4. Etapa de Despliegue (Deploy)
+
+- Utilizamos **Render** para realizar el despliegue automático de los microservicios.
+- Se configuran variables de entorno, rutas de acceso y la conexión con la base de datos PostgreSQL.
+- Cada servicio se despliega de forma independiente, manteniendo la comunicación entre ellos.
+
+### 5. Etapa Post-Despliegue (Post-Deployment)
+
+- Se ejecutan pruebas rápidas (smoke tests) para verificar que los servicios funcionen correctamente.
+- A través de las herramientas de monitoreo de Render, se supervisa el estado de los servicios, asegurando que las APIs estén operativas y accesibles.
+
+
 ### 7.3. Continuos Deployment
 
-#### 7.2.1. Tools and Practices
+#### 7.3.1. Tools and Practices
 
-#### 7.2.2. Production Deployment Pipeline Components
+### Backend
+
+Una vez que se construye la imagen Docker con la versión actual del backend, esta puede implementarse tanto en entornos de prueba como en producción. Esto simplifica el proceso de entrega continua, asegurando que el entorno probado sea el mismo que se pone en producción, gracias a la portabilidad de la imagen.
+
+### Frontend (Landing Page y Aplicación Web)
+
+Para la landing page y la app web desarrollada con Vue.js, se utilizó **Netlify**. Esta plataforma detecta automáticamente nuevos commits en la rama `main` y ejecuta los scripts de construcción. Una vez completado el proceso, los archivos estáticos resultantes se despliegan de forma automática.
+
+### Herramientas Usadas
+
+- **Netlify**: Para el despliegue automático del frontend.
+- **Vue.js**: Framework utilizado para desarrollar la aplicación web.
+- **GitHub**: Para alojar el repositorio y gestionar el control de versiones.
+- **Docker**: Usado para contenerizar el backend y facilitar su despliegue.
+
+
+#### 7.3.2. Production Deployment Pipeline Components
+
+### Pipeline del Backend (.NET + Docker)
+
+- **Empaquetado con Docker**: El backend, desarrollado en .NET, fue encapsulado en una imagen Docker para garantizar su ejecución en cualquier entorno compatible con Docker.
+
+- **Generación de Imagen**: Cada vez que se realiza una modificación en el repositorio, se genera una nueva imagen Docker con la versión más reciente del backend.
+
+- **Despliegue en Producción**: Esta imagen se implementa directamente en el entorno productivo mediante Docker, asegurando coherencia entre entornos, facilidad de mantenimiento y portabilidad.
+
+---
+
+### Pipeline de la Landing Page (Netlify)
+
+- **Monitoreo de Cambios en GitHub**: Netlify está enlazado al repositorio de la landing page. Al detectar nuevos commits en la rama `main`, inicia automáticamente el proceso de construcción.
+
+- **Construcción del Sitio**: Se ejecuta el comando `npm run build` para compilar el sitio y generar los archivos estáticos necesarios.
+
+- **Despliegue Automatizado**: Al finalizar la compilación, Netlify publica la nueva versión de la landing page automáticamente.
+
+- **Distribución Global**: La página es entregada a través de la red CDN de Netlify, lo que mejora la velocidad de carga y disponibilidad a nivel mundial.
+
+---
+
+### Pipeline de la Aplicación Web (Vue + Netlify)
+
+- **Compilación de Vue**: Netlify detecta nuevos commits en la rama `main` y ejecuta automáticamente la compilación de la versión productiva (`npm run build`) de la app desarrollada en Vue.
+
+- **Publicación en Producción**: La versión actualizada de la aplicación se despliega automáticamente y se encuentra disponible para los usuarios.
+
+- **Actualización Instantánea**: Netlify gestiona el borrado de caché y entrega la nueva versión a través de su CDN, asegurando que los usuarios accedan siempre a la última versión disponible.
 
 
 
