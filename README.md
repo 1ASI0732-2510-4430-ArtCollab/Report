@@ -3134,23 +3134,19 @@ El desarrollo sigue la estructura de **Given-When-Then**, asegurando que los cas
 
 Se presentan los escenarios en formato visual para facilitar su análisis:
 
-1. Landing page
-   ![landing-page-features](Images/Cap6/BDD/landing-page-features.png)
+1. Gestión de administradores
+   ![admin-feature](Images/Cap6/BDD/admin-feature.png)
 
-2. Gestión del perfil
-   ![gestion-perfil-features](Images/Cap6/BDD/gestion-perfil-features.png)
+2. Gestión de comisiones
+   ![gestion-comission-feature](Images/Cap6/BDD/gestion-comission-feature.png)
 
-3. Contenido
-   ![content-features](Images/Cap6/BDD/contenido-features.png)
+3. Gestión de suscripciones
+   ![gestion-subscription-feature](Images/Cap6/BDD/gestion-subscription-feature.png)
 
-4. Visibilidad
-   ![visibility-features](Images/Cap6/BDD/visibility-features.png)
+4. Gestión de template o contenido
+   <br>
+   ![gestion-template-feature](Images/Cap6/BDD/gestion-template-feature.png)
 
-5. Descubrimiento
-   ![descubrir-features](Images/Cap6/BDD/descubrir-features.png)
-
-6. Monetización
-   ![monetizacion-features](Images/Cap6/BDD/monetizacion-features.png)
 
 #### 6.1.4. Core System Tests
 
