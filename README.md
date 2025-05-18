@@ -192,7 +192,8 @@
             Frida Sofia Dam Rubianes: <br>
         </td>
         <td>
-            TB1: Se consideraron las necesidades de los usuarios en todas las fases del desarrollo, desde el diseño de la solución hasta la implementación y el impacto de las decisiones tomadas para la plataforma.
+            TB1: Se consideraron las necesidades de los usuarios en todas las fases del desarrollo, desde el diseño de la solución hasta la implementación y el impacto de las decisiones tomadas para la plataforma. <br>
+		TP: Se consideran las necesidades del usuario justamente al realizar los tests, ya que estos reafirman un correcto funcionamiento de la aplicacion que resulta en un usuario feliz y satisfecho con nuestro proyecto.
         </td>
     </tr>
     <tr>
