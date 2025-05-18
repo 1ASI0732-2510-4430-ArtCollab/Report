@@ -3298,6 +3298,8 @@ Gracias a este projecto hemos podido identificar la necesidad de crear solucione
 pueden trabajar juntos para crear nuevo contenido. Así mismo, podemos evidenciar como al ofrecerles libertad, los artistas pueden generar diverso contenido para los gustos de los distintos
 usuarios.
 
+Asimismo, se tuvo en cuenta el proceso de testing, identificando las categorías clave: pruebas unitarias, de integración, de comportamiento (BDD) y de sistema para asegurar la calidad, fiabilidad y mantenibilidad del sistema a lo largo de su ciclo de vida.
+
 En cuanto a los aspectos a mejorar, sería útil añadir más personalización a la forma en que el ilustrador notifica al escritor, puesto que la comunicación y 
 claridad entre ambos es de gran importancia.
 
