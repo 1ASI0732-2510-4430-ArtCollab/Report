@@ -188,7 +188,7 @@
 	    TP: <br>
             Christopher Sebastian More Rondon: Me encargué de desarrollar los unit tests e integration tests, asegurandome de que estos verifiquen funciones clave del programa para asegurar estar creando un beun producto.<br>
             Carlos Arturo Adrianzen Flores: Me encargue de corregir ciertas partes del documento que estaban mal estructuradas. <br>
-            Niurka Lucero Huarcaya Quispe: <br>
+            Niurka Lucero Huarcaya Quispe: En esta entrega me encargué de escribir pruebas claras que validen el comportamiento del sistema para las pruebas BDD. Teniendo en cuenta que la revisión constante de pruebas ayuda a mantener la transparencia y la fiabilidad en el desarrollo.<br>
             Frida Sofia Dam Rubianes: <br>
         </td>
         <td>
@@ -208,7 +208,8 @@
 	    TP: <br>
             Christopher Sebastian More Rondon: Realizé los tests con el objetivo de asegurarle al usuario un buen producto final, centrandome en probar funciones clave para la aplicación.<br>
             Carlos Arturo Adrianzen Flores: Siempre tuve en cuenta el impacto que podria generar la solución con cada artefacto mostrado. Y como podría reaccionar el usuario sobre todo ante la aplicación web que es nuestro principal medio.<br>
-            Niurka Lucero Huarcaya Quispe: <br>
+            Niurka Lucero Huarcaya Quispe: Al aplicar BDD y Selenium en esta entrega, se quiso verificar la eficiencia, accesibilidad y sostenibilidad del sistema, asegurando que cumple con estándares éticos y normativos, mejorando la calidad del software para usuarios y entornos diversos.
+<br>
             Frida Sofia Dam Rubianes: <br>
         </td>
         <td>
