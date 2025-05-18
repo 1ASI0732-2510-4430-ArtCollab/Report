@@ -187,7 +187,7 @@
             Frida Sofia Dam Rubianes: En esta entrega, participé en la definición de criterios de calidad y validación para las funcionalidades del sistema, asegurándome de que cumplan con los principios éticos y profesionales de la ingeniería de software. Además, colaboré en la revisión de los entregables del equipo para garantizar que reflejen buenas prácticas de desarrollo y un compromiso real con la responsabilidad hacia los usuarios finales.<br><br>
 	    TP: <br>
             Christopher Sebastian More Rondon: Me encargué de desarrollar los unit tests e integration tests, asegurandome de que estos verifiquen funciones clave del programa para asegurar estar creando un beun producto.<br>
-            Carlos Arturo Adrianzen Flores: <br>
+            Carlos Arturo Adrianzen Flores: Me encargue de corregir ciertas partes del documento que estaban mal estructuradas. <br>
             Niurka Lucero Huarcaya Quispe: <br>
             Frida Sofia Dam Rubianes: <br>
         </td>
@@ -206,12 +206,13 @@
             Frida Sofia Dam Rubianes: En esta entrega, analicé los posibles efectos de nuestra solución en diferentes contextos, enfocándome en cómo el diseño y las funcionalidades propuestas podrían influir en la accesibilidad y sostenibilidad del producto. Asimismo, aporté en la planificación de tareas, priorizando aquellas que maximicen el valor social y económico para los usuarios, sin comprometer la responsabilidad ambiental.<br><br>
 	    TP: <br>
             Christopher Sebastian More Rondon: Realizé los tests con el objetivo de asegurarle al usuario un buen producto final, centrandome en probar funciones clave para la aplicación.<br>
-            Carlos Arturo Adrianzen Flores: <br>
+            Carlos Arturo Adrianzen Flores: Siempre tuve en cuenta el impacto que podria generar la solución con cada artefacto mostrado. Y como podría reaccionar el usuario sobre todo ante la aplicación web que es nuestro principal medio.<br>
             Niurka Lucero Huarcaya Quispe: <br>
             Frida Sofia Dam Rubianes: <br>
         </td>
         <td>
-            TB1: Se tomaron decisiones conscientes durante el proceso de diseño y desarrollo del producto, considerando cómo nuestras soluciones tecnológicas afectan a las comunidades. Además, en cada etapa, se priorizaron enfoques sostenibles y responsables.
+            TB1: Se tomaron decisiones conscientes durante el proceso de diseño y desarrollo del producto, considerando cómo nuestras soluciones tecnológicas afectan a las comunidades. Además, en cada etapa, se priorizaron enfoques sostenibles y responsables. <br>
+		TP: Se sigue trabajando correctamente en equipo, durante el desarrollo de este segundo sprint nos enfocamos en mejorar el anterior y poder realizar las pruebas correspondientes para los artefactos. Ademas de documentar todos los procesos.
         </td>
     </tr>
 </table>
