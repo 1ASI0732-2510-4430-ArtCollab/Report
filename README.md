@@ -156,6 +156,25 @@
   - [6.1.2. Core Integration Tests](#612-core-integration-tests)
   - [6.1.3. Core Behavior-Driven Development](#613-core-brhavior-driven-development)
   - [6.1.4. Core System Tests](#614-core-system-tests)
+- [6.2. Static testing & Verification](#62-static-testing-&-verification)
+  - [6.2.1 Static Code Analysis]()
+    - [6.2.1.1 Coding Standard & Code Conventions]()
+    - [6.2.1.2 Code Quality & Code Security]()
+  - [6.2.2 Reviews]()
+- [6.3. Validation Interviews](#63-validation-interviews)
+  - [6.3.1 Diseño de Entrevistas]()
+  - [6.3.2 Registro de Entrevistas]()
+  - [6.3.3 Evaluacion Segun Heuristicas]()
+- [6.4. Auditoria de Experincias de Usuario](#64-auditoria-de-experiencias-de-usuario)
+  - [6.4.1 Auditoria Realizada]()
+    - [6.4.1.1 Informacion del Grupo Auditado]()
+    - [6.4.1.2 Cronograma de Auditoria Realizada]()
+    - [6.4.1.3 Contenido de Auditoria Realizada]()
+  - [6.4.2 Auditoria Recibida]()
+    - [6.4.2.1 Informacion del Grupo Auditor]()
+    - [6.4.2.2 Cronograma de Auditoria Recibida]()
+    - [6.4.2.3 Contenido de Auditoria Recibida]()
+    - [6.4.2.4 Resumen de Noificaciones para subsanar hallazgos]()
 ## [Capítulo VII: DevOps Practices](#capítulo-vii-devops-practices)
 - [7.1. Continuos Integration](#71-continuos-integration)
   - [7.1.1. Tools and Practices](#711-tools-and-practices)
@@ -164,8 +183,28 @@
   - [7.2.1. Tools and Practices](#721-tools-and-practices)
   - [7.2.2. Stage Deployment Pipeline Components](#721-stage-deployment-pipeline-components)
 - [7.3. Continuos Deployment](#73-continuos-deployment)
-  - [7.2.1. Tools and Practices](#731-tools-and-practices)
-  - [7.2.2. Production Deployment Pipeline Components](#731-production-deployment-pipeline-components)
+  - [7.3.1. Tools and Practices](#731-tools-and-practices)
+  - [7.3.2. Production Deployment Pipeline Components](#731-production-deployment-pipeline-components)
+- [7.4. Continuos Monitoring](#74-continuos-monitoring)
+  - [7.4.1. Tools and Practices](#741-tools-and-practices)
+  - [7.4.2. Monitoring Pipeline Components]()
+  - [7.4.3. Alerting Pipeline Components]()
+  - [7.4.4. Notification Pipeline Components]()
+## [Capítulo VIII: Experiment-Driven Development](#capítulo-viii-experiment-driven-development)
+- [8.1 Experiment Planning]()
+  - [8.1.1 As-Is Summary]()
+  - [8.1.2 Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims]()
+  - [8.1.3 Experiment-Ready Questions]()
+  - [8.1.4 Question Backlog]()
+  - [8.1.5 Experiment Cards]()
+- [8.2 Experiment Planning]()
+  - [8.2.1 Hypotheses]()
+  - [8.2.2 Measures]()
+  - [8.2.3 Conditions]()
+  - [8.2.4 Scale Calculations and Decisions]()
+  - [8.2.5 Methods Selection]()
+  - [8.2.6 Data Analytics: Goasl, KPLs and Metrics Selection]()
+  - [8.2.7 Web and Mobile Tracking Plan]()
 
 - [Avance de Conclusiones, Bibliografía y Anexos](#avance-de-conclusiones-bibliografía-y-anexos)
 
@@ -3161,6 +3200,44 @@ El objetivo de estas pruebas fue asegurarse del flujo de navegación correcto de
 
   ![system-test2](Images/Cap6/BDD/system-test2.png)
 
+### 6.2. Static testing & Verification
+
+#### 6.2.1 Static Code Analysis
+
+#### 6.2.1.1 Coding Standard & Code Conventions
+
+#### 6.2.1.2 Code Quality & Code Security
+  
+#### 6.2.2 Reviews
+
+### 6.3. Validation Interviews
+
+#### 6.3.1 Diseño de Entrevistas
+
+#### 6.3.2 Registro de Entrevistas
+
+#### 6.3.3 Evaluacion Segun Heuristicas
+
+### 6.4. Auditoria de Experincias de Usuario
+
+#### 6.4.1 Auditoria Realizada
+
+##### 6.4.1.1 Informacion del Grupo Auditado
+
+##### 6.4.1.2 Cronograma de Auditoria Realizada
+
+##### 6.4.1.3 Contenido de Auditoria Realizada
+
+#### 6.4.2 Auditoria Recibida
+
+##### 6.4.2.1 Informacion del Grupo Auditor
+
+##### 6.4.2.2 Cronograma de Auditoria Recibida
+
+##### 6.4.2.3 Contenido de Auditoria Recibida
+
+##### 6.4.2.4 Resumen de Noificaciones para subsanar hallazgos
+
  
 ## Capítulo VII: DevOps Practices
 
@@ -3290,6 +3367,49 @@ Para la landing page y la app web desarrollada con Vue.js, se utilizó **Netlify
 - **Publicación en Producción**: La versión actualizada de la aplicación se despliega automáticamente y se encuentra disponible para los usuarios.
 
 - **Actualización Instantánea**: Netlify gestiona el borrado de caché y entrega la nueva versión a través de su CDN, asegurando que los usuarios accedan siempre a la última versión disponible.
+
+### 7.4. Continuos Monitoring
+
+#### 7.4.1. Tools and Practices
+
+#### 7.4.2. Monitoring Pipeline Components
+
+#### 7.4.3. Alerting Pipeline Components
+
+#### 7.4.4. Notification Pipeline Components
+
+
+## Capítulo VIII: Experiment-Driven Development
+
+### 8.1 Experiment Planning
+  
+#### 8.1.1 As-Is Summary
+
+#### 8.1.2 Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims
+
+#### 8.1.3 Experiment-Ready Questions
+
+#### 8.1.4 Question Backlog
+
+#### 8.1.5 Experiment Cards
+
+### 8.2 Experiment Planning
+
+#### 8.2.1 Hypotheses
+
+#### 8.2.2 Measures
+
+#### 8.2.3 Conditions
+
+#### 8.2.4 Scale Calculations and Decisions
+
+#### 8.2.5 Methods Selection
+
+#### 8.2.6 Data Analytics: Goasl, KPLs and Metrics Selection
+
+#### 8.2.7 Web and Mobile Tracking Plan
+
+
 
 
 
