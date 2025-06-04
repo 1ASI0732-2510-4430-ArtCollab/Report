@@ -3212,7 +3212,43 @@ El objetivo de estas pruebas fue asegurarse del flujo de navegación correcto de
 
 ### 6.3. Validation Interviews
 
+Se realizaran entrevistas de validacion con el objetivo de conocer que aspectos de nuestra aplicacion deben de mejorar. Para esto, se busca conocer los puntos de vista de los usuarios, y así identificar que los satisface, asi como que les falta.
+
 #### 6.3.1 Diseño de Entrevistas
+
+Se han diseñado entrevistas para poder conocer cuan satisfechos se encuentran los usuario con nuestra aplicacion. Gracias a estas preguntas podremos conseguir una solida idea de las opiniones positivas y negativas de nuestros usuarios.
+
+**General:**
+
+¿Cuál es su nombre?
+
+¿Qué edad tiene?
+
+¿Qué le parece el diseño de la aplicación?
+
+¿Qué le gustaría cambiar en cuanto al diseño?
+
+¿La interfaz le parece intuitiva?
+
+**Preguntas Segmento 1: Escritor**
+
+¿Como se siente publicando historias en nuestra aplicacion?
+
+¿Le genera confianza la manera de comunicarse con artistas?. ¿Por qué?
+
+¿Cree que nuestra aplicación podría ayudarle a generar ganancias?
+
+¿Qué deberíamos añadir para darle una mejor experiencia?
+
+**Preguntas Segmento 2: Ilustrador**
+
+¿Que opina sobre la forma de realizar colaboraciones?
+
+¿Cree que tiene suficiente opciones para tener variedad en sus dibujos?. ¿Por qué?
+
+¿Le satisface la manera de generar dinero con sus dibujos?
+
+¿Qué le gustaría que añadieramos para facilitar su trabajo?
 
 #### 6.3.2 Registro de Entrevistas
 
