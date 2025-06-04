@@ -18,7 +18,8 @@
     <h3 align="center">Team Members:</h3>
     </div>
 <div>
-     <table align="center">
+
+<table align="center">
         <tr>
             <th style="text-align:center;">Member</th>
             <th style="text-align:center;">Code</th>
@@ -37,10 +38,11 @@
         </tr>
         <tr>
             <td>More Rondon, Christopher Sebastian</td>
-            <td>U202212199</td>
+            <td>U202213983</td>
         </tr>
          
 </table>
+
 
 <br>
 
@@ -48,33 +50,10 @@
 
 # Registro de Versiones del Informe
 
-<table >
-        <tr>
-            <th style="text-align:center;">Versión</th>
-            <th style="text-align:center;">Fecha</th>
-            <th style="text-align:center;">Autor</th>
-            <th style="text-align:center;">Descripción de la modificación</th>
-        </tr>
-        <tr>
-            <td align = "center">TB1</td>
-            <td>23/04/2025</td>
-            <td>  
-
-Dam Rubianes, Frida Sofia 
-
-Adrianzen Flores, Carlos Arturo
-
-3er integrante
-
-4to integrante
-
-</td>
-            <td>Se agregó el contenido del capítulo 1, apartados 1.1, 1.2 y 1.3; el contenido del capítulo 2, apartados 2.1, 2.2, 2.3, 2.4; el contenido del capítulo 3, apartados 3.1, 3.2, 3.3 y 3.4; el contenido del capítulo 4, apartados 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7 y 4.8; y el contenido del capítulo 5, apartados 5.1, 5.2, 5.3 y 5.4</td>
-        <tr>
-<tr>
-            
-
-<table>
+| Versión | Fecha       | Autor                                                                                                                                  | Descripción de la modificación                                                                                                                                                      |
+|:-------:|-------------|----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| TB1     | 23/04/2025  | Dam Rubianes, Frida Sofia<br>Adrianzen Flores, Carlos Arturo<br>Huarcaya Quispe, Niurka Lucero<br>More Rondon, Christopher Sebastian | Se agregó el contenido del capítulo 1, apartados 1.1, 1.2 y 1.3; el contenido del capítulo 2, apartados 2.1, 2.2, 2.3, 2.4; el contenido del capítulo 3, apartados 3.1, 3.2, 3.3 y 3.4; el contenido del capítulo 4, apartados 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7 y 4.8; y el contenido del capítulo 5, apartados 5.1, 5.2, 5.3 y 5.4 |
+| TB2     | 14/05/2025  | Dam Rubianes, Frida Sofia<br>Adrianzen Flores, Carlos Arturo<br>Huarcaya Quispe, Niurka Lucero<br>More Rondon, Christopher Sebastian | Conclusión del capítulo 5 y capítulo 6                                                                                                                                                |
 
 <br>
   
@@ -131,7 +110,7 @@ Adrianzen Flores, Carlos Arturo
   - [4.2.5. Navigation Systems](#425-navigation-systems)
 - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
   - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
-  - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up.
+  - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up.)
 - [4.4. Mobile Applications UX/UI Design](#44-mobile-applications-uxui-design)
   - [4.4.1. Mobile Applications Wireframes](#441-mobile-applications-wireframes)
   - [4.4.2. Mobile Applications Wireflow Diagrams](#442-mobile-applications-wireflow-diagrams)
@@ -145,7 +124,7 @@ Adrianzen Flores, Carlos Arturo
   - [4.6.2. Web Applications Wireflow Diagrams](#462-web-applications-wireflow-diagrams)
   - [4.6.3. Web Applications Mock-ups](#463-web-applications-mock-ups)
   - [4.6.4. Web Applications User Flow Diagrams](#464-web-applications-user-flow-diagrams)
-- [4.7. Web Applications Prototyping](#47-web-applications-prototyping
+- [4.7. Web Applications Prototyping](#47-web-applications-prototyping)
 - [4.8. Domain-Driven Software Architecture](#48-domain-driven-software-architecture)
   - [4.8.1. Software Architecture Context Diagram](#481-software-architecture-context-diagram)
   - [4.8.2. Software Architecture Container Diagrams](#482-software-architecture-container-diagrams)
@@ -165,10 +144,11 @@ Adrianzen Flores, Carlos Arturo
   - [5.2.1. Sprint Backlogs](#521-sprint-backlogs)
   - [5.2.2. Implemented Landing Page Evidence](#522-implemented-landing-page-evidence)
   - [5.2.3. Implemented Frontend-Web Application Evidence](#523-implemented-frontend-web-application-evidence)
-  - [5.2.4. Implemented Native-Mobile Application Evidence](#524-implemented-native-mobile-application-evidence)
-  - [5.2.5. Implemented RESTful API and/or Serverless Backend Evidence](#525-implemented-restful-api-andor-serverless-backend-evidence)
-  - [5.2.6. RESTful API Documentation](#526-restful-api-documentation)
-  - [5.2.7. Team Collaboration Insights](#527-team-collaboration-insights)
+  - [5.2.4. Acuerdo de Servicio - SaaS](#524-acuerdo-de-servicio-saas)
+  - [5.2.5. Implemented Native-Mobile Application Evidence](#525-implemented-native-mobile-application-evidence)
+  - [5.2.6. Implemented RESTful API and/or Serverless Backend Evidence](#526-implemented-restful-api-andor-serverless-backend-evidence)
+  - [5.2.7. RESTful API Documentation](#527-restful-api-documentation)
+  - [5.2.8. Team Collaboration Insights](#528-team-collaboration-insights)
 - [5.3. Video About-the-Product](#53-video-about-the-product)
 ## [Capítulo VI: Product Verification & Validation](#capítulo-vi-product-verification-&-validation)
 - [6.1. Testing Suites & Validation](#61-testing-suites-&-validation)
@@ -176,6 +156,25 @@ Adrianzen Flores, Carlos Arturo
   - [6.1.2. Core Integration Tests](#612-core-integration-tests)
   - [6.1.3. Core Behavior-Driven Development](#613-core-brhavior-driven-development)
   - [6.1.4. Core System Tests](#614-core-system-tests)
+- [6.2. Static testing & Verification](#62-static-testing-&-verification)
+  - [6.2.1 Static Code Analysis]()
+    - [6.2.1.1 Coding Standard & Code Conventions]()
+    - [6.2.1.2 Code Quality & Code Security]()
+  - [6.2.2 Reviews]()
+- [6.3. Validation Interviews](#63-validation-interviews)
+  - [6.3.1 Diseño de Entrevistas]()
+  - [6.3.2 Registro de Entrevistas]()
+  - [6.3.3 Evaluacion Segun Heuristicas]()
+- [6.4. Auditoria de Experincias de Usuario](#64-auditoria-de-experiencias-de-usuario)
+  - [6.4.1 Auditoria Realizada]()
+    - [6.4.1.1 Informacion del Grupo Auditado]()
+    - [6.4.1.2 Cronograma de Auditoria Realizada]()
+    - [6.4.1.3 Contenido de Auditoria Realizada]()
+  - [6.4.2 Auditoria Recibida]()
+    - [6.4.2.1 Informacion del Grupo Auditor]()
+    - [6.4.2.2 Cronograma de Auditoria Recibida]()
+    - [6.4.2.3 Contenido de Auditoria Recibida]()
+    - [6.4.2.4 Resumen de Noificaciones para subsanar hallazgos]()
 ## [Capítulo VII: DevOps Practices](#capítulo-vii-devops-practices)
 - [7.1. Continuos Integration](#71-continuos-integration)
   - [7.1.1. Tools and Practices](#711-tools-and-practices)
@@ -184,8 +183,28 @@ Adrianzen Flores, Carlos Arturo
   - [7.2.1. Tools and Practices](#721-tools-and-practices)
   - [7.2.2. Stage Deployment Pipeline Components](#721-stage-deployment-pipeline-components)
 - [7.3. Continuos Deployment](#73-continuos-deployment)
-  - [7.2.1. Tools and Practices](#731-tools-and-practices)
-  - [7.2.2. Production Deployment Pipeline Components](#731-production-deployment-pipeline-components)
+  - [7.3.1. Tools and Practices](#731-tools-and-practices)
+  - [7.3.2. Production Deployment Pipeline Components](#731-production-deployment-pipeline-components)
+- [7.4. Continuos Monitoring](#74-continuos-monitoring)
+  - [7.4.1. Tools and Practices](#741-tools-and-practices)
+  - [7.4.2. Monitoring Pipeline Components]()
+  - [7.4.3. Alerting Pipeline Components]()
+  - [7.4.4. Notification Pipeline Components]()
+## [Capítulo VIII: Experiment-Driven Development](#capítulo-viii-experiment-driven-development)
+- [8.1 Experiment Planning]()
+  - [8.1.1 As-Is Summary]()
+  - [8.1.2 Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims]()
+  - [8.1.3 Experiment-Ready Questions]()
+  - [8.1.4 Question Backlog]()
+  - [8.1.5 Experiment Cards]()
+- [8.2 Experiment Planning]()
+  - [8.2.1 Hypotheses]()
+  - [8.2.2 Measures]()
+  - [8.2.3 Conditions]()
+  - [8.2.4 Scale Calculations and Decisions]()
+  - [8.2.5 Methods Selection]()
+  - [8.2.6 Data Analytics: Goasl, KPLs and Metrics Selection]()
+  - [8.2.7 Web and Mobile Tracking Plan]()
 
 - [Avance de Conclusiones, Bibliografía y Anexos](#avance-de-conclusiones-bibliografía-y-anexos)
 
@@ -204,10 +223,16 @@ Adrianzen Flores, Carlos Arturo
             las desiciones de estilo para la aplicación en moviles, con el obejtivo de darle una buena experiencia al usuario<br>
             Carlos Arturo Adrianzen Flores: En esta entrega fui el encargado de la seccio del analisis competitivo y las entrevistas, ademas de la realizacion de las UX/UI diagrams correspondientes<br>
             Niurka Lucero Huarcaya Quispe: En esta entrega, elaboré los diagramas de arquitectura que documentan de manera clara y estructurada el funcionamiento del sistema. Además, desarrollé el Sprint Backlog, de manera que la trazabilidad y el cumplimiento de buenas prácticas estén en el proceso de desarrollo.<br>
-            Frida Sofia Dam Rubianes: En esta entrega, participé en la definición de criterios de calidad y validación para las funcionalidades del sistema, asegurándome de que cumplan con los principios éticos y profesionales de la ingeniería de software. Además, colaboré en la revisión de los entregables del equipo para garantizar que reflejen buenas prácticas de desarrollo y un compromiso real con la responsabilidad hacia los usuarios finales.<br>
+            Frida Sofia Dam Rubianes: En esta entrega, participé en la definición de criterios de calidad y validación para las funcionalidades del sistema, asegurándome de que cumplan con los principios éticos y profesionales de la ingeniería de software. Además, colaboré en la revisión de los entregables del equipo para garantizar que reflejen buenas prácticas de desarrollo y un compromiso real con la responsabilidad hacia los usuarios finales.<br><br>
+	    TP: <br>
+            Christopher Sebastian More Rondon: Me encargué de desarrollar los unit tests e integration tests, asegurandome de que estos verifiquen funciones clave del programa para asegurar estar creando un beun producto.<br>
+            Carlos Arturo Adrianzen Flores: Me encargue de corregir ciertas partes del documento que estaban mal estructuradas. <br>
+            Niurka Lucero Huarcaya Quispe: En esta entrega me encargué de escribir pruebas claras que validen el comportamiento del sistema para las pruebas BDD. Teniendo en cuenta que la revisión constante de pruebas ayuda a mantener la transparencia y la fiabilidad en el desarrollo.<br>
+            Frida Sofia Dam Rubianes: <br>
         </td>
         <td>
-            TB1: Se consideraron las necesidades de los usuarios en todas las fases del desarrollo, desde el diseño de la solución hasta la implementación y el impacto de las decisiones tomadas para la plataforma.
+            TB1: Se consideraron las necesidades de los usuarios en todas las fases del desarrollo, desde el diseño de la solución hasta la implementación y el impacto de las decisiones tomadas para la plataforma. <br>
+		TP: Se consideran las necesidades del usuario justamente al realizar los tests, ya que estos reafirman un correcto funcionamiento de la aplicacion que resulta en un usuario feliz y satisfecho con nuestro proyecto.
         </td>
     </tr>
     <tr>
@@ -218,10 +243,17 @@ Adrianzen Flores, Carlos Arturo
             de los usuario<br>
             Carlos Arturo Adrianzen Flores: Al momento de realizar partes del informe como los diagramas, tuve en cuenta el impacto de las soluciones a nivel global, y como nuestra propia solucion podria llegar a tener dicho impacto.<br>
             Niurka Lucero Huarcaya Quispe: Me hice cargo de crear diagramas de arquitectura que detallan cómo el sistema interactúa con su entorno y distribuye funcionalidades, lo que me permite evaluar su impacto global, económico, social y ambiental. Además, al gestionar el Sprint Backlog, se priorizaron las tareas teniendo en cuenta estas dimensiones.<br>
-            Frida Sofia Dam Rubianes: En esta entrega, analicé los posibles efectos de nuestra solución en diferentes contextos, enfocándome en cómo el diseño y las funcionalidades propuestas podrían influir en la accesibilidad y sostenibilidad del producto. Asimismo, aporté en la planificación de tareas, priorizando aquellas que maximicen el valor social y económico para los usuarios, sin comprometer la responsabilidad ambiental. ..<br>
+            Frida Sofia Dam Rubianes: En esta entrega, analicé los posibles efectos de nuestra solución en diferentes contextos, enfocándome en cómo el diseño y las funcionalidades propuestas podrían influir en la accesibilidad y sostenibilidad del producto. Asimismo, aporté en la planificación de tareas, priorizando aquellas que maximicen el valor social y económico para los usuarios, sin comprometer la responsabilidad ambiental.<br><br>
+	    TP: <br>
+            Christopher Sebastian More Rondon: Realizé los tests con el objetivo de asegurarle al usuario un buen producto final, centrandome en probar funciones clave para la aplicación.<br>
+            Carlos Arturo Adrianzen Flores: Siempre tuve en cuenta el impacto que podria generar la solución con cada artefacto mostrado. Y como podría reaccionar el usuario sobre todo ante la aplicación web que es nuestro principal medio.<br>
+            Niurka Lucero Huarcaya Quispe: Al aplicar BDD y Selenium en esta entrega, se quiso verificar la eficiencia, accesibilidad y sostenibilidad del sistema, asegurando que cumple con estándares éticos y normativos, mejorando la calidad del software para usuarios y entornos diversos.
+<br>
+            Frida Sofia Dam Rubianes: <br>
         </td>
         <td>
-            TB1: Se tomaron decisiones conscientes durante el proceso de diseño y desarrollo del producto, considerando cómo nuestras soluciones tecnológicas afectan a las comunidades. Además, en cada etapa, se priorizaron enfoques sostenibles y responsables.
+            TB1: Se tomaron decisiones conscientes durante el proceso de diseño y desarrollo del producto, considerando cómo nuestras soluciones tecnológicas afectan a las comunidades. Además, en cada etapa, se priorizaron enfoques sostenibles y responsables. <br>
+		TP: Se sigue trabajando correctamente en equipo, durante el desarrollo de este segundo sprint nos enfocamos en mejorar el anterior y poder realizar las pruebas correspondientes para los artefactos. Ademas de documentar todos los procesos.
         </td>
     </tr>
 </table>
@@ -269,7 +301,7 @@ Ser reconocidos como la plataforma líder en Latinoamérica —con enfoque inici
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="Arturo.jpg" alt="Carlos Arturo" style="margin-bottom: 5px;" width="600"/>
+            <img src="Images/team/Arturo.jpg" alt="Carlos Arturo" style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -1964,20 +1996,43 @@ Enlace a los Wireframes de la Landing Page en Figma: https://www.figma.com/file/
 
 Versión Desktop:
 
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235653889169293442/Hero.png?ex=680e725c&is=680d20dc&hm=decdf2c169d5882883bc2b478ea7b11bdb66cc2789beab504993d69d0bd4fa46&=&format=webp&quality=lossless&width=1047&height=719" alt="Landing Page Hero Wireframe">
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654178156580937/DESCUBRE.png?ex=680e72a1&is=680d2121&hm=4d35739d5dcd6365ea35acf8408d8b66997e1be136753b3dbd12f133f648ab26&=&format=webp&quality=lossless&width=480&height=717" alt="Landing Page DESCUBRE Wireframe">
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654188592271490/COLABORA.png?ex=680e72a3&is=680d2123&hm=e621d322732a1686f444c78fda689185e5ad2b8b5e8b0f5fc92930460dc88269&=&format=webp&quality=lossless&width=591&height=719" alt="Landing Page COLABORA Wireframe">
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654201879826492/Footer.png?ex=680e72a7&is=680d2127&hm=b1b99f68523e1b23d3128c19b970eefc4060f6d488188a4bd09035c3a907a243&=&format=webp&quality=lossless&width=1500&height=359" alt="Landing Page Footer Wireframe">
+Hero Section:
+
+<img src="Images/Wireframes/LP_HeroSection.jpg" alt="Landing Page Hero Wireframe">
+
+Descubre Section:
+
+<img src="Images/Wireframes/LP_Descubre.jpg" alt="Landing Page DESCUBRE Wireframe">
+
+Colabora Section:
+
+<img src="Images/Wireframes/LP_Colabora.jpg">
+
+Footer Section:
+
+<img src="Images/Wireframes/LP_Footer.jpg" alt="Landing Page Footer Wireframe">
+
+
+
+
 
 Versión Mobile:
 
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654255411466351/Hero-Mobile.png?ex=680e72b3&is=680d2133&hm=d5eff7edb5b68676d8c94b46c1fe600b04a0c1953d5c018e72152da93537e068&=&format=webp&quality=lossless&width=645&height=483" alt="Landing Page Mobile Hero Wireframe">
-<br>
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654270351708180/DESCUBRE-Mobile.png?ex=680e72b7&is=680d2137&hm=c49e35c7e7d1408a2d06c6c3ea83f212bdaababa171281b35c50babf63d8d6e5&=&format=webp&quality=lossless&width=390&height=719" alt="Landing Page Mobile DESCUBRE Wireframe">
-<br>
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654286797705276/COLABORA-Mobile.png?ex=680e72bb&is=680d213b&hm=3d4dfc2e6c96628ac3443c6453f0e63e938964c7ddecbd06c0843a89cf3ff137&=&format=webp&quality=lossless&width=339&height=719" alt="Landing Page Mobile COLABORA Wireframe">
-<br>
-<img src="https://media.discordapp.net/attachments/1235639705157107719/1235654303373463594/Footer-Mobile.png?ex=680e72bf&is=680d213f&hm=c28fd72480baba918565da70daacf669773648f090430f8444dd71bb6e679d88&=&format=webp&quality=lossless&width=645&height=603" alt="Landing Page Mobile Footer Wireframe">
+Hero Section:
+
+<img src="Images/Wireframes/LPMobile_Hero.jpg" alt="Landing Page Mobile Hero Wireframe">
+
+Descubre Section:
+
+<img src="Images/Wireframes/LPMobile_Descubre.jpg" alt="Landing Page Mobile DESCUBRE Wireframe">
+
+Colabora Section:
+
+<img src="Images/Wireframes/LPMobile_Colabora.jpg" alt="Landing Page Mobile COLABORA Wireframe">
+
+Footer Section:
+
+<img src="Images/Wireframes/LPMobile_Footer.jpg">
 
 #### 4.3.2. Landing Page Mock-up
 Enlace a la mockup de la Landing Page en Figma: https://www.figma.com/file/P2GY9CsLT82DzIiZEnxhm6/Mockup-Landing-Page-(Vista)?type=design&node-id=0%3A1&mode=design&t=aMu3gnaeqnM4xQgo-1
@@ -1987,6 +2042,9 @@ Enlace a la mockup de la Landing Page en Figma: https://www.figma.com/file/P2GY9
 <br>
 <img src="https://i.ibb.co/mVydnbsk/Captura-de-pantalla-2025-04-26-190827.png" alt="Landing Page Desktop COLABORA">
 <img src="https://i.ibb.co/TMfLLRjz/Captura-de-pantalla-2025-04-26-190918.png" alt="Landing Page Desktop Footer">
+
+
+
 
 Versión Mobile:
 
@@ -2770,137 +2828,136 @@ Link de landing page: https://group2-wx53-si730.netlify.app/#
 ### 5.2. Product Implementation & Deployment
 #### 5.2.1. Sprint Backlogs
 #### 5.2.1.1 Sprint 1
-<table style="width:400px; height:100px;"> 
+
+<table style="width:400px; height:100px;">
    <tr>
       <th colspan="4"> Sprint # </th>
       <th colspan="7"> Sprint 1 </th>
    </tr>
-   <tr >
+   <tr>
      <th colspan="4"> User Story </th>
      <th colspan="7"> Work-Item /Task</th>
    </tr>
    <tr>
-     <th > Id </th>
+     <th> Id </th>
      <th colspan="3"> Title </th>
      <th> Id </th>
-     <th > Title </th>
+     <th> Title </th>
      <th> Description </th>
      <th> Estimation (Hours) </th>
-     <th> Assigned To </th> 
-     <th> Status (To-do / In-Process / To- Review / Done) </th>
+     <th> Assigned To </th>
+     <th> Status (To-do / In-Process / To-Review / Done) </th>
    </tr>
-     <tr>
-      <th> US01 </th>
-     <th colspan="3"> Barra de navegación en la Landing Page </th>
-      <th> W01  </th>
-     <th> Navbar Section  </th>
-     <th> Implementar la navbar con direcciones a la landing page de Artcollab   </th>
-     <th> 0.5  </th>
-     <th> Carlos Adrianzen 	 </th> 
-     <th> Done </th>
-   </tr>
-    <tr>
-      <th> US02 </th>
-     <th colspan="3">  Visualización de las redes sociales mediante footer </th>
-      <th> W02  </th>
-     <th> Footer Section </th>
-     <th> Implementar la sección footer con las direcciones a las redes sociales   </th>
-     <th> 0.5  </th>
-     <th> Christopher  More  </th> 
-     <th> Done </th>
-   </tr>
-     <tr>
-      <th> US03 </th>
-     <th colspan="3">  Sección de Explora </th>
-      <th> W03  </th>
-     <th> Explora Section </th>
-     <th> Implementar la sección de explora con la información de nuestra startup   </th>
-     <th> 2  </th>
-     <th> Niurka Huarcaya  </th> 
-     <th> Done </th>
-   </tr>
-     <tr>
-      <th> US04</th>
-     <th colspan="3"> Sección Colabora</th>
-      <th> W04  </th>
-     <th> Colabora Section </th>
-     <th> Implementar la sección Colabora con la finalidad de orientar al usuario sobre nuestros servicios   </th>
-     <th> 2  </th>
-     <th> Frida Dam </th> 
-     <th> Done </th>
-   </tr>
-     </tr>
-     <tr>
-      <th> US05</th>
-     <th colspan="3"> Sección Hero</th>
-      <th> W05  </th>
-     <th> Hero Section </th>
-     <th> Implementar la sección hero donde ofrecemos una breve descripción sobre nuestra startup.   </th>
-     <th> 2  </th>
-     <th> Carlos Adrianzen </th> 
-     <th> Done </th>
-   </tr>
-  <tr>
    <tr>
-      <th> US17</th>
-     <th colspan="3"> Compatibilidad con diferentes dispositivos </th>
-      <th> W06  </th>
-     <th> Landing Page </th>
-     <th> Adaptar la comptabilidad del landing page a diferentes dispositivos.   </th>
-     <th> 2.5  </th>
-     <th> Christopher  More </th> 
-     <th> Done </th>
+      <th> US01 </th>
+      <th colspan="3"> Barra de navegación en la Landing Page </th>
+      <th> W01 </th>
+      <th> Navbar Section </th>
+      <th> Implementar la navbar con direcciones a la landing page de Artcollab </th>
+      <th> 0.5 </th>
+      <th> Carlos Adrianzen </th>
+      <th> Done </th>
    </tr>
-     <tr>
+   <tr>
+      <th> US02 </th>
+      <th colspan="3"> Visualización de las redes sociales mediante footer </th>
+      <th> W02 </th>
+      <th> Footer Section </th>
+      <th> Implementar la sección footer con las direcciones a las redes sociales </th>
+      <th> 0.5 </th>
+      <th> Christopher More </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> US03 </th>
+      <th colspan="3"> Sección de Explora </th>
+      <th> W03 </th>
+      <th> Explora Section </th>
+      <th> Implementar la sección de explora con la información de nuestra startup </th>
+      <th> 2 </th>
+      <th> Niurka Huarcaya </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> US04 </th>
+      <th colspan="3"> Sección Colabora </th>
+      <th> W04 </th>
+      <th> Colabora Section </th>
+      <th> Implementar la sección Colabora con la finalidad de orientar al usuario sobre nuestros servicios </th>
+      <th> 2 </th>
+      <th> Frida Dam </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> US05 </th>
+      <th colspan="3"> Sección Hero </th>
+      <th> W05 </th>
+      <th> Hero Section </th>
+      <th> Implementar la sección hero donde ofrecemos una breve descripción sobre nuestra startup. </th>
+      <th> 2 </th>
+      <th> Carlos Adrianzen </th>
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> US17 </th>
+      <th colspan="3"> Compatibilidad con diferentes dispositivos </th>
+      <th> W06 </th>
+      <th> Landing Page </th>
+      <th> Adaptar la compatibilidad del landing page a diferentes dispositivos. </th>
+      <th> 2.5 </th>
+      <th> Christopher More </th>
+      <th> Done </th>
+   </tr>
+   <tr>
       <th> US18 </th>
-     <th colspan="3"> Accesibilidad en el Landing page</th>
-      <th> W07  </th>
-     <th> Landing Page </th>
-     <th> Mejorar la accesibilidad en la landing page pensando en un diseño inclusivo.   </th>
-     <th> 2  </th>
-     <th> Niurka Huarcaya </th> 
-     <th> Done </th>
+      <th colspan="3"> Accesibilidad en el Landing page </th>
+      <th> W07 </th>
+      <th> Landing Page </th>
+      <th> Mejorar la accesibilidad en la landing page pensando en un diseño inclusivo. </th>
+      <th> 2 </th>
+      <th> Niurka Huarcaya </th>
+      <th> Done </th>
    </tr>
-      <th> US06</th>
-     <th colspan="3"> Asignación de Rol </th>
-      <th> W08  </th>
-     <th> User Bounded Context </th>
-     <th> Implementar los roles de usuarios en la aplicación  </th>
-     <th> 3  </th>
-     <th> Frida Dam </th> 
-     <th> Done </th>
+   <tr>
+      <th> US06 </th>
+      <th colspan="3"> Asignación de Rol </th>
+      <th> W08 </th>
+      <th> User Bounded Context </th>
+      <th> Implementar los roles de usuarios en la aplicación </th>
+      <th> 3 </th>
+      <th> Frida Dam </th>
+      <th> Done </th>
    </tr>
+   <tr>
+      <th> US07 </th>
+      <th colspan="3"> Configuración de Perfil de Usuario </th>
+      <th> W09 </th>
+      <th> User Bounded Context </th>
+      <th> Implementar la configuración de perfil para un usuario </th>
+      <th> 3 </th>
+      <th> Carlos Adrianzen </th>
+      <th> Done </th>
    </tr>
-      <th> US07</th>
-     <th colspan="3"> Configuración de Perfil de Usuario </th>
-      <th> W09  </th>
-     <th> User Bounded Context </th>
-     <th> Implementar la configuracion de perfil para un usuario   </th>
-     <th> 3  </th>
-     <th> Carlos Adrianzen </th> 
-     <th> Done </th>
-   </tr>
-     <tr>
+   <tr>
       <th> US08 </th>
-     <th colspan="3"> Sube tus libros</th>
-      <th> W10  </th>
-     <th> Content Bounded Context </th>
-     <th> Implementar la opción la opción de subir libros   </th>
-     <th> 4  </th>
-     <th> Christopher  More </th> 
-     <th> Done </th>
+      <th colspan="3"> Sube tus libros </th>
+      <th> W10 </th>
+      <th> Content Bounded Context </th>
+      <th> Implementar la opción de subir libros </th>
+      <th> 4 </th>
+      <th> Christopher More </th>
+      <th> Done </th>
    </tr>
    <tr>
       <th> US09 </th>
-     <th colspan="3"> Colaboración con Ilustradores</th>
-      <th> W11  </th>
-     <th> Collaboration Bounded Context </th>
-     <th> Implementar un chat collaborativo entre artistas y escritores   </th>
-     <th> 3  </th>
-     <th> Niurka Huarcaya </th> 
-     <th> Done </th>
+      <th colspan="3"> Colaboración con Ilustradores </th>
+      <th> W11 </th>
+      <th> Collaboration Bounded Context </th>
+      <th> Implementar un chat colaborativo entre artistas y escritores </th>
+      <th> 3 </th>
+      <th> Niurka Huarcaya </th>
+      <th> Done </th>
    </tr>
-
 </table>
 
 #### 5.2.1.2 Sprint 2
@@ -3042,16 +3099,20 @@ Para el despliegue del frontend de la aplicación web, se ha utilizado Netlify, 
 
 Link de frontend: <a href="https://elegant-beijinho-a167d8.netlify.app/#/register">https://elegant-beijinho-a167d8.netlify.app/#/register</a>
 
-#### 5.2.4. Implemented Native-Mobile Application Evidence
-#### 5.2.5. Implemented RESTful API and/or Serverless Backend Evidence
+#### 5.2.4. Acuerdo de Servicio - SaaS
+
+El usuario tiene el derecho de usar nuestra aplicación para publicar sus textos y dibujos, así como tener chats con otros usuarios y mirar sus creaciones. Nos reservamos el derecho a eliminar una cuenta si detectamos que el contenido publicado, o una de sus conversaciones son inadecuadas. Así mismo, tenemos el derecho de eliminar cualquier historia considerada inapropiada. Finalmente, el usuario tiene la obligación de proteger su información personal y evitar filtrarla a desconocidos.
+
+#### 5.2.5. Implemented Native-Mobile Application Evidence
+#### 5.2.6. Implemented RESTful API and/or Serverless Backend Evidence
 ![text](Images/CAP5/BackednEvidence.png)
 
-#### 5.2.6. RESTful API Documentation
+#### 5.2.7. RESTful API Documentation
 ![text](Images/CAP5/API1.png)
 ![text](Images/CAP5/API2.png)
 ![text](Images/CAP5/API3.png)
 
-#### 5.2.7. Team Collaboration Insights
+#### 5.2.8. Team Collaboration Insights
 ![text](Images/CAP5/Insights.png)
 
 ### 5.3. Video About-the-Product
@@ -3112,23 +3173,19 @@ El desarrollo sigue la estructura de **Given-When-Then**, asegurando que los cas
 
 Se presentan los escenarios en formato visual para facilitar su análisis:
 
-1. Landing page
-   ![landing-page-features](Images/Cap6/BDD/landing-page-features.png)
+1. Gestión de administradores
+   ![admin-feature](Images/Cap6/BDD/admin-feature.png)
 
-2. Gestión del perfil
-   ![gestion-perfil-features](Images/Cap6/BDD/gestion-perfil-features.png)
+2. Gestión de comisiones
+   ![gestion-comission-feature](Images/Cap6/BDD/gestion-comission-feature.png)
 
-3. Contenido
-   ![content-features](Images/Cap6/BDD/contenido-features.png)
+3. Gestión de suscripciones
+   ![gestion-subscription-feature](Images/Cap6/BDD/gestion-subscription-feature.png)
 
-4. Visibilidad
-   ![visibility-features](Images/Cap6/BDD/visibility-features.png)
+4. Gestión de template o contenido
+   <br>
+   ![gestion-template-feature](Images/Cap6/BDD/gestion-template-feature.png)
 
-5. Descubrimiento
-   ![descubrir-features](Images/Cap6/BDD/descubrir-features.png)
-
-6. Monetización
-   ![monetizacion-features](Images/Cap6/BDD/monetizacion-features.png)
 
 #### 6.1.4. Core System Tests
 
@@ -3143,26 +3200,216 @@ El objetivo de estas pruebas fue asegurarse del flujo de navegación correcto de
 
   ![system-test2](Images/Cap6/BDD/system-test2.png)
 
+### 6.2. Static testing & Verification
+
+#### 6.2.1 Static Code Analysis
+
+#### 6.2.1.1 Coding Standard & Code Conventions
+
+#### 6.2.1.2 Code Quality & Code Security
+  
+#### 6.2.2 Reviews
+
+### 6.3. Validation Interviews
+
+#### 6.3.1 Diseño de Entrevistas
+
+#### 6.3.2 Registro de Entrevistas
+
+#### 6.3.3 Evaluacion Segun Heuristicas
+
+### 6.4. Auditoria de Experincias de Usuario
+
+#### 6.4.1 Auditoria Realizada
+
+##### 6.4.1.1 Informacion del Grupo Auditado
+
+##### 6.4.1.2 Cronograma de Auditoria Realizada
+
+##### 6.4.1.3 Contenido de Auditoria Realizada
+
+#### 6.4.2 Auditoria Recibida
+
+##### 6.4.2.1 Informacion del Grupo Auditor
+
+##### 6.4.2.2 Cronograma de Auditoria Recibida
+
+##### 6.4.2.3 Contenido de Auditoria Recibida
+
+##### 6.4.2.4 Resumen de Noificaciones para subsanar hallazgos
+
  
 ## Capítulo VII: DevOps Practices
 
 ### 7.1. Continuos Integration
 
 #### 7.1.1. Tools and Practices
+En el desarrollo y prueba de software, resulta fundamental emplear herramientas y métodos que garanticen tanto la calidad del código como la eficiencia del equipo. En nuestro flujo de trabajo, incorporamos una variedad de herramientas que facilitan la creación y validación de las funcionalidades, asegurando que el comportamiento de la aplicación cumpla con lo esperado. Estas herramientas se integran a lo largo de las diferentes etapas del ciclo de vida del software, desde la codificación hasta la ejecución de pruebas y la automatización de procesos.
+
+Utilizamos enfoques como el Desarrollo Guiado por el Comportamiento (BDD) y el Desarrollo Guiado por Pruebas (TDD), lo que nos permite asegurar que nuestras soluciones respondan a las necesidades del cliente y se mantengan dentro de altos estándares técnicos. Entre las herramientas más relevantes que empleamos se encuentran:
+
+| Herramienta | Tipo                        | Descripción                                                                 | Propósito                                                                                     |
+|-------------|-----------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| NUnit       | Herramienta de pruebas (TDD) | Framework para C# que permite verificar unidades individuales de código.   | Facilita la creación y ejecución de pruebas para confirmar que los métodos funcionen bien.    |
+| Mockito     | Herramienta de simulación (TDD) | Librería para simular objetos en pruebas unitarias en Java.                | Permite replicar el comportamiento de dependencias externas para realizar pruebas más aisladas. |
+| Gherkin     | Herramienta de BDD           | Lenguaje de texto estructurado que permite escribir escenarios comprensibles por todos. | Facilita la definición de comportamientos esperados del sistema, alineando desarrollo con negocio. |
 
 #### 7.1.2. Build & Test Suite Pipeline Components
+Se emplearon herramientas como NUnit y Moq para implementar pruebas automatizadas, tanto unitarias como de integración, sobre la API RESTful, asegurando así la calidad del código como parte del proceso de integración continua.
+
+Además, se empleó el lenguaje **Gherkin** para definir escenarios de prueba bajo el enfoque de **Desarrollo Guiado por Comportamiento (BDD)**. Esto permitió verificar que el sistema respondiera correctamente según los casos de uso y las historias de usuario planteadas.  
+
+Por otro lado, las **pruebas funcionales** fueron automatizadas utilizando **Selenium**, una herramienta que facilita la simulación de acciones del usuario en aplicaciones web, asegurando que las funcionalidades clave operen como se espera en entornos reales.
 
 ### 7.2. Continuos Delivery
 
 #### 7.2.1. Tools and Practices
+## Herramientas
+
+- **Git**: Se empleó Git como sistema de control de versiones. Facilitó el manejo del código fuente, la colaboración entre los miembros del equipo y el seguimiento de cambios a través de pull requests.
+  
+- **GitHub**: Se empleó GitHub como plataforma de alojamiento del repositorio. Facilitó el manejo del código fuente, la colaboración entre los miembros del equipo y el seguimiento de cambios a través de pull requests.
+
+- **Netlify**: La página de aterrizaje fue publicada usando Netlify, lo cual permitió compartirla públicamente de forma rápida y sin requerir infraestructura propia.
+
+- **Docker**: Se utilizó Docker para empaquetar los servicios web dentro de contenedores, garantizando que pudieran ejecutarse en cualquier entorno compatible, con portabilidad, aislamiento y facilidad de despliegue.
+
+## Prácticas
+
+- **Uso de Ramas**: Se gestionó el desarrollo mediante una rama principal y ramas independientes para nuevas funcionalidades. Cada rama era revisada y fusionada a través de pull requests, lo que ayudó a mantener la calidad del código y evitar errores.
+
+- **Integración Continua (CI)**: Se configuró la ejecución automática de pruebas al hacer push a una rama o crear un pull request. Esto permitió detectar posibles fallos rápidamente y evitar que el código nuevo afectara funcionalidades previas.
+
+- **Entrega Continua (CD) con Docker**: Las nuevas versiones de la aplicación se generaban como contenedores Docker y se desplegaban en entornos de prueba (staging). Esto simulaba condiciones de producción y facilitaba una validación rápida y confiable antes de lanzar a producción.
+
 
 #### 7.2.2. Stage Deployment Pipeline Components
 
+## Proceso de Despliegue de ArtCollab
+
+El despliegue del producto **ArtCollab** se gestiona mediante un pipeline automatizado, diseñado para asegurar la calidad, eficiencia y control en cada entrega. Este proceso consta de las siguientes fases:
+
+### 1. Etapa de Construcción (Build)
+
+- Se generan las imágenes Docker para cada microservicio a partir de sus respectivos Dockerfile.
+- Esta fase garantiza que todas las dependencias estén correctamente configuradas y que el código pueda ejecutarse en un entorno estándar y reproducible.
+
+### 2. Etapa de Pruebas (Test)
+
+- Se ejecutan pruebas unitarias y, cuando corresponda, pruebas de integración para validar la lógica del negocio.
+- Se comprueba la respuesta adecuada de los endpoints y la interacción entre los servicios.
+
+### 3. Etapa de Publicación (Push)
+
+- Las imágenes Docker que han pasado las pruebas se suben a un registro de contenedores.
+- Esto permite gestionar versiones, reutilizar imágenes y facilitar su despliegue en diferentes entornos.
+
+### 4. Etapa de Despliegue (Deploy)
+
+- Utilizamos **Render** para realizar el despliegue automático de los microservicios.
+- Se configuran variables de entorno, rutas de acceso y la conexión con la base de datos PostgreSQL.
+- Cada servicio se despliega de forma independiente, manteniendo la comunicación entre ellos.
+
+### 5. Etapa Post-Despliegue (Post-Deployment)
+
+- Se ejecutan pruebas rápidas (smoke tests) para verificar que los servicios funcionen correctamente.
+- A través de las herramientas de monitoreo de Render, se supervisa el estado de los servicios, asegurando que las APIs estén operativas y accesibles.
+
+
 ### 7.3. Continuos Deployment
 
-#### 7.2.1. Tools and Practices
+#### 7.3.1. Tools and Practices
 
-#### 7.2.2. Production Deployment Pipeline Components
+### Backend
+
+Una vez que se construye la imagen Docker con la versión actual del backend, esta puede implementarse tanto en entornos de prueba como en producción. Esto simplifica el proceso de entrega continua, asegurando que el entorno probado sea el mismo que se pone en producción, gracias a la portabilidad de la imagen.
+
+### Frontend (Landing Page y Aplicación Web)
+
+Para la landing page y la app web desarrollada con Vue.js, se utilizó **Netlify**. Esta plataforma detecta automáticamente nuevos commits en la rama `main` y ejecuta los scripts de construcción. Una vez completado el proceso, los archivos estáticos resultantes se despliegan de forma automática.
+
+### Herramientas Usadas
+
+- **Netlify**: Para el despliegue automático del frontend.
+- **Vue.js**: Framework utilizado para desarrollar la aplicación web.
+- **GitHub**: Para alojar el repositorio y gestionar el control de versiones.
+- **Docker**: Usado para contenerizar el backend y facilitar su despliegue.
+
+
+#### 7.3.2. Production Deployment Pipeline Components
+
+### Pipeline del Backend (.NET + Docker)
+
+- **Empaquetado con Docker**: El backend, desarrollado en .NET, fue encapsulado en una imagen Docker para garantizar su ejecución en cualquier entorno compatible con Docker.
+
+- **Generación de Imagen**: Cada vez que se realiza una modificación en el repositorio, se genera una nueva imagen Docker con la versión más reciente del backend.
+
+- **Despliegue en Producción**: Esta imagen se implementa directamente en el entorno productivo mediante Docker, asegurando coherencia entre entornos, facilidad de mantenimiento y portabilidad.
+
+---
+
+### Pipeline de la Landing Page (Netlify)
+
+- **Monitoreo de Cambios en GitHub**: Netlify está enlazado al repositorio de la landing page. Al detectar nuevos commits en la rama `main`, inicia automáticamente el proceso de construcción.
+
+- **Construcción del Sitio**: Se ejecuta el comando `npm run build` para compilar el sitio y generar los archivos estáticos necesarios.
+
+- **Despliegue Automatizado**: Al finalizar la compilación, Netlify publica la nueva versión de la landing page automáticamente.
+
+- **Distribución Global**: La página es entregada a través de la red CDN de Netlify, lo que mejora la velocidad de carga y disponibilidad a nivel mundial.
+
+---
+
+### Pipeline de la Aplicación Web (Vue + Netlify)
+
+- **Compilación de Vue**: Netlify detecta nuevos commits en la rama `main` y ejecuta automáticamente la compilación de la versión productiva (`npm run build`) de la app desarrollada en Vue.
+
+- **Publicación en Producción**: La versión actualizada de la aplicación se despliega automáticamente y se encuentra disponible para los usuarios.
+
+- **Actualización Instantánea**: Netlify gestiona el borrado de caché y entrega la nueva versión a través de su CDN, asegurando que los usuarios accedan siempre a la última versión disponible.
+
+### 7.4. Continuos Monitoring
+
+#### 7.4.1. Tools and Practices
+
+#### 7.4.2. Monitoring Pipeline Components
+
+#### 7.4.3. Alerting Pipeline Components
+
+#### 7.4.4. Notification Pipeline Components
+
+
+## Capítulo VIII: Experiment-Driven Development
+
+### 8.1 Experiment Planning
+  
+#### 8.1.1 As-Is Summary
+
+#### 8.1.2 Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims
+
+#### 8.1.3 Experiment-Ready Questions
+
+#### 8.1.4 Question Backlog
+
+#### 8.1.5 Experiment Cards
+
+### 8.2 Experiment Planning
+
+#### 8.2.1 Hypotheses
+
+#### 8.2.2 Measures
+
+#### 8.2.3 Conditions
+
+#### 8.2.4 Scale Calculations and Decisions
+
+#### 8.2.5 Methods Selection
+
+#### 8.2.6 Data Analytics: Goasl, KPLs and Metrics Selection
+
+#### 8.2.7 Web and Mobile Tracking Plan
+
+
 
 
 
@@ -3171,11 +3418,18 @@ Gracias a este projecto hemos podido identificar la necesidad de crear solucione
 pueden trabajar juntos para crear nuevo contenido. Así mismo, podemos evidenciar como al ofrecerles libertad, los artistas pueden generar diverso contenido para los gustos de los distintos
 usuarios.
 
+Asimismo, se tuvo en cuenta el proceso de testing, identificando las categorías clave: pruebas unitarias, de integración, de comportamiento (BDD) y de sistema para asegurar la calidad, fiabilidad y mantenibilidad del sistema a lo largo de su ciclo de vida.
+
 En cuanto a los aspectos a mejorar, sería útil añadir más personalización a la forma en que el ilustrador notifica al escritor, puesto que la comunicación y 
 claridad entre ambos es de gran importancia.
 
 ## Anexos
 - Video grupal del TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212199_upc_edu_pe/Eb280Z89m-ZPmg7ozJnm6hIBNes3VlHld0jLGZFEOL3EcA?e=fc2U6n&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+- Landing page deployada: https://group2-wx53-si730.netlify.app/#
+
+- FrontEnd deployado: https://elegant-beijinho-a167d8.netlify.app/#/register
+
 
 ## Bibliografía
 Codega, L. (2022, junio 15). Webtoon Walks Back 'Side-Hustle' Ad Campaign After Online Fury. Gizmodo.        https://gizmodo.com/webtoon-side-hustle-ad-controversy-apology-1849064106
