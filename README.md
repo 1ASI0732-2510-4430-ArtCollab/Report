@@ -3204,11 +3204,58 @@ El objetivo de estas pruebas fue asegurarse del flujo de navegación correcto de
 
 #### 6.2.1 Static Code Analysis
 
+Análisis sobre el la forma en que el código ha sido escrito y estructurado, con el objetivo de identificar los aspectos que necesitan mejorarse para hacerlo más legible y funcional
+
 #### 6.2.1.1 Coding Standard & Code Conventions
 
+**Convenciones:**
+
+- Nombres de paquetes en minusculas
+
+- Clases en UpperCamelCase
+
+- Metodos en lowerCamelCase
+
+- Indentacion con 2 o 4 espacios
+
+- Las lineas no deben superar los 100 caracteres
+
+- Archivos con el mismo nombre de la clase
+
+**Observaciones:**
+
+- Los paquetes estan en mayusculas
+
+![Paquetes en mayuscula](Images/Cap6/StaticTests/paquetesMayuscula.png)
+
+- Algunos metodos en mayuscula
+
+![Metodos en mayuscula](Images/Cap6/StaticTests/MetodosMayuscula.png)
+
+- Lineas de mas de 100 caracteres
+
+![Lineas demasiado larga](Images/Cap6/StaticTests/ControllersExtraLines1.png)
+
+![Lineas demasiado larga](Images/Cap6/StaticTests/ControllersExtraLines2.png)
+
 #### 6.2.1.2 Code Quality & Code Security
+
+- Código estructurado enDomain, Infrastructure, Application y Presentation. Cada uno contiene archivos de cada Bounded Context ordenados en paquetes
+
+![Metodos en mayuscula](Images/Cap6/StaticTests/ProjectStructure.png)
+
+- Las variable en los command service de aggregates podrían especificar si son creados o actualizados
+
+![Metodos en mayuscula](Images/Cap6/StaticTests/CommandVariablesNames1.png)
+
+- JWT para verificar acceso a métodos
+
+![Metodos en mayuscula](Images/Cap6/StaticTests/Authenticatoin.png)
   
 #### 6.2.2 Reviews
+
+Se recomienda renombrar algunas variables con el objetivo de ser más específicos con su contenido. Así mismo, renombrar los métodos y paquetes para seguir con la estructura definida.
+Finalmente, se debe dividir las lineas mayores a 100 carácteres en dos más pequeñas
 
 ### 6.3. Validation Interviews
 
