@@ -205,6 +205,9 @@
   - [8.2.5 Methods Selection]()
   - [8.2.6 Data Analytics: Goasl, KPLs and Metrics Selection]()
   - [8.2.7 Web and Mobile Tracking Plan]()
+- [8.3 Experimentation]()
+  - [8.3.1 To Be User Stories]()
+  - [8.3.2 To Be Product Backlog]()
 
 - [Avance de Conclusiones, Bibliografía y Anexos](#avance-de-conclusiones-bibliografía-y-anexos)
 
@@ -3409,6 +3412,11 @@ Para la landing page y la app web desarrollada con Vue.js, se utilizó **Netlify
 
 #### 8.2.7 Web and Mobile Tracking Plan
 
+### 8.3 Experimentation
+
+#### 8.3.1 To Be User Stories
+
+#### 8.3.2 To Be Product Backlog
 
 
 
