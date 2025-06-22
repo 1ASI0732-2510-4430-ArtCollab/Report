@@ -3218,8 +3218,58 @@ El objetivo de estas pruebas fue asegurarse del flujo de navegación correcto de
 #### 6.3.1 Diseño de Entrevistas
 
 #### 6.3.2 Registro de Entrevistas
+Cada entrevista fue documentada detalladamente, considerando no solo las respuestas verbales sino también las expresiones, reacciones y comportamiento de los participantes al interactuar con la plataforma.
+
+#### Segmento 1 - Escritores
+
+| Nombre           | Edad | Domicilio              | Enlace al Video |
+|------------------|------|-------------------------|-----------------|
+| Valeria Campos   | 20   | Miraflores              | Entrevista #1   |
+| Diego Huamán     | 22   | San Juan de Lurigancho  | Entrevista #2   |
+
+**Resumen de la Entrevista – Valeria Campos:**  
+Valeria comentó que la estética de la aplicación es moderna y agradable, pero le gustaría que las herramientas de escritura ofrecieran más personalización (tipografías, estilos). Destacó que la opción de colaborar con ilustradores le resulta atractiva, aunque preferiría tener filtros más específicos para encontrar artistas compatibles.
+
+**Resumen de la Entrevista – Diego Huamán:**  
+Diego mencionó que la interfaz es clara, pero algunas funciones para publicar historias le resultaron poco visibles al principio. Apreció la posibilidad de monetizar contenido, aunque recomendó incluir ejemplos o casos de éxito para motivar a los escritores emergentes.
+
+#### Segmento 2 - Ilustradores
+
+| Nombre           | Edad | Domicilio     | Enlace al Video |
+|------------------|------|---------------|-----------------|
+| Lucía Navarro    | 24   | Pueblo Libre  | Entrevista #3   |
+| Javier Mendoza   | 21   | Independencia | Entrevista #4   |
+
+**Resumen de la Entrevista – Lucía Navarro:**  
+Lucía valoró la estructura simple de las colaboraciones, indicando que el sistema de solicitudes es intuitivo. No obstante, expresó que le gustaría tener una galería personal para mostrar sus estilos y así atraer a más escritores. También sugirió añadir herramientas visuales para facilitar la presentación de sus ilustraciones.
+
+**Resumen de la Entrevista – Javier Mendoza:**  
+Javier expresó satisfacción con la variedad de géneros disponibles, pero considera que debería haber más recursos gráficos prediseñados para inspirarse o ahorrar tiempo. En cuanto a la monetización, recomendó integrar un sistema más transparente para mostrar cuánto ha ganado con sus colaboraciones.
+
+---
 
 #### 6.3.3 Evaluacion Segun Heuristicas
+#### Segmento 1 – Escritores
+
+| Entrevistado     | Heurística              | Evaluación |
+|------------------|--------------------------|------------|
+| Valeria Campos   | Claridad de la información | La presentación del contenido es clara, pero la falta de personalización limita la expresión del autor. |
+|                  | Facilidad de navegación   | Navegación general fluida, aunque algunas opciones de edición podrían estar más visibles. |
+|                  | Satisfacción general      | Está satisfecha con la propuesta colaborativa, pero pide mejoras en personalización y filtros de búsqueda. |
+| Diego Huamán     | Claridad de la información | Considera que la guía para publicar es poco visible, lo que genera dudas al principio. |
+|                  | Facilidad de navegación   | Buena experiencia general, aunque sugiere mayor señalización visual en botones de acción. |
+|                  | Satisfacción general      | Se siente motivado a usar la plataforma, pero pide mayor orientación sobre la monetización. |
+
+#### Segmento 2 – Ilustradores
+
+| Entrevistado     | Heurística              | Evaluación |
+|------------------|--------------------------|------------|
+| Lucía Navarro    | Claridad de la información | Las instrucciones para colaborar están bien explicadas, pero desearía más recursos visuales. |
+|                  | Facilidad de navegación   | Le resulta fácil de usar, pero solicita más funciones de personalización para su perfil. |
+|                  | Satisfacción general      | Generalmente satisfecha, considera que la propuesta es innovadora, aunque requiere más visibilidad de su trabajo. |
+| Javier Mendoza   | Claridad de la información | Las herramientas básicas son entendibles, pero falta claridad sobre el sistema de pagos. |
+|                  | Facilidad de navegación   | La navegación es sencilla, aunque sugiere incluir una sección de inspiración visual. |
+|                  | Satisfacción general      | Bastante satisfecho, cree que con algunos ajustes sería una herramienta completa para ilustradores independientes. |
 
 ### 6.4. Auditoria de Experincias de Usuario
 
