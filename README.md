@@ -3207,15 +3207,98 @@ El objetivo de estas pruebas fue asegurarse del flujo de navegación correcto de
 
 #### 6.2.1 Static Code Analysis
 
+Análisis sobre el la forma en que el código ha sido escrito y estructurado, con el objetivo de identificar los aspectos que necesitan mejorarse para hacerlo más legible y funcional
+
 #### 6.2.1.1 Coding Standard & Code Conventions
 
+**Convenciones:**
+
+- Nombres de paquetes en minusculas
+
+- Clases en UpperCamelCase
+
+- Metodos en lowerCamelCase
+
+- Indentacion con 2 o 4 espacios
+
+- Las lineas no deben superar los 100 caracteres
+
+- Archivos con el mismo nombre de la clase
+
+**Observaciones:**
+
+- Los paquetes estan en mayusculas
+
+![Paquetes en mayuscula](Images/Cap6/StaticTests/paquetesMayuscula.png)
+
+- Algunos metodos en mayuscula
+
+![Metodos en mayuscula](Images/Cap6/StaticTests/MetodosMayuscula.png)
+
+- Lineas de mas de 100 caracteres
+
+![Lineas demasiado larga](Images/Cap6/StaticTests/ControllersExtraLines1.png)
+
+![Lineas demasiado larga](Images/Cap6/StaticTests/ControllersExtraLines2.png)
+
 #### 6.2.1.2 Code Quality & Code Security
+
+- Código estructurado enDomain, Infrastructure, Application y Presentation. Cada uno contiene archivos de cada Bounded Context ordenados en paquetes
+
+![Metodos en mayuscula](Images/Cap6/StaticTests/ProjectStructure.png)
+
+- Las variable en los command service de aggregates podrían especificar si son creados o actualizados
+
+![Metodos en mayuscula](Images/Cap6/StaticTests/CommandVariablesNames1.png)
+
+- JWT para verificar acceso a métodos
+
+![Metodos en mayuscula](Images/Cap6/StaticTests/Authenticatoin.png)
   
 #### 6.2.2 Reviews
 
+Se recomienda renombrar algunas variables con el objetivo de ser más específicos con su contenido. Así mismo, renombrar los métodos y paquetes para seguir con la estructura definida.
+Finalmente, se debe dividir las lineas mayores a 100 carácteres en dos más pequeñas
+
 ### 6.3. Validation Interviews
 
+Se realizaran entrevistas de validacion con el objetivo de conocer que aspectos de nuestra aplicacion deben de mejorar. Para esto, se busca conocer los puntos de vista de los usuarios, y así identificar que los satisface, asi como que les falta.
+
 #### 6.3.1 Diseño de Entrevistas
+
+Se han diseñado entrevistas para poder conocer cuan satisfechos se encuentran los usuario con nuestra aplicacion. Gracias a estas preguntas podremos conseguir una solida idea de las opiniones positivas y negativas de nuestros usuarios.
+
+**General:**
+
+¿Cuál es su nombre?
+
+¿Qué edad tiene?
+
+¿Qué le parece el diseño de la aplicación?
+
+¿Qué le gustaría cambiar en cuanto al diseño?
+
+¿La interfaz le parece intuitiva?
+
+**Preguntas Segmento 1: Escritor**
+
+¿Como se siente publicando historias en nuestra aplicacion?
+
+¿Le genera confianza la manera de comunicarse con artistas?. ¿Por qué?
+
+¿Cree que nuestra aplicación podría ayudarle a generar ganancias?
+
+¿Qué deberíamos añadir para darle una mejor experiencia?
+
+**Preguntas Segmento 2: Ilustrador**
+
+¿Que opina sobre la forma de realizar colaboraciones?
+
+¿Cree que tiene suficiente opciones para tener variedad en sus dibujos?. ¿Por qué?
+
+¿Le satisface la manera de generar dinero con sus dibujos?
+
+¿Qué le gustaría que añadieramos para facilitar su trabajo?
 
 #### 6.3.2 Registro de Entrevistas
 Cada entrevista fue documentada detalladamente, considerando no solo las respuestas verbales sino también las expresiones, reacciones y comportamiento de los participantes al interactuar con la plataforma.
