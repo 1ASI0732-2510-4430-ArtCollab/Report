@@ -3543,30 +3543,137 @@ Notificaciones por correo: Render y Netlify notifican al correo registrado en la
 ### 8.1 Experiment Planning
   
 #### 8.1.1 As-Is Summary
+ArtCollab es una plataforma digital enfocada en conectar a escritores e ilustradores interesados en crear obras colaborativas, permitiendo una gestión ágil del contenido y fomentando comunidades creativas. La plataforma busca facilitar el proceso de publicación conjunta, visibilizar talentos emergentes y generar oportunidades de monetización a través de suscripciones, visualizaciones y colaboraciones. ArtCollab ha sido desarrollada utilizando tecnologías como Vue.js para el frontend y .NET para el backend.
 
 #### 8.1.2 Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims
+**Supuestos:**
+- Se asume que los escritores buscan plataformas donde puedan encontrar ilustradores fácilmente para complementar sus historias.
+- Se asume que los ilustradores están interesados en participar en proyectos que aumenten su visibilidad artística y les brinden oportunidades de ingresos.
+- Se asume que los usuarios valoran una interfaz clara, estética y funcional.
+- Se asume que la propuesta colaborativa es diferencial frente a otras plataformas de autopublicación.
+
+**Brechas de Conocimiento:**
+- Falta información sobre las expectativas reales de los usuarios frente a funciones de colaboración.
+- No se tiene certeza sobre los modelos de monetización preferidos por los ilustradores.
+- Aún no se cuenta con datos cualitativos sobre las barreras de entrada a la plataforma para nuevos usuarios.
+
+**Ideas:**
+- Realizar entrevistas con escritores e ilustradores.
+- Implementar encuestas dentro de la plataforma para recopilar feedback frecuente.
+- Probar diferentes modelos de suscripción para creadores.
+
+**Afirmaciones:**
+- ArtCollab busca convertirse en el espacio predilecto para publicar historias ilustradas de forma colaborativa.
+- La plataforma tiene como misión facilitar el vínculo entre creadores que deseen generar ingresos con sus obras.
+- La experiencia de uso debe ser intuitiva, atractiva y personalizada para potenciar la creatividad.
+
+---
 
 #### 8.1.3 Experiment-Ready Questions
+| Pregunta                                                                 | Confianza | Riesgo | Impacto | Interés | Puntaje Total |
+|--------------------------------------------------------------------------|-----------|--------|---------|---------|----------------|
+| ¿Cuántos usuarios activos utilizan la plataforma para colaborar semanalmente? | 8         | 5      | 9       | 9       | 31             |
+| ¿Qué nivel de satisfacción tienen los usuarios frente a la experiencia de colaboración? | 7         | 6      | 8       | 9       | 30             |
+| ¿Qué barreras encuentran los nuevos usuarios al registrarse e iniciar un proyecto? | 6         | 6      | 8       | 8       | 28             |
+| ¿Cuál es la tasa de conversión de registros a publicaciones colaborativas? | 7         | 5      | 9       | 8       | 29             |
+
+---
 
 #### 8.1.4 Question Backlog
+| Prioridad | Pregunta                                                                 |
+|-----------|--------------------------------------------------------------------------|
+| 8         | ¿Cuántos usuarios activos utilizan la plataforma para colaborar semanalmente? |
+| 8         | ¿Qué nivel de satisfacción tienen los usuarios frente a la experiencia de colaboración? |
+| 8         | ¿Cuál es la tasa de conversión de registros a publicaciones colaborativas? |
+| 5         | ¿Qué barreras encuentran los nuevos usuarios al registrarse e iniciar un proyecto? |
+
+---
 
 #### 8.1.5 Experiment Cards
+**QUESTION:** ¿Cuántos usuarios activos utilizan la plataforma para colaborar semanalmente?  
+**WHY:** Para medir la retención y el uso efectivo de las funciones colaborativas.  
+**WHAT:** Implementar métricas internas que registren actividad de proyectos y frecuencia de uso.  
+**HYPOTHESIS:** Si identificamos correctamente el nivel de uso semanal, podremos establecer estrategias de retención y gamificación para aumentar la participación activa en un 15%.
+
+---
+
+**QUESTION:** ¿Qué nivel de satisfacción tienen los usuarios frente a la experiencia de colaboración?  
+**WHY:** Para conocer si los usuarios perciben valor real en el sistema colaborativo.  
+**WHAT:** Implementar encuestas post-colaboración y entrevistas semiestructuradas.  
+**HYPOTHESIS:** Al detectar los puntos críticos de insatisfacción, se podrán ajustar elementos clave del flujo de colaboración, elevando la satisfacción general en un 20%.
+
+---
+
+**QUESTION:** ¿Qué barreras encuentran los nuevos usuarios al registrarse e iniciar un proyecto?  
+**WHY:** Para reducir el abandono temprano de la plataforma y mejorar la experiencia de onboarding.  
+**WHAT:** Grabar sesiones de primeros usos, realizar entrevistas y aplicar encuestas breves tras el registro.  
+**HYPOTHESIS:** Comprender las barreras iniciales permitirá rediseñar el onboarding y reducir la tasa de abandono en un 25%.
+
+---
+
+**QUESTION:** ¿Cuál es la tasa de conversión de registros a publicaciones colaborativas?  
+**WHY:** Para medir la efectividad del flujo de conversión de usuarios interesados en creadores activos.  
+**WHAT:** Análisis de métricas de funnel: registros > perfiles completados > proyectos iniciados > publicaciones.  
+**HYPOTHESIS:** Al detectar cuellos de botella en el proceso de publicación, se podrá mejorar el acompañamiento y aumentar la conversión en un 10%.
+
+---
 
 ### 8.2 Experiment Planning
 
 #### 8.2.1 Hypotheses
+Se espera que los usuarios de ArtCollab mejoren significativamente su experiencia de colaboración creativa, aumentando la frecuencia de interacción y el número de publicaciones compartidas en un periodo de 4 semanas.
 
+---
 #### 8.2.2 Measures
+
+- Tiempo promedio para crear un proyecto colaborativo.
+- Número de interacciones entre escritor e ilustrador por publicación.
+- Nivel de satisfacción con el proceso de colaboración (encuestas).
+- Porcentaje de publicaciones exitosas (terminadas y publicadas).
+
+---
 
 #### 8.2.3 Conditions
 
-#### 8.2.4 Scale Calculations and Decisions
+- **Condición 1: Onboarding guiado + sugerencias de colaboración.**
+- **Condición 2: Acceso libre sin guía de uso.**
 
+Ambas condiciones se probarán con grupos de usuarios nuevos.
+
+---
+
+#### 8.2.4 Scale Calculations and Decisions
+Para asegurar resultados estadísticamente válidos, se trabajará con al menos **40 usuarios por grupo experimental** (escritores e ilustradores nuevos), evaluando su comportamiento durante dos semanas.
+
+---
 #### 8.2.5 Methods Selection
 
+- Encuestas al completar una colaboración.
+- Registro de actividad mediante logs de eventos.
+- Entrevistas cualitativas a una muestra representativa.
+
+---
+
 #### 8.2.6 Data Analytics: Goasl, KPLs and Metrics Selection
+**Objetivos:**
+- Validar la utilidad del flujo de colaboración.
+- Medir la satisfacción y el impacto en la publicación de contenido.
+
+**KPIs:**
+- Tasa de colaboración iniciada por registro.
+- Número promedio de comentarios/interacciones en un proyecto.
+- Porcentaje de publicaciones completadas.
+- Nivel de satisfacción post-proyecto.
+
+---
 
 #### 8.2.7 Web and Mobile Tracking Plan
+Se establecerá un plan de monitoreo para ambas versiones (web y móvil) mediante herramientas como **Google Analytics**, **Firebase** y logs personalizados, rastreando:
+
+- Frecuencia de uso por usuario.
+- Acceso a funcionalidades clave (crear proyecto, invitar colaborador, publicar).
+- Tiempo promedio por sesión.
+- Eventos de abandono o errores frecuentes.
 
 ### 8.3 Experimentation
 
