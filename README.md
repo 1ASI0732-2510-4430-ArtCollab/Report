@@ -3374,13 +3374,36 @@ Para la landing page y la app web desarrollada con Vue.js, se utilizó **Netlify
 ### 7.4. Continuos Monitoring
 
 #### 7.4.1. Tools and Practices
+Para asegurar el correcto funcionamiento de la aplicación en sus entornos de desarrollo y producción, se emplearon herramientas integradas en las plataformas utilizadas:
+
+Render: Esta plataforma permite el monitoreo básico del backend desplegado, brindando información sobre disponibilidad, errores de servidor y estado general de los servicios.
+
+Netlify: En el caso del frontend, Netlify proporciona métricas de despliegue, errores en tiempo de ejecución y alertas sobre problemas en la construcción del sitio.
+
+Estas herramientas, aunque básicas, ofrecen una supervisión continua del estado de la aplicación sin necesidad de configurar soluciones más complejas como Prometheus o ELK Stack.
 
 #### 7.4.2. Monitoring Pipeline Components
+El pipeline de integración y entrega continua incluye etapas que permiten monitorear tanto la calidad del código como el éxito de los despliegues:
+
+Logs de despliegue en Render y Netlify: Permiten rastrear errores en tiempo real durante los procesos de construcción y publicación.
+
+Verificación de endpoints: Se habilitaron endpoints de salud en los servicios del backend para comprobar que las dependencias principales, como la base de datos y la API, se encuentran operativas.
+
+Feedback visual en GitHub Actions: Cada ejecución del pipeline proporciona indicadores de éxito o error, visibles para todos los miembros del equipo.
 
 #### 7.4.3. Alerting Pipeline Components
+Aunque no se usaron sistemas avanzados de alertas automáticas, se tomaron medidas básicas para detectar problemas:
+
+Alertas por fallos de despliegue: Render y Netlify notifican por correo al responsable del equipo cuando ocurre un error durante el proceso de publicación.
+
+Errores del pipeline en GitHub: Las fallas en la integración o construcción se reflejan directamente en la interfaz de GitHub, donde los desarrolladores pueden revisarlas y corregirlas de inmediato.
 
 #### 7.4.4. Notification Pipeline Components
+La comunicación del estado del sistema con el equipo se realiza mediante canales accesibles y de rápida revisión:
 
+GitHub Notifications: Las acciones en el repositorio (como merges o fallos en el pipeline) generan alertas visibles en la plataforma, permitiendo una gestión colaborativa de errores.
+
+Notificaciones por correo: Render y Netlify notifican al correo registrado en la cuenta del equipo ante errores críticos o fallos persistentes.
 
 ## Capítulo VIII: Experiment-Driven Development
 
