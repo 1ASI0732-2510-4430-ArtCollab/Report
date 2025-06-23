@@ -235,7 +235,7 @@
 	    TB2: <br>
             Christopher Sebastian More Rondon: Durante esta entrega me encargue de realizar el análisis estpatico del código para verificar unas correctas convenciones, así como que la estructura del proyecto esté bien realizada. Además, también diseñe las preguntas para las entrevistas de validación<br>
             Carlos Arturo Adrianzen Flores:  <br>
-            Niurka Lucero Huarcaya Quispe: <br>
+            Niurka Lucero Huarcaya Quispe: Establecí hipótesis medibles, condiciones de validación y métricas claras para reducir el riesgo de implementar decisiones arbitrarias que puedan afectar negativamente la experiencia del usuario o el uso eficiente de recursos.<br>
             Frida Sofia Dam Rubianes: <br>
         </td>
         <td>
@@ -262,7 +262,7 @@
 	    TB2: <br>
             Christopher Sebastian More Rondon: Verifiqué el correcto diseño del software realizado, mientras que también me aseguré de diseñar las entrevistas de validación, con el objetivo de saber que satisface y que le molesta a nuestros usuarios.<br>
             Carlos Arturo Adrianzen Flores: <br>
-            Niurka Lucero Huarcaya Quispe: <br>
+            Niurka Lucero Huarcaya Quispe: Construí historias de usuario derivadas del diseño de experimentación considerando el impacto del proyecto de software en diferentes entornos.<br>
             Frida Sofia Dam Rubianes: <br>
         </td>
         <td>
@@ -3778,38 +3778,38 @@ Se establecerá un plan de monitoreo para ambas versiones (web y móvil) mediant
 </tr>
 <tr class="even">
 <td>E7-US20</td>
-<td>Registro de actividad colaborativa semanal</td>
-<td><p>COMO administrador de la plataforma</p>
-<p>QUIERO visualizar cuántos usuarios colaboran activamente cada semana</p>
-<p>PARA medir la retención real</p></td>
-<td><p>Escenario 1: Registro de una colaboración nueva</p>
-<p>Dado que un usuario inicia una colaboración con otro en un proyecto</p>
-<p>Cuando se realice una acción como comentar, editar o publicar contenido</p>
-<p>Entonces el sistema deberá registrar el evento con la fecha, hora y usuarios involucrados</p>
-<p>Escenario 2: Generación del informe semanal</p>
-<p>Dado que ha pasado una semana completa</p>
-<p>Cuando el sistema ejecute el proceso automático</p>
-<p>Entonces se generará un informe con el total de colaboraciones por usuario y por proyecto</p></td>
+<td>Colaboraciones activas y publicaciones</td>
+<td><p>COMO usuario con colaboraciones activas</p>
+<p>QUIERO una interfaz que me facilite coordinar y publicar contenido colaborativo</p>
+<p>PARA incrementar la productividad y el número de publicaciones</p></td>
+<td><p>Escenario 1: Panel de colaboraciones activas</p>
+<p>Dado que el usuario tiene colaboraciones en curso</p>
+<p>Cuando entra a su panel de proyectos</p>
+<p>Entonces podrá ver el estado, avance y tareas de cada colaboración</p>
+<p>Escenario 2: Publicación asistida</p>
+<p>Dado que una colaboración ha finalizado</p>
+<p>Cuando ambos participantes aprueban el contenido</p>
+<p>Entonces podrán publicarlo automáticamente como una obra conjunta</p></td>
 <td>7</td>
 </tr>
 <tr class="odd">
-<td>E8-US21</td>
-<td>Encuesta post colaboración</td>
-<td><p>COMO usuario</p>
-<p>QUIERO quiero completar una breve encuesta después de terminar una colaboración</p>
-<p>PARA compartir mi nivel de satisfacción con la experiencia</p></td>
-<td><p>Escenario 1: Mostrar encuesta después de colaboración</p>
-<p>Dado que el usuario finalizó una colaboración (publicación conjunta o cierre del proyecto)</p>
-<p>Cuando ambos presionen “Finalizar proyecto”</p>
-<p>Entonces se mostrará una encuesta emergente con una escala de 1 a 5 y un campo para comentarios</p>
-<p>Escenario 2: Registro del puntaje y análisis</p>
-<p>Dado que al menos uno de los dos complete la encuesta</p>
-<p>Cuando se registre su respuesta</p>
-<p>Entonces se almacenará el feedback en la base de datos y se mostrará un mensaje de agradecimiento</p></td>
-<td>8</td>
+<td>E7-US21</td>
+<td>Notificaciones Personalizadas<td>
+<p>COMO usuario de ArtCollab</p>
+<p>QUIERO recibir notificaciones relevantes</p>
+<p>PARA reactivarme cuando haya contenido nuevo que me importe</p></td>
+<td><p>Escenario 1: Configuración de intereses en el perfil</p>
+<p>Dado que el usuario esté editando su perfil</p>
+<p>Cuando seleccione géneros preferidos o estilos de ilustración</p>
+<p>Entonces el sistema actualizará sus preferencias de notificación</p>
+<p>Escenario 2: Envío de contenido</p>
+<p>Dado que se publique un nuevo portafolio en el género favorito del usuario</p>
+<p>Cuando se hallen más de dos coincidencias</p>
+<p>Entonces se le enviará una notificación con el enlace directo al contenido</p></td>
+<td>7</td>
 </tr>
 <tr class="even">
-<td>E8-US22</td>
+<td>E7-US22</td>
 <td>Guía interactiva para nuevos usuarios</td>
 <td><p>COMO nuevo usuario</p>
 <p>QUIERO acceder a una guía paso a paso para iniciar mi primer proyecto</p>
@@ -3822,10 +3822,10 @@ Se establecerá un plan de monitoreo para ambas versiones (web y móvil) mediant
 <p>Dado que el usuario completó todos los pasos de la guía</p>
 <p>Cuando le dé clic al botón “Finalizar”</p>
 <p>Entonces el sistema marcará su onboarding como completado y ya no le volverá a mostrar la guía</p></td>
-<td>8</td>
+<td>7</td>
 </tr>
 <tr class="odd">
-<td>E7-US23</td>
+<td>E8-US23</td>
 <td>Registro de barreras en onboarding inicial</td>
 <td><p>COMO administrador</p>
 <p>QUIERO recopilar datos de fricción durante el primer uso</p>
@@ -3839,23 +3839,39 @@ Se establecerá un plan de monitoreo para ambas versiones (web y móvil) mediant
 <p>Cuando vuelva a ingresar</p>
 <p>Entonces se le mostrará un formulario breve para que indique si tuvo algún problema.
 </p></td>
-<td>7</td>
+<td>8</td>
 </tr>
 <tr class="even">
-<td>E7-US24</td>
+<td>E8-US24</td>
 <td>Análisis del Funnel de Conversión a Publicaciones</td>
 <td><p>COMO administrador</p>
 <p>QUIERO medir el porcentaje de usuarios que publican colaboraciones</p>
 <p>PARA encontrar cuellos de botella en el flujo de creación</p></td>
 <td><p>Escenario 1: Registro de intención de crear proyecto</p>
-<p>Dado que eun usuario complete su perfil</p>
+<p>Dado que un usuario complete su perfil</p>
 <p>Cuando presione “crear proyecto”</p>
 <p>Entonces se registrará como paso 1 dentro del funnel de conversión</p>
 <p>Escenario 2: Validación de publicación colaborativa</p>
 <p>Dado que se publique una obra con ilustración añadida</p>
 <p>Cuando se complete la publicación y se relacione con una colaboración activa</p>
 <p>Entonces se marcará como una conversión completada</p></td>
-<td>7</td>
+<td>8</td>
+</tr>
+<tr class="even">
+<td>E6-US25</td>
+<td>Portafolio y solicitudes de colaboración</td>
+<td><p>COMO ilustrador</p>
+<p>QUIERO poder completar y mostrar fácilmente mi portafolio</p>
+<p>PARA recibir más solicitudes de colaboración y oportunidades creativas</p></td>
+<td><p>Escenario 1: Editor de portafolio</p>
+<p>Dado que el usuario accede a su perfil</p>
+<p>Cuando hace clic en “Editar Portafolio”</p>
+<p>Entonces podrá subir obras, agregar descripciones y etiquetas</p>
+<p>Escenario 2: Visibilidad del perfil</p>
+<p>Dado que otro usuario navega por la sección de colaboradores</p>
+<p>Cuando entra al perfil de un artista con portafolio completo</p>
+<p>Entonces podrá ver sus trabajos destacados y enviar una solicitud de colaboración</p></td>
+<td>6</td>
 </tr>
 </tbody>
 </table>
@@ -3883,24 +3899,33 @@ Se establecerá un plan de monitoreo para ambas versiones (web y móvil) mediant
 <tbody>
 <tr class="odd">
 <td>1</td>
-<td>US20</td>
-<td>Registro de actividad colaborativa semanal</td>
-<td><p>Como administrador de la plataforma</p>
-<p>Quiero visualizar cuántos usuarios colaboran activamente cada semana</p>
-<p>Para medir la retención real</p></td>
+<td>E7-US20</td>
+<td>Colaboraciones activas y publicaciones</td>
+<td><p>Como usuario con colaboraciones activas</p>
+<p>Quiero una interfaz que me facilite coordinar y publicar contenido colaborativo</p>
+<p>Para incrementar la productividad y el número de publicaciones</p></td>
 <td>5</td>
 </tr>
 <tr class="even">
 <td>2</td>
-<td>US21</td>
-<td>Encuesta post colaboración</td>
-<td><p>Como usuario</p>
-<p>Quiero completar una breve encuesta después de terminar una colaboración</p>
-<p>Para compartir mi nivel de satisfacción con la experiencia</p></td>
+<td>E8-US21</td>
+<td>Notificaciones Personalizadas<td>
+<p>Como usuario de ArtCollab</p>
+<p>Quiero recibir notificaciones relevantes</p>
+<p>Para reactivarme cuando haya contenido nuevo que me importe</p></td>
 <td>3</td>
 </tr>
 <tr class="odd">
 <td>3</td>
+<td>E6-US25</td>
+<td>Portafolio y solicitudes de colaboración</td>
+<td><p>COMO ilustrador</p>
+<p>QUIERO poder completar y mostrar fácilmente mi portafolio</p>
+<p>PARA recibir más solicitudes de colaboración y oportunidades creativas</p></td>
+<td>5</td>
+</tr>
+<tr class="odd">
+<td>4</td>
 <td>US22</td>
 <td>Guía interactiva para nuevos usuarios</td>
 <td><p>Como nuevo usuario</p>
@@ -3909,7 +3934,7 @@ Se establecerá un plan de monitoreo para ambas versiones (web y móvil) mediant
 <td>3</td>
 </tr>
 <tr class="even">
-<td>4</td>
+<td>5</td>
 <td>US23</td>
 <td>Registro de barreras en onboarding inicial</td>
 <td><p>Como administrador</p>
@@ -3919,7 +3944,7 @@ Se establecerá un plan de monitoreo para ambas versiones (web y móvil) mediant
 </tr>
 </tr>
 <tr class="even">
-<td>4</td>
+<td>6</td>
 <td>US24</td>
 <td>Análisis del Funnel de Conversión a Publicaciones</td>
 <td><p>Como administrador</p>
