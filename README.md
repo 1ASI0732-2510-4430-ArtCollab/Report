@@ -3677,19 +3677,47 @@ ArtCollab es una plataforma digital enfocada en conectar a escritores e ilustrad
 ---
 #### 8.2.2 Measures
 
+- Porcentaje de usuarios inactivos (sin actividad en 7 días) que regresan en los 14 días siguientes al recibir notificaciones.
+- Porcentaje de nuevos usuarios que no inician un proyecto dentro de los primeros 3 días tras registrarse.
 - Tiempo promedio para crear un proyecto colaborativo.
-- Número de interacciones entre escritor e ilustrador por publicación.
-- Nivel de satisfacción con el proceso de colaboración (encuestas).
-- Porcentaje de publicaciones exitosas (terminadas y publicadas).
+- Número medio de solicitudes de colaboración recibidas por usuario.
+- Porcentaje de perfiles con portafolio que reciben al menos una solicitud.
+- Número total de publicaciones por usuario en 30 días.
+- Promedio de publicaciones entre usuarios con 2+ colaboraciones activas vs. sin colaboraciones.
 
 ---
 
 #### 8.2.3 Conditions
 
-- **Condición 1: Onboarding guiado + sugerencias de colaboración.**
-- **Condición 2: Acceso libre sin guía de uso.**
+| Hipótesis | Notificaciones personalizadas y reactivación |
+|-----------|-----------------------------------------------|
+| **Pregunta** | ¿Las notificaciones personalizadas aumentan la reactivación de usuarios inactivos? |
+| **Condición Experimental** | Usuarios inactivos (sin actividad en los últimos 7 días) que reciben notificaciones personalizadas (géneros favoritos, colaboradores, actualizaciones de libros). Se realiza seguimiento durante 14 días tras el envío de la notificación |
+| **Condición de Control** | Usuarios inactivos equivalentes que no reciben ninguna notificación durante el mismo periodo |
 
-Ambas condiciones se probarán con grupos de usuarios nuevos.
+<br>
+
+| Hipótesis | Rediseño del onboarding y abandono temprano |
+|-----------|-----------------------------------------------|
+| **Pregunta** | ¿Un rediseño del onboarding puede reducir el abandono antes del primer proyecto? |
+| **Condición Experimental** | Nuevos usuarios expuestos al nuevo flujo de onboarding: visual step-by-step y mensajes de progreso. |
+| **Condición de Control** | Nuevos usuarios con el flujo de onboarding actual sin rediseño (sin mejoras visuales ni guía adicional) |
+
+<br>
+
+| Hipótesis | Portafolio y solicitudes de colaboración |
+|-----------|-----------------------------------------------|
+| **Pregunta** | ¿Tener un portafolio completo mejora la tasa de solicitudes de colaboración? |
+| **Condición Experimental** | Usuarios con portafolio completo publicado (mínimo 3 obras, descripción, imágenes o muestras) |
+| **Condición de Control** | Usuarios sin portafolio o con portafolio incompleto |
+
+<br>
+
+| Hipótesis | Colaboraciones activas y volumen de publicaciones |
+|-----------|-----------------------------------------------|
+| **Pregunta** |¿El número de colaboraciones activas influye en la cantidad de publicaciones realizadas? |
+| **Condición Experimental** | Usuarios con 2 o más colaboraciones activas (proyectos compartidos iniciados o en desarrollo) |
+| **Condición de Control** | Usuarios sin ninguna colaboración activa durante el mismo periodo |
 
 ---
 
