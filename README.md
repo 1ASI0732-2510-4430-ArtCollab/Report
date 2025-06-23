@@ -3376,21 +3376,108 @@ Fabrizio se encontraba satisfecho con el diseño y funciones de la aplicación, 
 
 #### 6.4.1 Auditoria Realizada
 
+
 ##### 6.4.1.1 Informacion del Grupo Auditado
+
+SHARE NOW (sucesor de Car2go)
+
 
 ##### 6.4.1.2 Cronograma de Auditoria Realizada
 
+•	Fecha de auditoría: 22 de junio de 2025
+•	Duración estimada: 30 minutos
+•	Modo: Remoto (vía navegador web)
+
+
 ##### 6.4.1.3 Contenido de Auditoria Realizada
+
+Claro, aquí tienes la evaluación heurística ajustada al nuevo formato que solicitaste.
+
+6.4.1.1 Informacion del Grupo Auditado
+SHARE NOW (sucesor de Car2go)
+
+6.4.1.2 Cronograma de Auditoria Realizada
+Fecha de auditoría: 22 de junio de 2025
+Duración estimada: 30 minutos
+Modo: Remoto (vía navegador web)
+6.4.1.3 Contenido de Auditoria Realizada
+A continuación, se presenta el resumen de los hallazgos y la descripción detallada de los problemas de usabilidad encontrados durante la auditoría del sitio web de SHARE NOW.
+
+Tabla Resumen de Hallazgos
+
+| # | Problema | Escala de severidad | Heurística/Principio violada(o) |
+| :-- | :--- | :--- | :--- |
+| 1 | Confusión de marca para usuarios de Car2go. | 3 | Usability: Reconocimiento antes que recuerdo / Consistencia. |
+| 2 | El sitio web dirige constantemente a la app, limitando la información. | 3 | Usability: Libertad y control del usuario. |
+| 3 | La estructura de precios puede ser compleja y difícil de encontrar. | 2 | Information Architecture: Is it findable? / Is it understandable? |
+| 4 | El mapa de la zona de servicio no es interactivo en la web. | 2 | Usability: Visibilidad del estado del sistema. |
+| 5 | El proceso de registro solicita el carnet de conducir de inmediato. | 3 | Usability: Flexibilidad y eficiencia de uso. |
+
+Descripción Detallada de Problemas
+
+PROBLEMA #1: Confusión de marca para usuarios de Car2go.
+
+Severidad: 3 (Problema mayor)
+Heurística violada: Usabilidad - Reconocimiento antes que recuerdo / Consistencia y estándares.
+Descripción: Los usuarios que buscan "Car2go" son redirigidos al sitio de SHARE NOW, que a su vez tiene un aviso sobre su integración con Free2move. Esta transición de tres marcas (Car2go -> SHARE NOW -> Free2move) no se explica de forma clara y prominente en la página de inicio. Un usuario antiguo de Car2go puede sentirse desorientado, sin entender si sus datos siguen siendo válidos o si el servicio es el mismo.
+Recomendación: Implementar un banner o una sección claramente visible en la página de inicio que dé la bienvenida a los usuarios de Car2go y explique brevemente la transición a SHARE NOW y Free2move. Por ejemplo: "¿Buscando Car2go? ¡Estás en el lugar correcto! Ahora somos parte de Free2move. Inicia sesión con tu cuenta de siempre".
+PROBLEMA #2: El sitio web dirige constantemente a la app, limitando la información.
+
+Severidad: 3 (Problema mayor)
+Heurística violada: Usabilidad - Libertad y control del usuario.
+Descripción: Muchas de las acciones que un usuario desearía explorar en la web (ej. ver coches disponibles en tiempo real, calcular una tarifa exacta) no están disponibles. El sitio web actúa principalmente como un portal para descargar la aplicación, quitándole al usuario el control de informarse completamente antes de comprometerse a instalar software en su dispositivo.
+Recomendación: Ofrecer más funcionalidades en la versión web, como un simulador de viaje en el mapa para obtener una estimación de coste sin necesidad de registrarse. Esto daría al usuario la libertad de evaluar el servicio con más profundidad antes de dar el siguiente paso.
+PROBLEMA #3: La estructura de precios puede ser compleja y difícil de encontrar.
+
+Severidad: 2 (Problema menor)
+Heurística violada: Information Architecture - Is it findable? / Is it understandable?
+Descripción: La información sobre los precios no está en una sección principal y visible. Una vez encontrada, la estructura de tarifas (por minuto, hora, día, más tarifas adicionales) puede ser abrumadora. No hay una calculadora simple para estimar costos.
+Recomendación: Crear una sección dedicada a "Precios" o "Tarifas" en el menú principal. Incluir una herramienta interactiva simple donde el usuario pueda introducir una duración estimada y obtener un coste aproximado del servicio.
+PROBLEMA #4: El mapa de la zona de servicio no es interactivo en la web.
+
+Severidad: 2 (Problema menor)
+Heurística violada: Usabilidad - Visibilidad del estado del sistema.
+Descripción: El sitio web muestra imágenes estáticas de los mapas con la "zona de servicio". El usuario no puede hacer zoom, moverse o buscar una dirección específica para ver si está dentro del área de operación hasta que descarga la app.
+Recomendación: Integrar un mapa interactivo (ej. Google Maps) en la página de cada ciudad. Este mapa debería tener una capa que muestre la zona de servicio y permitir al usuario navegar y buscar direcciones para verificar la cobertura.
+PROBLEMA #5: El proceso de registro solicita el carnet de conducir de inmediato.
+
+Severidad: 3 (Problema mayor)
+Heurística violada: Usability - Flexibilidad y eficiencia de uso / Prevención de errores.
+Descripción: Al registrarse, uno de los primeros pasos obligatorios es subir una foto del carnet de conducir. Esto crea una barrera de entrada muy alta y puede provocar que el usuario abandone el proceso si no tiene el documento a mano o no se siente cómodo subiéndolo en ese momento.
+Recomendación: Permitir un registro progresivo. Dejar que el usuario cree su cuenta con datos básicos (email, contraseña) y explore la app. La validación del carnet debería ser un paso necesario antes de reservar el primer coche, pero no para crear la cuenta.
 
 #### 6.4.2 Auditoria Recibida
 
 ##### 6.4.2.1 Informacion del Grupo Auditor
 
+Car2Go 
+
 ##### 6.4.2.2 Cronograma de Auditoria Recibida
+
+•	Fecha de auditoría: 22 de junio de 2025
+•	Duración estimada: 30 minutos
+•	Modo: Remoto (vía navegador web)
+
 
 ##### 6.4.2.3 Contenido de Auditoria Recibida
 
+Durante el proceso de auditoría, se intentó acceder a la aplicación desplegada por el grupo auditado mediante el enlace proporcionado. Sin embargo, no fue posible evaluar la funcionalidad completa de la aplicación debido a un error técnico relacionado con la conexión entre el frontend y el backend.
+Al acceder a la aplicación, se evidenció el siguiente mensaje en la consola del navegador:
+ Solicitud de origen cruzado bloqueada: La política de mismo origen no permite la lectura de recursos remotos en https://art-collab.azurewebsites.net/api/v1/content/template. (Razón: Solicitud CORS sin éxito). Código de estado: (null)
+Este error impide cualquier acción de registro, lectura o validación, y genera una pantalla en blanco o sin respuesta, lo que imposibilita la evaluación de la experiencia del usuario en condiciones reales.
+
+
 ##### 6.4.2.4 Resumen de Noificaciones para subsanar hallazgos
+
+Observaciones:
+•	Se sugiere al grupo auditado revisar la configuración de CORS en el backend desplegado en Azure.
+•	Se recomienda también implementar una página de error amigable que informe al usuario que existe una falla temporal del sistema.
+Evaluación alternativa:
+Debido a la imposibilidad de navegación, la evaluación se centró en los siguientes puntos visibles:
+•	El diseño de la interfaz inicial carga correctamente el logo y título del proyecto.
+•	Se observa consistencia visual en los elementos visibles, aunque no se pudo comprobar su funcionalidad.
+•	No fue posible evaluar la arquitectura de navegación, flujos de usuario ni rendimiento.
+
 
  
 ## Capítulo VII: DevOps Practices
