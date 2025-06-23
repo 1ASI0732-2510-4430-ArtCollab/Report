@@ -232,10 +232,16 @@
             Carlos Arturo Adrianzen Flores: Me encargue de corregir ciertas partes del documento que estaban mal estructuradas. <br>
             Niurka Lucero Huarcaya Quispe: En esta entrega me encargué de escribir pruebas claras que validen el comportamiento del sistema para las pruebas BDD. Teniendo en cuenta que la revisión constante de pruebas ayuda a mantener la transparencia y la fiabilidad en el desarrollo.<br>
             Frida Sofia Dam Rubianes: <br>
+	    TB2: <br>
+            Christopher Sebastian More Rondon: Durante esta entrega me encargue de realizar el análisis estpatico del código para verificar unas correctas convenciones, así como que la estructura del proyecto esté bien realizada. Además, también diseñe las preguntas para las entrevistas de validación<br>
+            Carlos Arturo Adrianzen Flores:  <br>
+            Niurka Lucero Huarcaya Quispe: <br>
+            Frida Sofia Dam Rubianes: <br>
         </td>
         <td>
             TB1: Se consideraron las necesidades de los usuarios en todas las fases del desarrollo, desde el diseño de la solución hasta la implementación y el impacto de las decisiones tomadas para la plataforma. <br>
-		TP: Se consideran las necesidades del usuario justamente al realizar los tests, ya que estos reafirman un correcto funcionamiento de la aplicacion que resulta en un usuario feliz y satisfecho con nuestro proyecto.
+		TP: Se consideran las necesidades del usuario justamente al realizar los tests, ya que estos reafirman un correcto funcionamiento de la aplicacion que resulta en un usuario feliz y satisfecho con nuestro proyecto.<br>
+		TB2: 
         </td>
     </tr>
     <tr>
@@ -253,10 +259,16 @@
             Niurka Lucero Huarcaya Quispe: Al aplicar BDD y Selenium en esta entrega, se quiso verificar la eficiencia, accesibilidad y sostenibilidad del sistema, asegurando que cumple con estándares éticos y normativos, mejorando la calidad del software para usuarios y entornos diversos.
 <br>
             Frida Sofia Dam Rubianes: <br>
+	    TB2: <br>
+            Christopher Sebastian More Rondon: Verifiqué el correcto diseño del software realizado, mientras que también me aseguré de diseñar las entrevistas de validación, con el objetivo de saber que satisface y que le molesta a nuestros usuarios.<br>
+            Carlos Arturo Adrianzen Flores: <br>
+            Niurka Lucero Huarcaya Quispe: <br>
+            Frida Sofia Dam Rubianes: <br>
         </td>
         <td>
             TB1: Se tomaron decisiones conscientes durante el proceso de diseño y desarrollo del producto, considerando cómo nuestras soluciones tecnológicas afectan a las comunidades. Además, en cada etapa, se priorizaron enfoques sostenibles y responsables. <br>
-		TP: Se sigue trabajando correctamente en equipo, durante el desarrollo de este segundo sprint nos enfocamos en mejorar el anterior y poder realizar las pruebas correspondientes para los artefactos. Ademas de documentar todos los procesos.
+		TP: Se sigue trabajando correctamente en equipo, durante el desarrollo de este segundo sprint nos enfocamos en mejorar el anterior y poder realizar las pruebas correspondientes para los artefactos. Ademas de documentar todos los procesos.<br>
+		TB2: 
         </td>
     </tr>
 </table>
