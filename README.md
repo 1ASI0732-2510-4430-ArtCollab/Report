@@ -3851,103 +3851,46 @@ Se establecerá un plan de monitoreo para ambas versiones (web y móvil) mediant
 <td>Criterios de Aceptación</td>
 <td>Relación Epic ID</td>
 </tr>
-
 </tr>
 <tr class="even">
 <td>E7-US20</td>
 <td>Colaboraciones activas y publicaciones</td>
-<td><p>COMO usuario con colaboraciones activas</p>
-<p>QUIERO una interfaz que me facilite coordinar y publicar contenido colaborativo</p>
-<p>PARA incrementar la productividad y el número de publicaciones</p></td>
-<td><p>Escenario 1: Panel de colaboraciones activas</p>
-<p>Dado que el usuario tiene colaboraciones en curso</p>
-<p>Cuando entra a su panel de proyectos</p>
-<p>Entonces podrá ver el estado, avance y tareas de cada colaboración</p>
-<p>Escenario 2: Publicación asistida</p>
-<p>Dado que una colaboración ha finalizado</p>
-<p>Cuando ambos participantes aprueban el contenido</p>
-<p>Entonces podrán publicarlo automáticamente como una obra conjunta</p></td>
+<td>COMO usuario con colaboraciones activas<br>QUIERO una interfaz que me facilite coordinar y publicar contenido colaborativo<br>PARA incrementar la productividad y el número de publicaciones</td>
+<td>Escenario 1: Panel de colaboraciones activas<br>Dado que el usuario tiene colaboraciones en curso<br>Cuando entra a su panel de proyectos<br>Entonces podrá ver el estado, avance y tareas de cada colaboración<br>Escenario 2: Publicación asistida<br>Dado que una colaboración ha finalizado<br>Cuando ambos participantes aprueban el contenido<br>Entonces podrán publicarlo automáticamente como una obra conjunta</td>
 <td>7</td>
 </tr>
 <tr class="odd">
 <td>E7-US21</td>
-<td>Notificaciones Personalizadas<td>
-<p>COMO usuario de ArtCollab</p>
-<p>QUIERO recibir notificaciones relevantes</p>
-<p>PARA reactivarme cuando haya contenido nuevo que me importe</p></td>
-<td><p>Escenario 1: Configuración de intereses en el perfil</p>
-<p>Dado que el usuario esté editando su perfil</p>
-<p>Cuando seleccione géneros preferidos o estilos de ilustración</p>
-<p>Entonces el sistema actualizará sus preferencias de notificación</p>
-<p>Escenario 2: Envío de contenido</p>
-<p>Dado que se publique un nuevo portafolio en el género favorito del usuario</p>
-<p>Cuando se hallen más de dos coincidencias</p>
-<p>Entonces se le enviará una notificación con el enlace directo al contenido</p></td>
+<td>Notificaciones Personalizadas<td>COMO usuario de ArtCollab<br>QUIERO recibir notificaciones relevantes<br>PARA reactivarme cuando haya contenido nuevo que me importe<br></td>
+<td>Escenario 1: Configuración de intereses en el perfil<br>Cuando seleccione géneros preferidos o estilos de ilustración<br>Dado que el usuario esté editando su perfil<br>Entonces el sistema actualizará sus preferencias de notificación<br>Escenario 2: Envío de contenido<br>Dado que se publique un nuevo portafolio en el género favorito del usuario<br>Cuando se hallen más de dos coincidencias<br>Entonces se le enviará una notificación con el enlace directo al contenido</td>
 <td>7</td>
 </tr>
 <tr class="even">
 <td>E7-US22</td>
 <td>Guía interactiva para nuevos usuarios</td>
-<td><p>COMO nuevo usuario</p>
-<p>QUIERO acceder a una guía paso a paso para iniciar mi primer proyecto</p>
-<p>PARA no sentirme perdido durante el onboarding</p></td>
-<td><p>Escenario 1: Mostrar guía tras el primer ingreso</p>
-<p>Dado que el usuario acaba de crear su cuenta</p>
-<p>Cuando inicie sesión por primera vez</p>
-<p>Entonces se le mostrará automáticamente una guía en pantalla</p>
-<p>Escenario 2: Registro de finalización de la guía</p>
-<p>Dado que el usuario completó todos los pasos de la guía</p>
-<p>Cuando le dé clic al botón “Finalizar”</p>
-<p>Entonces el sistema marcará su onboarding como completado y ya no le volverá a mostrar la guía</p></td>
+<td>COMO nuevo usuario<br>QUIERO acceder a una guía paso a paso para iniciar mi primer proyecto<br>PARA no sentirme perdido durante el onboarding</td>
+<td>Escenario 1: Mostrar guía tras el primer ingreso<br>Dado que el usuario acaba de crear su cuenta<br>Cuando inicie sesión por primera vez<br>Entonces se le mostrará automáticamente una guía en pantalla<br>Escenario 2: Registro de finalización de la guía<br>Dado que el usuario completó todos los pasos de la guía<br>Cuando le dé clic al botón “Finalizar”<br>Entonces el sistema marcará su onboarding como completado y ya no le volverá a mostrar la guía</td>
 <td>7</td>
 </tr>
 <tr class="odd">
 <td>E8-US23</td>
 <td>Registro de barreras en onboarding inicial</td>
-<td><p>COMO administrador</p>
-<p>QUIERO recopilar datos de fricción durante el primer uso</p>
-<p>PARA identificar obstáculos en el proceso de registro o inicio</p></td>
-<td><p>Escenario 1: Registro de abandono en paso crítico</p>
-<p>Dado que el usuario está en el paso de completar su perfil</p>
-<p>Cuando abandone la plataforma o no avance tras un tiempo determinado</p>
-<p>Entonces el sistema registrará un evento de “posible fricción”</p>
-<p>Escenario 2: Solicitud de feedback ante abandono</p>
-<p>Dado que el sistema detectó que el usuario no completó un paso en el onboarding</p>
-<p>Cuando vuelva a ingresar</p>
-<p>Entonces se le mostrará un formulario breve para que indique si tuvo algún problema.
-</p></td>
+<td>COMO administrador<br>QUIERO recopilar datos de fricción durante el primer uso<br>PARA identificar obstáculos en el proceso de registro o inicio</td>
+<td>Escenario 1: Registro de abandono en paso crítico<br>Dado que el usuario está en el paso de completar su perfil<br>Cuando abandone la plataforma o no avance tras un tiempo determinado<br>Entonces el sistema registrará un evento de “posible fricción”<br>Escenario 2: Solicitud de feedback ante abandono<br>Dado que el sistema detectó que el usuario no completó un paso en el onboarding<br>Cuando vuelva a ingresar<br>Entonces se le mostrará un formulario breve para que indique si tuvo algún problema.</td>
 <td>8</td>
 </tr>
 <tr class="even">
 <td>E8-US24</td>
 <td>Análisis del Funnel de Conversión a Publicaciones</td>
-<td><p>COMO administrador</p>
-<p>QUIERO medir el porcentaje de usuarios que publican colaboraciones</p>
-<p>PARA encontrar cuellos de botella en el flujo de creación</p></td>
-<td><p>Escenario 1: Registro de intención de crear proyecto</p>
-<p>Dado que un usuario complete su perfil</p>
-<p>Cuando presione “crear proyecto”</p>
-<p>Entonces se registrará como paso 1 dentro del funnel de conversión</p>
-<p>Escenario 2: Validación de publicación colaborativa</p>
-<p>Dado que se publique una obra con ilustración añadida</p>
-<p>Cuando se complete la publicación y se relacione con una colaboración activa</p>
-<p>Entonces se marcará como una conversión completada</p></td>
+<td>COMO administrador<br>QUIERO medir el porcentaje de usuarios que publican colaboraciones<br>PARA encontrar cuellos de botella en el flujo de creación</td>
+<td>Escenario 1: Registro de intención de crear proyecto<br>Dado que un usuario complete su perfil<br>Cuando presione “crear proyecto”<br>Entonces se registrará como paso 1 dentro del funnel de conversión<br>Escenario 2: Validación de publicación colaborativa<br>Dado que se publique una obra con ilustración añadida<br>Cuando se complete la publicación y se relacione con una colaboración activa<br>Entonces se marcará como una conversión completada</td>
 <td>8</td>
 </tr>
 <tr class="even">
 <td>E6-US25</td>
 <td>Portafolio y solicitudes de colaboración</td>
-<td><p>COMO ilustrador</p>
-<p>QUIERO poder completar y mostrar fácilmente mi portafolio</p>
-<p>PARA recibir más solicitudes de colaboración y oportunidades creativas</p></td>
-<td><p>Escenario 1: Editor de portafolio</p>
-<p>Dado que el usuario accede a su perfil</p>
-<p>Cuando hace clic en “Editar Portafolio”</p>
-<p>Entonces podrá subir obras, agregar descripciones y etiquetas</p>
-<p>Escenario 2: Visibilidad del perfil</p>
-<p>Dado que otro usuario navega por la sección de colaboradores</p>
-<p>Cuando entra al perfil de un artista con portafolio completo</p>
-<p>Entonces podrá ver sus trabajos destacados y enviar una solicitud de colaboración</p></td>
+<td>COMO ilustrador<br>QUIERO poder completar y mostrar fácilmente mi portafolio<br>PARA recibir más solicitudes de colaboración y oportunidades creativas</td>
+<td>Escenario 1: Editor de portafolio<br>Dado que el usuario accede a su perfil<br>Cuando hace clic en “Editar Portafolio”<br>Entonces podrá subir obras, agregar descripciones y etiquetas<br>Escenario 2: Visibilidad del perfil<br>Dado que otro usuario navega por la sección de colaboradores<br>Cuando entra al perfil de un artista con portafolio completo<br>Entonces podrá ver sus trabajos destacados y enviar una solicitud de colaboración</td>
 <td>6</td>
 </tr>
 </tbody>
