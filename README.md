@@ -3319,12 +3319,18 @@ Diego mencionó que la interfaz es clara, pero algunas funciones para publicar h
 |------------------|------|---------------|-----------------|
 | Lucía Navarro    | 24   | Pueblo Libre  | Entrevista #3   |
 | Javier Mendoza   | 21   | Independencia | Entrevista #4   |
+| Fabrizio Mori    | 19   | San Miguel    | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212199_upc_edu_pe/EZ6A3bc7l4FHpICb9xcpfaQBR2-wAWattB6sNoXdowrFfg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=BepChj |
+
+
 
 **Resumen de la Entrevista – Lucía Navarro:**  
 Lucía valoró la estructura simple de las colaboraciones, indicando que el sistema de solicitudes es intuitivo. No obstante, expresó que le gustaría tener una galería personal para mostrar sus estilos y así atraer a más escritores. También sugirió añadir herramientas visuales para facilitar la presentación de sus ilustraciones.
 
 **Resumen de la Entrevista – Javier Mendoza:**  
 Javier expresó satisfacción con la variedad de géneros disponibles, pero considera que debería haber más recursos gráficos prediseñados para inspirarse o ahorrar tiempo. En cuanto a la monetización, recomendó integrar un sistema más transparente para mostrar cuánto ha ganado con sus colaboraciones.
+
+**Resumen de la Entrevista – Fabrizio Mori:**  
+Fabrizio se encontraba satisfecho con el diseño y funciones de la aplicación, sin embargo menicono que esta tenía demasiados espacio en blanco y que se debería tener mayor seguridad al momeno de entablar una conexion entre ilustradores y escritores. Finalmente, mencionó que le agradaría ver más información de los escritores al buscar sobre ellos.
 
 ---
 
@@ -3350,6 +3356,9 @@ Javier expresó satisfacción con la variedad de géneros disponibles, pero cons
 | Javier Mendoza   | Claridad de la información | Las herramientas básicas son entendibles, pero falta claridad sobre el sistema de pagos. |
 |                  | Facilidad de navegación   | La navegación es sencilla, aunque sugiere incluir una sección de inspiración visual. |
 |                  | Satisfacción general      | Bastante satisfecho, cree que con algunos ajustes sería una herramienta completa para ilustradores independientes. |
+| Fabrizio Mori    | Claridad de la información | La aplicación muestra de manera exitosa la información, isn embargo podría tener menos espacios en blanco |
+|                  | Facilidad de navegación   | La navegación es fácil e intuitiva |
+|                  | Satisfacción general      | El usuario se encuentra satisfecho con la aplicación, sin embargo sería mejor contar con más medidas de seguridad |
 
 ### 6.4. Auditoria de Experincias de Usuario
 
