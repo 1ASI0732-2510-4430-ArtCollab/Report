@@ -3391,16 +3391,6 @@ SHARE NOW (sucesor de Car2go)
 
 ##### 6.4.1.3 Contenido de Auditoria Realizada
 
-Claro, aquí tienes la evaluación heurística ajustada al nuevo formato que solicitaste.
-
-6.4.1.1 Informacion del Grupo Auditado
-SHARE NOW (sucesor de Car2go)
-
-6.4.1.2 Cronograma de Auditoria Realizada
-Fecha de auditoría: 22 de junio de 2025
-Duración estimada: 30 minutos
-Modo: Remoto (vía navegador web)
-6.4.1.3 Contenido de Auditoria Realizada
 A continuación, se presenta el resumen de los hallazgos y la descripción detallada de los problemas de usabilidad encontrados durante la auditoría del sitio web de SHARE NOW.
 
 Tabla Resumen de Hallazgos
