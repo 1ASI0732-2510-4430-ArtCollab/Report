@@ -1242,7 +1242,6 @@ Además, valoran funciones como estadísticas de perfil, contratos integrados y,
 <td>Criterios de Aceptación</td>
 <td>Relación Epic ID</td>
 </tr>
-
 </tr>
 <tr class="even">
 <td>E1-US01</td>
@@ -1567,7 +1566,6 @@ Y todos los elementos se encuentren adaptados al tamaño de la pantalla,
 además de que se pueda interactuar correctamente con el touch. </p></td>
 <td>1</td>
 </tr>
-
 <tr class="even">
 <td>E1-US18</td>
 <td>Accesibilidad en el Landing page</td>
@@ -1582,7 +1580,6 @@ y conocer su aplicación sin impedimentos</p></td>
 <p>Entonces el texto debe ser lo suficientemente grande para poder leerlo</p></td>
 <td>1</td>
 </tr>
-
 <tr class="odd">
 <td>E1-US19</td>
 <td>Contraste del texto y el fondo</td>
@@ -3679,9 +3676,177 @@ Se establecerá un plan de monitoreo para ambas versiones (web y móvil) mediant
 
 #### 8.3.1 To Be User Stories
 
+<table>
+<colgroup>
+<col style="width: 11%" />
+<col style="width: 15%" />
+<col style="width: 21%" />
+<col style="width: 39%" />
+<col style="width: 11%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>Epic / Story ID</td>
+<td>Título</td>
+<td>Descripción</td>
+<td>Criterios de Aceptación</td>
+<td>Relación Epic ID</td>
+</tr>
+
+</tr>
+<tr class="even">
+<td>E7-US20</td>
+<td>Registro de actividad colaborativa semanal</td>
+<td><p>COMO administrador de la plataforma</p>
+<p>QUIERO visualizar cuántos usuarios colaboran activamente cada semana</p>
+<p>PARA medir la retención real</p></td>
+<td><p>Escenario 1: Registro de una colaboración nueva</p>
+<p>Dado que un usuario inicia una colaboración con otro en un proyecto</p>
+<p>Cuando se realice una acción como comentar, editar o publicar contenido</p>
+<p>Entonces el sistema deberá registrar el evento con la fecha, hora y usuarios involucrados</p>
+<p>Escenario 2: Generación del informe semanal</p>
+<p>Dado que ha pasado una semana completa</p>
+<p>Cuando el sistema ejecute el proceso automático</p>
+<p>Entonces se generará un informe con el total de colaboraciones por usuario y por proyecto</p></td>
+<td>7</td>
+</tr>
+<tr class="odd">
+<td>E8-US21</td>
+<td>Encuesta post colaboración</td>
+<td><p>COMO usuario</p>
+<p>QUIERO quiero completar una breve encuesta después de terminar una colaboración</p>
+<p>PARA compartir mi nivel de satisfacción con la experiencia</p></td>
+<td><p>Escenario 1: Mostrar encuesta después de colaboración</p>
+<p>Dado que el usuario finalizó una colaboración (publicación conjunta o cierre del proyecto)</p>
+<p>Cuando ambos presionen “Finalizar proyecto”</p>
+<p>Entonces se mostrará una encuesta emergente con una escala de 1 a 5 y un campo para comentarios</p>
+<p>Escenario 2: Registro del puntaje y análisis</p>
+<p>Dado que al menos uno de los dos complete la encuesta</p>
+<p>Cuando se registre su respuesta</p>
+<p>Entonces se almacenará el feedback en la base de datos y se mostrará un mensaje de agradecimiento</p></td>
+<td>8</td>
+</tr>
+<tr class="even">
+<td>E8-US22</td>
+<td>Guía interactiva para nuevos usuarios</td>
+<td><p>COMO nuevo usuario</p>
+<p>QUIERO acceder a una guía paso a paso para iniciar mi primer proyecto</p>
+<p>PARA no sentirme perdido durante el onboarding</p></td>
+<td><p>Escenario 1: Mostrar guía tras el primer ingreso</p>
+<p>Dado que el usuario acaba de crear su cuenta</p>
+<p>Cuando inicie sesión por primera vez</p>
+<p>Entonces se le mostrará automáticamente una guía en pantalla</p>
+<p>Escenario 2: Registro de finalización de la guía</p>
+<p>Dado que el usuario completó todos los pasos de la guía</p>
+<p>Cuando le dé clic al botón “Finalizar”</p>
+<p>Entonces el sistema marcará su onboarding como completado y ya no le volverá a mostrar la guía</p></td>
+<td>8</td>
+</tr>
+<tr class="odd">
+<td>E7-US23</td>
+<td>Registro de barreras en onboarding inicial</td>
+<td><p>COMO administrador</p>
+<p>QUIERO recopilar datos de fricción durante el primer uso</p>
+<p>PARA identificar obstáculos en el proceso de registro o inicio</p></td>
+<td><p>Escenario 1: Registro de abandono en paso crítico</p>
+<p>Dado que el usuario está en el paso de completar su perfil</p>
+<p>Cuando abandone la plataforma o no avance tras un tiempo determinado</p>
+<p>Entonces el sistema registrará un evento de “posible fricción”</p>
+<p>Escenario 2: Solicitud de feedback ante abandono</p>
+<p>Dado que el sistema detectó que el usuario no completó un paso en el onboarding</p>
+<p>Cuando vuelva a ingresar</p>
+<p>Entonces se le mostrará un formulario breve para que indique si tuvo algún problema.
+</p></td>
+<td>7</td>
+</tr>
+<tr class="even">
+<td>E7-US24</td>
+<td>Análisis del Funnel de Conversión a Publicaciones</td>
+<td><p>COMO administrador</p>
+<p>QUIERO medir el porcentaje de usuarios que publican colaboraciones</p>
+<p>PARA encontrar cuellos de botella en el flujo de creación</p></td>
+<td><p>Escenario 1: Registro de intención de crear proyecto</p>
+<p>Dado que eun usuario complete su perfil</p>
+<p>Cuando presione “crear proyecto”</p>
+<p>Entonces se registrará como paso 1 dentro del funnel de conversión</p>
+<p>Escenario 2: Validación de publicación colaborativa</p>
+<p>Dado que se publique una obra con ilustración añadida</p>
+<p>Cuando se complete la publicación y se relacione con una colaboración activa</p>
+<p>Entonces se marcará como una conversión completada</p></td>
+<td>7</td>
+</tr>
+</tbody>
+</table>
+
 #### 8.3.2 To Be Product Backlog
 
-
+<table>
+<colgroup>
+<col style="width: 13%" />
+<col style="width: 12%" />
+<col style="width: 18%" />
+<col style="width: 28%" />
+<col style="width: 14%" />
+<col style="width: 12%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>#Orden</th>
+<th>User Story ID</th>
+<th>Titulo</th>
+<th>Descripcion</th>
+<th>Story Points</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>US20</td>
+<td>Registro de actividad colaborativa semanal</td>
+<td><p>Como administrador de la plataforma</p>
+<p>Quiero visualizar cuántos usuarios colaboran activamente cada semana</p>
+<p>Para medir la retención real</p></td>
+<td>5</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>US21</td>
+<td>Encuesta post colaboración</td>
+<td><p>Como usuario</p>
+<p>Quiero completar una breve encuesta después de terminar una colaboración</p>
+<p>Para compartir mi nivel de satisfacción con la experiencia</p></td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>US22</td>
+<td>Guía interactiva para nuevos usuarios</td>
+<td><p>Como nuevo usuario</p>
+<p>Quiero acceder a una guía paso a paso para iniciar mi primer proyecto</p>
+<p>Para no sentirme perdido durante el onboarding</p></td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>US23</td>
+<td>Registro de barreras en onboarding inicial</td>
+<td><p>Como administrador</p>
+<p>Quiero recopilar datos de fricción durante el primer uso</p>
+<p>Para identificar obstáculos en el proceso de registro o inicio</p></td>
+<td>5</td>
+</tr>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>US24</td>
+<td>Análisis del Funnel de Conversión a Publicaciones</td>
+<td><p>Como administrador</p>
+<p>Quiero medir el porcentaje de usuarios que publican colaboraciones</p>
+<p>Para encontrar cuellos de botella en el flujo de creación</p></td>
+<td>5</td>
+</tr>
+</tbody>
+</table>
 
 
 ## Conclusiones y Recomendaciones
