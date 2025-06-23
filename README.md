@@ -3627,111 +3627,40 @@ ArtCollab es una plataforma digital enfocada en conectar a escritores e ilustrad
 ### 8.2 Experiment Planning
 
 #### 8.2.1 Hypotheses
-Se espera que los usuarios de ArtCollab mejoren significativamente su experiencia de colaboración creativa, aumentando la frecuencia de interacción y el número de publicaciones compartidas en un periodo de 4 semanas.
 
-<table border="1" cellspacing="0" cellpadding="5">
-  <tr>
-    <td colspan="2" align="center"><b>Hipótesis 1</b></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><b>Notificaciones personalizadas y reactivación</b></td>
-  </tr>
-  <tr>
-    <td><b>Pregunta</b></td>
-    <td>¿Las notificaciones personalizadas aumentan la reactivación de usuarios inactivos?</td>
-  </tr>
-  <tr>
-    <td><b>Creencia</b></td>
-    <td>Si los usuarios reciben alertas sobre contenidos nuevos relacionados con sus géneros preferidos o colaboradores favoritos, es más probable que regresen a la plataforma</td>
-  </tr>
-  <tr>
-    <td><b>Hipótesis alternativa</b></td>
-    <td>Enviar notificaciones personalizadas a usuarios inactivos aumentará su tasa de reactivación en un 18% en un periodo de 2 semanas, en comparación con usuarios que no reciben notificaciones</td>
-  </tr>
-  <tr>
-    <td><b>Hipótesis nula</b></td>
-    <td>El envío de notificaciones personalizadas no tendrá un efecto causal sobre un aumento del 18% en la reactivación de usuarios inactivos en ese periodo</td>
-  </tr>
-  <tr>
-</table>
+| Hipótesis | Notificaciones personalizadas y reactivación |
+|-----------|-----------------------------------------------|
+| **Pregunta** | ¿Las notificaciones personalizadas aumentan la reactivación de usuarios inactivos? |
+| **Creencia** | Si los usuarios reciben alertas sobre contenidos nuevos relacionados con sus géneros preferidos o colaboradores favoritos, es más probable que regresen a la plataforma. |
+| **Hipótesis alternativa** | Enviar notificaciones personalizadas a usuarios inactivos aumentará su tasa de reactivación en un 18% en un periodo de 2 semanas, en comparación con usuarios que no reciben notificaciones. |
+| **Hipótesis nula** | El envío de notificaciones personalizadas no tendrá un efecto causal sobre un aumento del 18% en la reactivación de usuarios inactivos en ese periodo. |
 
-<table border="1" cellspacing="0" cellpadding="5">
-  <tr>
-    <td colspan="2" align="center"><b>Hipótesis 2</b></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><b>Rediseño del onboarding y abandono temprano</b></td>
-  </tr>
-  <tr>
-    <td><b>Pregunta</b></td>
-    <td>¿Un rediseño del flujo de onboarding puede reducir el abandono antes de iniciar un proyecto?</td>
-  </tr>
-  <tr>
-    <td><b>Creencia</b></td>
-    <td>Un proceso de onboarding más claro y guiado facilita la comprensión del sistema y motiva al usuario a iniciar su primera colaboración</td>
-  </tr>
-  <tr>
-    <td><b>Hipótesis alternativa</b></td>
-    <td>El rediseño del onboarding reducirá el abandono antes de iniciar el primer proyecto en un 25% dentro de los primeros 3 días de uso, comparado con el flujo actual</td>
-  </tr>
-  <tr>
-    <td><b>Hipótesis nula</b></td>
-    <td>El rediseño del onboarding no tendrá un efecto significativo sobre la reducción del 25% en el abandono antes del primer proyecto</td>
-  </tr>
-  <tr>
-</table>
+<br>
 
-<table border="1" cellspacing="0" cellpadding="5">
-  <tr>
-    <td colspan="2" align="center"><b>Hipótesis 3</b></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><b>Portafolio y solicitudes de colaboración</b></td>
-  </tr>
-  <tr>
-    <td><b>Pregunta</b></td>
-    <td>¿Tener un portafolio completo mejora la tasa de solicitudes de colaboración?</td>
-  </tr>
-  <tr>
-    <td><b>Creencia</b></td>
-    <td>Mostrar trabajos anteriores genera mayor confianza y aumenta las posibilidades de ser contactado para colaborar</td>
-  </tr>
-  <tr>
-    <td><b>Hipótesis alternativa</b></td>
-    <td>Los usuarios con un portafolio completo recibirán al menos un 30% más de solicitudes de colaboración en un periodo de 4 semanas, en comparación con usuarios sin portafolio</td>
-  </tr>
-  <tr>
-    <td><b>Hipótesis nula</b></td>
-    <td>Tener un portafolio completo no tendrá un efecto causal sobre el aumento del 30% en solicitudes de colaboración</td>
-  </tr>
-  <tr>
-</table>
+| Hipótesis 2 | Rediseño del onboarding y abandono temprano |
+|-------------|---------------------------------------------|
+| **Pregunta** | ¿Un rediseño del flujo de onboarding puede reducir el abandono antes de iniciar un proyecto? |
+| **Creencia** | Un proceso de onboarding más claro y guiado facilita la comprensión del sistema y motiva al usuario a iniciar su primera colaboración. |
+| **Hipótesis alternativa** | El rediseño del onboarding reducirá el abandono antes de iniciar el primer proyecto en un 25% dentro de los primeros 3 días de uso, comparado con el flujo actual. |
+| **Hipótesis nula** | El rediseño del onboarding no tendrá un efecto significativo sobre la reducción del 25% en el abandono antes del primer proyecto. |
 
-<table border="1" cellspacing="0" cellpadding="5">
-  <tr>
-    <td colspan="2" align="center"><b>Hipótesis 4</b></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><b>Colaboraciones activas y volumen de publicaciones</b></td>
-  </tr>
-  <tr>
-    <td><b>Pregunta</b></td>
-    <td>¿El número de colaboraciones activas influye en la cantidad de publicaciones realizadas?</td>
-  </tr>
-  <tr>
-    <td><b>Creencia</b></td>
-    <td>Las colaboraciones fomentan la creación y publicación activa de nuevos proyectos</td>
-  </tr>
-  <tr>
-    <td><b>Hipótesis alternativa</b></td>
-    <td>Los usuarios con al menos dos colaboraciones activas publicarán un 40% más de obras en un periodo de 30 días que aquellos sin colaboraciones activas</td>
-  </tr>
-  <tr>
-    <td><b>Hipótesis nula</b></td>
-    <td>Tener colaboraciones activas no será responsable de un incremento del 40% en el número de publicaciones de proyectos</td>
-  </tr>
-  <tr>
-</table>
+<br>
+
+| Hipótesis 3 | Portafolio y solicitudes de colaboración |
+|-------------|------------------------------------------|
+| **Pregunta** | ¿Tener un portafolio completo mejora la tasa de solicitudes de colaboración? |
+| **Creencia** | Mostrar trabajos anteriores genera mayor confianza y aumenta las posibilidades de ser contactado para colaborar. |
+| **Hipótesis alternativa** | Los usuarios con un portafolio completo recibirán al menos un 30% más de solicitudes de colaboración en un periodo de 4 semanas, en comparación con usuarios sin portafolio. |
+| **Hipótesis nula** | Tener un portafolio completo no tendrá un efecto causal sobre el aumento del 30% en solicitudes de colaboración. |
+
+<br>
+
+| Hipótesis 4 | Colaboraciones activas y volumen de publicaciones |
+|-------------|----------------------------------------------------|
+| **Pregunta** | ¿El número de colaboraciones activas influye en la cantidad de publicaciones realizadas? |
+| **Creencia** | Las colaboraciones fomentan la creación y publicación activa de nuevos proyectos. |
+| **Hipótesis alternativa** | Los usuarios con al menos dos colaboraciones activas publicarán un 40% más de obras en un periodo de 30 días que aquellos sin colaboraciones activas. |
+| **Hipótesis nula** | Tener colaboraciones activas no será responsable de un incremento del 40% en el número de publicaciones de proyectos. |
 
 ---
 #### 8.2.2 Measures
