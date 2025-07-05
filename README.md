@@ -208,8 +208,26 @@
 - [8.3 Experimentation]()
   - [8.3.1 To Be User Stories]()
   - [8.3.2 To Be Product Backlog]()
+  - [8.3.3 Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle]()
+    - [8.3.3.1. To-Be Sprint Backlogs]()
+    - [8.3.3.2. Implemented To-Be Landing Page Evidence]()
+    - [8.3.3.3. Implemented To-Be Frontend-Web Application Evidence]()
+    - [8.3.3.4. Implemented To-Be Native-Mobile Application Evidence]()
+    - [8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence]()
+    - [8.3.3.6. Team Collaboration Insights]()
+  - [8.3.4. To-Be Validation Interviews]()
+    - [8.3.4.1. Diseño de Entrevistas.]()
+    - [8.3.4.2. Registro de Entrevistas.]()
+- [8.4  Experiment Aftermath & Analysis]()
+  - [8.4.1. Analysis and Interpretation of Results]()
+  - [8.4.2. Re-scored and Re-prioritized Question Backlog]()
+- [8.5. Continuous Learning]()
+  - [8.5.1. Shareback Session Artifacts: Learning Workflow]()
+- [8.6. To-Be Software Platform Pre-launch]()
+  - [8.6.1. About-the-ProductIntro Video]()
 
-- [Avance de Conclusiones, Bibliografía y Anexos](#avance-de-conclusiones-bibliografía-y-anexos)
+
+- [Conclusiones, Bibliografía y Anexos](#avance-de-conclusiones-bibliografía-y-anexos)
 
 ## Student Outcome
 <table>
@@ -3975,6 +3993,39 @@ Se establecerá un plan de monitoreo para ambas versiones (web y móvil) mediant
 </tbody>
 </table>
 
+#### 8.3.3 Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle
+
+##### 8.3.3.1. To-Be Sprint Backlogs
+
+##### 8.3.3.2. Implemented To-Be Landing Page Evidence
+
+##### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
+
+##### 8.3.3.4. Implemented To-Be Native-Mobile Application Evidence
+
+##### 8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence
+
+##### 8.3.3.6. Team Collaboration Insights
+
+#### 8.3.4. To-Be Validation Interviews
+
+##### 8.3.4.1. Diseño de Entrevistas.
+
+##### 8.3.4.2. Registro de Entrevistas.
+
+### 8.4. Experiment Aftermath & Analysis
+
+#### 8.4.1. Analysis and Interpretation of Results
+
+#### 8.4.2. Re-scored and Re-prioritized Question Backlog
+
+### 8.5. Continuous Learning
+
+#### 8.5.1. Shareback Session Artifacts: Learning Workflow
+
+### 8.6. To-Be Software Platform Pre-launch
+
+#### 8.6.1. About-the-Product Intro Video
 
 ## Conclusiones y Recomendaciones
 Gracias a este projecto hemos podido identificar la necesidad de crear soluciones que permitean a trabajadores de distintas especialidades conectarse. En este caso, los escritores e ilustradores 
@@ -3985,6 +4036,8 @@ Asimismo, se tuvo en cuenta el proceso de testing, identificando las categorías
 
 En cuanto a los aspectos a mejorar, sería útil añadir más personalización a la forma en que el ilustrador notifica al escritor, puesto que la comunicación y 
 claridad entre ambos es de gran importancia.
+
+## Video About-The-Team.
 
 ## Anexos
 - Video grupal del TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212199_upc_edu_pe/Eb280Z89m-ZPmg7ozJnm6hIBNes3VlHld0jLGZFEOL3EcA?e=fc2U6n&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
