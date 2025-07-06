@@ -4009,7 +4009,35 @@ Se establecerá un plan de monitoreo para ambas versiones (web y móvil) mediant
 
 #### 8.3.4. To-Be Validation Interviews
 
+Estas entrevistas buscan conocer la opinión de los usuarios sobre los cambios a realizar en la aplicación. Permitiéndonos saber que opinan sobre ellos antes de comenzar el desarrollo, y así estar listos para cualquier aspecto que les parezca innecesario
+
 ##### 8.3.4.1. Diseño de Entrevistas.
+
+**General:**
+
+- Mencione su nombre, edad y lugar de residencia
+
+- ¿Le interesaría poder ver una guía sobre cómo crear contenido en nuestra aplicación?. Si es así, ¿qué le gustaría visualizar durante este tutorial?
+
+- ¿Cree que la aplicación debería ser aún más explicita con los significados de los botones?. ¿Por qué?
+
+- ¿Le gustaría una sección donde pueda visualizar la información de sus colaboraciones actuales?
+
+**Artista:**
+
+- ¿Cree que le sería de ayuda contar con un portafolio para que los demás usuarios puedan ver sus dibujos?
+
+- ¿Estaría interesado en recibir notificaciones cuando se agreguen nuevas historias sobre los géneros que le interesan?
+
+- ¿Que otras recomendaciones daría para nuestra aplicación?
+
+**Escritor:**
+
+- ¿Le gustaría recibir notificaciones cuando nuevos artistas estén interesados en los géneros que usted suele escribir?
+
+- ¿Cree que los genero disponibles son suficientes para describir bien su obra?
+
+- ¿Que otras recomendaciones daría para nuestra aplicación?
 
 ##### 8.3.4.2. Registro de Entrevistas.
 
@@ -4018,6 +4046,15 @@ Se establecerá un plan de monitoreo para ambas versiones (web y móvil) mediant
 #### 8.4.1. Analysis and Interpretation of Results
 
 #### 8.4.2. Re-scored and Re-prioritized Question Backlog
+
+| Pregunta                                                                                | Confianza | Riesgo | Impacto | Interés | Puntaje Total |
+|-----------------------------------------------------------------------------------------|-----------|--------|---------|---------|----------------|
+| ¿Cuántos usuarios activos utilizan la plataforma para colaborar semanalmente?           |           |        |         |         |                |
+| ¿Qué nivel de satisfacción tienen los usuarios frente a la experiencia de colaboración? |           |        |         |         |                |
+| ¿Qué barreras encuentran los nuevos usuarios al registrarse e iniciar un proyecto?      |           |        |         |         |                |
+| ¿Cuál es la tasa de conversión de registros a publicaciones colaborativas?              |           |        |         |         |                |
+
+---
 
 ### 8.5. Continuous Learning
 
