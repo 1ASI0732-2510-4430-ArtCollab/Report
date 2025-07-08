@@ -4041,6 +4041,20 @@ Estas entrevistas buscan conocer la opinión de los usuarios sobre los cambios a
 
 ##### 8.3.4.2. Registro de Entrevistas.
 
+**Ilustradores:**
+
+Entrevista 1: Farizio Mori
+
+Enlace: https://drive.google.com/file/d/1nLSHi72bXp0qARwRy1p1OJmZa6o4IOSU/view?usp=sharing
+
+Imagen:
+
+![Entrevista To-Be Fabrizio Mori](Images/Cap8/interviews/entrevista_to-be_FabrizioMori.png)
+
+Resumen: El entrevistado mencionó estar interesado en ver un tutorial sobre como realizar las colaboraciones. Así mismo, menciona que el diseño de la aplicación ya le parece lo suficientemente específico. Sobre las notificaciones, cree que se debería regular para evitar el spam .En cuanto a lo que agregar, expresó que el portafolio es una parte importante para mostrar, por lo que agradecería que se divida por secciones.
+
+**Escritores:**
+
 ### 8.4. Experiment Aftermath & Analysis
 
 #### 8.4.1. Analysis and Interpretation of Results
