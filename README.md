@@ -258,7 +258,7 @@
 		    TF: <br>
             Christopher Sebastian More Rondon: Me encargué de analizar los resultados de los experimentos para comprender que es lo que nuestros usuarios necesitan para mejorar su experiencia, del mismo modo, me aseguré de cambiarle el puntaje al question backlog para ser conscientes de como enfocar nuestros esfuerzos en futuras versiones<br>
             Carlos Arturo Adrianzen Flores:  <br>
-            Niurka Lucero Huarcaya Quispe: <br>
+            Niurka Lucero Huarcaya Quispe: Me encargué de mejorar la planificación de los experimentos y el Sprint Backlog, asegurando que las tareas estuvieran claramente definidas, alineadas con objetivos medibles y priorizadas.<br>
             Frida Sofia Dam Rubianes: <br>
         </td>
         <td>
@@ -291,7 +291,7 @@
 	    TF: <br>
             Christopher Sebastian More Rondon: Analizé los resultados de nuestros experimentos y entrevistas con el objetivo de ser capaz de satisfacer a nuestros usuarios. Al identificar sus necesidades y deseos pude determinar la manera en que debemos trabajar para crear un buen producto<br>
             Carlos Arturo Adrianzen Flores: <br>
-            Niurka Lucero Huarcaya Quispe: <br>
+            Niurka Lucero Huarcaya Quispe: Me encargué de mejorar la planificación de experimentos y del Sprint Backlog, tomando decisiones informadas sobre las tareas prioritarias, considerando su impacto en la experiencia de los usuariosy la eficiencia del equipo.<br>
             Frida Sofia Dam Rubianes: <br>
         </td>
         <td>
