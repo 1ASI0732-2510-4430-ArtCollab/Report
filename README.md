@@ -4253,6 +4253,10 @@ claridad entre ambos es de gran importancia.
 
 ## Video About-The-Team.
 
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b226_upc_edu_pe/ETgWdXh1NPxKiqQUw4CPxcsBDwnzCWs-azR9acvr9sOX9w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=FjgCqb"><img src="https://i.ibb.co/vx8TqJtP/Captura-de-pantalla-2025-07-11-061605.png" alt="Captura-de-pantalla-2025-07-11-061605" border="0"></a>
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b226_upc_edu_pe/ETgWdXh1NPxKiqQUw4CPxcsBDwnzCWs-azR9acvr9sOX9w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=FjgCqb
+
 ## Anexos
 - Video grupal del TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212199_upc_edu_pe/Eb280Z89m-ZPmg7ozJnm6hIBNes3VlHld0jLGZFEOL3EcA?e=fc2U6n&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
