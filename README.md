@@ -249,17 +249,23 @@
             Christopher Sebastian More Rondon: Me encargué de desarrollar los unit tests e integration tests, asegurandome de que estos verifiquen funciones clave del programa para asegurar estar creando un beun producto.<br>
             Carlos Arturo Adrianzen Flores: Me encargue de corregir ciertas partes del documento que estaban mal estructuradas. <br>
             Niurka Lucero Huarcaya Quispe: En esta entrega me encargué de escribir pruebas claras que validen el comportamiento del sistema para las pruebas BDD. Teniendo en cuenta que la revisión constante de pruebas ayuda a mantener la transparencia y la fiabilidad en el desarrollo.<br>
-            Frida Sofia Dam Rubianes: <br>
+            Frida Sofia Dam Rubianes: <br> <br>
 	    TB2: <br>
             Christopher Sebastian More Rondon: Durante esta entrega me encargue de realizar el análisis estpatico del código para verificar unas correctas convenciones, así como que la estructura del proyecto esté bien realizada. Además, también diseñe las preguntas para las entrevistas de validación<br>
             Carlos Arturo Adrianzen Flores:  <br>
             Niurka Lucero Huarcaya Quispe: Establecí hipótesis medibles, condiciones de validación y métricas claras para reducir el riesgo de implementar decisiones arbitrarias que puedan afectar negativamente la experiencia del usuario o el uso eficiente de recursos.<br>
+            Frida Sofia Dam Rubianes: <br><br>
+		    TF: <br>
+            Christopher Sebastian More Rondon: Me encargué de analizar los resultados de los experimentos para comprender que es lo que nuestros usuarios necesitan para mejorar su experiencia, del mismo modo, me aseguré de cambiarle el puntaje al question backlog para ser conscientes de como enfocar nuestros esfuerzos en futuras versiones<br>
+            Carlos Arturo Adrianzen Flores:  <br>
+            Niurka Lucero Huarcaya Quispe: <br>
             Frida Sofia Dam Rubianes: <br>
         </td>
         <td>
             TB1: Se consideraron las necesidades de los usuarios en todas las fases del desarrollo, desde el diseño de la solución hasta la implementación y el impacto de las decisiones tomadas para la plataforma. <br>
 		TP: Se consideran las necesidades del usuario justamente al realizar los tests, ya que estos reafirman un correcto funcionamiento de la aplicacion que resulta en un usuario feliz y satisfecho con nuestro proyecto.<br>
-		TB2: 
+		TB2: Consideramos los distintos aspectos de nuestra solución para poder recopilar información de nuestros clientes y ser capaces de diseñar experimentos con los que saber como trabajar. <br>
+		TF: Analizamos los resultados de nuestros experimentos y entrevistas, y trabajamos en consecuencia para entregar un producto que satisfaga a nuestros usuarios en los aspectos más importantes.
         </td>
     </tr>
     <tr>
@@ -276,17 +282,23 @@
             Carlos Arturo Adrianzen Flores: Siempre tuve en cuenta el impacto que podria generar la solución con cada artefacto mostrado. Y como podría reaccionar el usuario sobre todo ante la aplicación web que es nuestro principal medio.<br>
             Niurka Lucero Huarcaya Quispe: Al aplicar BDD y Selenium en esta entrega, se quiso verificar la eficiencia, accesibilidad y sostenibilidad del sistema, asegurando que cumple con estándares éticos y normativos, mejorando la calidad del software para usuarios y entornos diversos.
 <br>
-            Frida Sofia Dam Rubianes: <br>
+            Frida Sofia Dam Rubianes: <br><br>
 	    TB2: <br>
             Christopher Sebastian More Rondon: Verifiqué el correcto diseño del software realizado, mientras que también me aseguré de diseñar las entrevistas de validación, con el objetivo de saber que satisface y que le molesta a nuestros usuarios.<br>
             Carlos Arturo Adrianzen Flores: <br>
             Niurka Lucero Huarcaya Quispe: Construí historias de usuario derivadas del diseño de experimentación considerando el impacto del proyecto de software en diferentes entornos.<br>
+            Frida Sofia Dam Rubianes: <br><br>
+	    TF: <br>
+            Christopher Sebastian More Rondon: Analizé los resultados de nuestros experimentos y entrevistas con el objetivo de ser capaz de satisfacer a nuestros usuarios. Al identificar sus necesidades y deseos pude determinar la manera en que debemos trabajar para crear un buen producto<br>
+            Carlos Arturo Adrianzen Flores: <br>
+            Niurka Lucero Huarcaya Quispe: <br>
             Frida Sofia Dam Rubianes: <br>
         </td>
         <td>
             TB1: Se tomaron decisiones conscientes durante el proceso de diseño y desarrollo del producto, considerando cómo nuestras soluciones tecnológicas afectan a las comunidades. Además, en cada etapa, se priorizaron enfoques sostenibles y responsables. <br>
 		TP: Se sigue trabajando correctamente en equipo, durante el desarrollo de este segundo sprint nos enfocamos en mejorar el anterior y poder realizar las pruebas correspondientes para los artefactos. Ademas de documentar todos los procesos.<br>
-		TB2: 
+		TB2: Analizamos el estado actual de nuestra solución para determinar que aspectos pueden mejorarse, así como también diseñamos experimentos para intentar mejorar nuestra solución .<br>
+		TF: Logramos determinar en base a los experimentos realizados los aspectos de nuestra aplicación que deben mejorarse, así como los que ya satisfacen a los usuarios. Gracias a esto ahora podemos seguir mejorando la aplicación en busca de ofrecerle el mejor producto a los usuarios.
         </td>
     </tr>
 </table>
@@ -4059,14 +4071,20 @@ Resumen: El entrevistado mencionó estar interesado en ver un tutorial sobre com
 
 #### 8.4.1. Analysis and Interpretation of Results
 
+Se determinó que los usuarios aprecian bastante las colaboraciones, por lo que se encuentran interesados en tener un tutorial que les explique como realizarlas debido a que se les suele complicar. Un tutorial especificamente diseñado para comprender como realizar colaboraciones permitiría a los usuarios interesarse mucho más en la palicación, pues comprender de buena manera el resto de funcionalidades.
+
+En cuanto a otros añadidos, los portafolios son considerados de vital importancia para los artistas, por lo que rediseñarlos nos apoyaría para que signa usando nuestra solución.
+
+Finalmente, las notificaciones si bien llaman la atención de los usuarios, les causa rechazo la idea de recibirlas de manera constante, por lo que debemos buscar una buena forma de regularizar la cantidad de notificaciones recibidas.
+
 #### 8.4.2. Re-scored and Re-prioritized Question Backlog
 
 | Pregunta                                                                                | Confianza | Riesgo | Impacto | Interés | Puntaje Total |
 |-----------------------------------------------------------------------------------------|-----------|--------|---------|---------|----------------|
-| ¿Cuántos usuarios activos utilizan la plataforma para colaborar semanalmente?           |           |        |         |         |                |
-| ¿Qué nivel de satisfacción tienen los usuarios frente a la experiencia de colaboración? |           |        |         |         |                |
-| ¿Qué barreras encuentran los nuevos usuarios al registrarse e iniciar un proyecto?      |           |        |         |         |                |
-| ¿Cuál es la tasa de conversión de registros a publicaciones colaborativas?              |           |        |         |         |                |
+| ¿Cuántos usuarios activos utilizan la plataforma para colaborar semanalmente?           |          8|       8|        8|        9|              33|
+| ¿Qué nivel de satisfacción tienen los usuarios frente a la experiencia de colaboración? |          7|       8|        9|        9|              32|
+| ¿Qué barreras encuentran los nuevos usuarios al registrarse e iniciar un proyecto?      |          8|       7|        7|        7|              29|
+| ¿Cuál es la tasa de conversión de registros a publicaciones colaborativas?              |          7|       7|        8|        8|              30|
 
 ---
 
