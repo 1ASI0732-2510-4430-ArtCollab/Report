@@ -3747,84 +3747,116 @@ ArtCollab es una plataforma digital enfocada en conectar a escritores e ilustrad
 
 #### 8.2.1 Hypotheses
 
-| Hipótesis | Notificaciones personalizadas y reactivación |
+| Hipótesis | Colaboración semanal |
 |-----------|-----------------------------------------------|
-| **Pregunta** | ¿Las notificaciones personalizadas aumentan la reactivación de usuarios inactivos? |
-| **Creencia** | Si los usuarios reciben alertas sobre contenidos nuevos relacionados con sus géneros preferidos o colaboradores favoritos, es más probable que regresen a la plataforma. |
-| **Hipótesis alternativa** | Enviar notificaciones personalizadas a usuarios inactivos aumentará su tasa de reactivación en un 18% en un periodo de 2 semanas, en comparación con usuarios que no reciben notificaciones. |
-| **Hipótesis nula** | El envío de notificaciones personalizadas no tendrá un efecto causal sobre un aumento del 18% en la reactivación de usuarios inactivos en ese periodo. |
+| **Pregunta** | ¿Cuántos usuarios activos utilizan la plataforma para colaborar semanalmente? |
+| **Creencia** | Si se identifica correctamente el uso semanal, se podrán implementar estrategias de gamificación y retención que aumenten la participación activa.|
+| **Hipótesis alternativa** | El monitoreo del uso semanal y la implementación de estrategias de retención/gamificación incrementará la participación activa de los usuarios en al menos un 15% durante un periodo de 4 semanas.|
+| **Hipótesis nula** | El monitoreo del uso semanal y la implementación de estrategias de retención/gamificación no generará un aumento significativo del 15% en la participación activa durante ese periodo. |
 
 <br>
 
-| Hipótesis 2 | Rediseño del onboarding y abandono temprano |
+| Hipótesis 2 | Experiencia de colaboración |
 |-------------|---------------------------------------------|
-| **Pregunta** | ¿Un rediseño del flujo de onboarding puede reducir el abandono antes de iniciar un proyecto? |
-| **Creencia** | Un proceso de onboarding más claro y guiado facilita la comprensión del sistema y motiva al usuario a iniciar su primera colaboración. |
-| **Hipótesis alternativa** | El rediseño del onboarding reducirá el abandono antes de iniciar el primer proyecto en un 25% dentro de los primeros 3 días de uso, comparado con el flujo actual. |
-| **Hipótesis nula** | El rediseño del onboarding no tendrá un efecto significativo sobre la reducción del 25% en el abandono antes del primer proyecto. |
+| **Pregunta** | ¿Qué nivel de satisfacción tienen los usuarios frente a la experiencia de colaboración? |
+| **Creencia** | Si se identifican los puntos críticos de insatisfacción, se podrán mejorar los elementos clave del flujo colaborativo, aumentando la satisfacción de los usuarios. |
+| **Hipótesis alternativa** | Ajustar el flujo de colaboración según los puntos críticos detectados elevará el nivel de satisfacción en al menos un 20% según encuestas post-colaboración. |
+| **Hipótesis nula** | Los ajustes en el flujo de colaboración no producirán un aumento significativo del 20% en la satisfacción del usuario. |
 
 <br>
 
-| Hipótesis 3 | Portafolio y solicitudes de colaboración |
+| Hipótesis 3 | Barreras al iniciar un proyecto|
 |-------------|------------------------------------------|
-| **Pregunta** | ¿Tener un portafolio completo mejora la tasa de solicitudes de colaboración? |
-| **Creencia** | Mostrar trabajos anteriores genera mayor confianza y aumenta las posibilidades de ser contactado para colaborar. |
-| **Hipótesis alternativa** | Los usuarios con un portafolio completo recibirán al menos un 30% más de solicitudes de colaboración en un periodo de 4 semanas, en comparación con usuarios sin portafolio. |
-| **Hipótesis nula** | Tener un portafolio completo no tendrá un efecto causal sobre el aumento del 30% en solicitudes de colaboración. |
+| **Pregunta** | ¿Qué barreras encuentran los nuevos usuarios al registrarse e iniciar un proyecto? |
+| **Creencia** | Identificar las barreras iniciales permitirá rediseñar el proceso de onboarding y reducir significativamente la tasa de abandono. |
+| **Hipótesis alternativa** | El rediseño del onboarding, basado en barreras detectadas, reducirá la tasa de abandono temprano en al menos un 25%. |
+| **Hipótesis nula** | El rediseño del onboarding no reducirá significativamente la tasa de abandono temprano en un 25%. |
 
 <br>
 
-| Hipótesis 4 | Colaboraciones activas y volumen de publicaciones |
+| Hipótesis 4 | Conversión de registros a publicaciones colaborativas |
 |-------------|----------------------------------------------------|
-| **Pregunta** | ¿El número de colaboraciones activas influye en la cantidad de publicaciones realizadas? |
-| **Creencia** | Las colaboraciones fomentan la creación y publicación activa de nuevos proyectos. |
-| **Hipótesis alternativa** | Los usuarios con al menos dos colaboraciones activas publicarán un 40% más de obras en un periodo de 30 días que aquellos sin colaboraciones activas. |
-| **Hipótesis nula** | Tener colaboraciones activas no será responsable de un incremento del 40% en el número de publicaciones de proyectos. |
-
+| **Pregunta** |¿Cuál es la tasa de conversión de registros a publicaciones colaborativas? |
+| **Creencia** | Detectar los cuellos de botella en el proceso de conversión permitirá mejorar el acompañamiento y aumentar la tasa de publicaciones colaborativas. |
+| **Hipótesis alternativa** | La optimización del flujo de conversión (registro → perfil → proyecto → publicación) incrementará la conversión en al menos un 10%. |
+| **Hipótesis nula** | Las mejoras en el flujo de conversión no generarán un aumento significativo del 10% en la tasa de publicaciones colaborativas. |
 ---
 #### 8.2.2 Measures
 
-- Porcentaje de usuarios inactivos (sin actividad en 7 días) que regresan en los 14 días siguientes al recibir notificaciones.
-- Porcentaje de nuevos usuarios que no inician un proyecto dentro de los primeros 3 días tras registrarse.
-- Tiempo promedio para crear un proyecto colaborativo.
-- Número medio de solicitudes de colaboración recibidas por usuario.
-- Porcentaje de perfiles con portafolio que reciben al menos una solicitud.
-- Número total de publicaciones por usuario en 30 días.
-- Promedio de publicaciones entre usuarios con 2+ colaboraciones activas vs. sin colaboraciones.
+**Pregunta 1:** ¿Cuántos usuarios activos utilizan la plataforma para colaborar semanalmente?
+
+Número de usuarios que participan activamente en al menos una colaboración por semana.
+
+Número promedio de acciones colaborativas por usuario (comentarios, ediciones, publicaciones conjuntas)
+
+% de usuarios activos frente al total registrado
+
+Variación del número de usuarios activos antes y después de aplicar la estrategia
+
+**Pregunta 2:** ¿Qué nivel de satisfacción tienen los usuarios frente a la experiencia de colaboración?
+
+Puntuación promedio de satisfacción en encuestas post-colaboración (1 a 5 o 1 a 10)
+
+Tasa de finalización de sesiones colaborativas
+
+% de usuarios que repiten una colaboración luego de su primera experiencia
+
+**Pregunta 3:** ¿Qué barreras encuentran los nuevos usuarios al registrarse e iniciar un proyecto?
+
+Tasa de abandono durante el onboarding (usuarios que se registran pero no completan el perfil o no inician un proyecto)
+
+Número de clics o errores en los pasos del onboarding
+
+% de usuarios que abandonan la plataforma en los primeros 3 días
+
+**Pregunta 4:** ¿Cuál es la tasa de conversión de registros a publicaciones colaborativas?
+
+Tasa de conversión por etapa del funnel:
+
+% de usuarios registrados que completan su perfil
+
+% de perfiles completos que crean un proyecto
+
+% de proyectos creados que resultan en una publicación colaborativa
+
+Número de publicaciones colaborativas por nuevo usuario en el primer mes
+
+Total de publicaciones colaborativas generadas por nuevos usuarios
+
 
 ---
 
 #### 8.2.3 Conditions
 
-| Hipótesis | Notificaciones personalizadas y reactivación |
+| Hipótesis | Colaboración semanal |
 |-----------|-----------------------------------------------|
-| **Pregunta** | ¿Las notificaciones personalizadas aumentan la reactivación de usuarios inactivos? |
-| **Condición Experimental** | Usuarios inactivos (sin actividad en los últimos 7 días) que reciben notificaciones personalizadas (géneros favoritos, colaboradores, actualizaciones de libros). Se realiza seguimiento durante 14 días tras el envío de la notificación |
-| **Condición de Control** | Usuarios inactivos equivalentes que no reciben ninguna notificación durante el mismo periodo |
+| **Pregunta** | ¿Cuántos usuarios activos utilizan la plataforma para colaborar semanalmente? |
+| **Condición Experimental** | Usuarios activos durante las últimas 4 semanas que reciben incentivos de gamificación y mensajes personalizados que motivan la colaboración. Se realiza seguimiento durante 4 semanas posteriores a la activación del sistema de gamificación.|
+| **Condición de Control** | Usuarios activos equivalentes que no reciben incentivos de gamificación ni mensajes motivacionales durante el mismo periodo |
 
 <br>
 
-| Hipótesis | Rediseño del onboarding y abandono temprano |
+| Hipótesis | Experiencia de colaboración |
 |-----------|-----------------------------------------------|
-| **Pregunta** | ¿Un rediseño del onboarding puede reducir el abandono antes del primer proyecto? |
-| **Condición Experimental** | Nuevos usuarios expuestos al nuevo flujo de onboarding: visual step-by-step y mensajes de progreso. |
-| **Condición de Control** | Nuevos usuarios con el flujo de onboarding actual sin rediseño (sin mejoras visuales ni guía adicional) |
+| **Pregunta** | ¿Qué nivel de satisfacción tienen los usuarios frente a la experiencia de colaboración? |
+| **Condición Experimental** | Usuarios que participan en proyectos colaborativos tras rediseñar el flujo de colaboración (interfaz simplificada). Se miden sus respuestas en encuestas de satisfacción post-colaboración durante 4 semanas. |
+| **Condición de Control** | Usuarios que participan en proyectos colaborativos usando la versión anterior del flujo sin mejoras, durante el mismo periodo, y responden las mismas encuestas. |
 
 <br>
 
-| Hipótesis | Portafolio y solicitudes de colaboración |
+| Hipótesis | Barreras al iniciar un proyecto |
 |-----------|-----------------------------------------------|
-| **Pregunta** | ¿Tener un portafolio completo mejora la tasa de solicitudes de colaboración? |
-| **Condición Experimental** | Usuarios con portafolio completo publicado (mínimo 3 obras, descripción, imágenes o muestras) |
-| **Condición de Control** | Usuarios sin portafolio o con portafolio incompleto |
+| **Pregunta** | ¿Qué barreras encuentran los nuevos usuarios al registrarse e iniciar un proyecto?|
+| **Condición Experimental** | Nuevos usuarios registrados que acceden a un flujo de onboarding optimizado. Se mide su comportamiento durante los primeros 3 días. |
+| **Condición de Control** | Nuevos usuarios equivalentes que acceden al flujo de onboarding estándar (versión actual sin mejoras) durante el mismo periodo. |
 
 <br>
 
-| Hipótesis | Colaboraciones activas y volumen de publicaciones |
+| Hipótesis | Conversión de registros a publicaciones colaborativas |
 |-----------|-----------------------------------------------|
-| **Pregunta** |¿El número de colaboraciones activas influye en la cantidad de publicaciones realizadas? |
-| **Condición Experimental** | Usuarios con 2 o más colaboraciones activas (proyectos compartidos iniciados o en desarrollo) |
-| **Condición de Control** | Usuarios sin ninguna colaboración activa durante el mismo periodo |
+| **Pregunta** |¿Cuál es la tasa de conversión de registros a publicaciones colaborativas? |
+| **Condición Experimental** | Nuevos usuarios registrados que reciben acompañamiento guiado para completar perfil, iniciar proyecto y publicar. Se mide su avance por el funnel durante 30 días. |
+| **Condición de Control** | Nuevos usuarios equivalentes que siguen el flujo estándar sin acompañamiento guiado, medidos en el mismo intervalo. |
 
 ---
 
@@ -3841,15 +3873,73 @@ Para asegurar resultados estadísticamente válidos, se trabajará con al menos 
 ---
 
 #### 8.2.6 Data Analytics: Goasl, KPLs and Metrics Selection
-**Objetivos:**
-- Validar la utilidad del flujo de colaboración.
-- Medir la satisfacción y el impacto en la publicación de contenido.
+**Pregunta 1:** ¿Cuántos usuarios activos utilizan la plataforma para colaborar semanalmente?
+Goal:
+Incrementar la participación activa semanal de los usuarios en funciones colaborativas.
 
-**KPIs:**
-- Tasa de colaboración iniciada por registro.
-- Número promedio de comentarios/interacciones en un proyecto.
-- Porcentaje de publicaciones completadas.
-- Nivel de satisfacción post-proyecto.
+KPI:
+- % de usuarios activos colaborando semanalmente.
+
+Measures:
+
+- Número de usuarios que participan activamente en al menos una colaboración por semana
+
+- Número promedio de acciones colaborativas por usuario (comentarios, ediciones, publicaciones conjuntas)
+
+- % de usuarios activos frente al total registrado
+
+- Variación del número de usuarios activos antes y después de aplicar la estrategia
+
+**Pregunta 2:** ¿Qué nivel de satisfacción tienen los usuarios frente a la experiencia de colaboración?
+Goal:
+Mejorar la satisfacción de los usuarios respecto al proceso de colaboración.
+
+KPI:
+- Puntuación promedio en encuestas post-colaboración.
+
+Measures:
+
+- Puntuación promedio de satisfacción en encuestas post-colaboración (escala 1 a 5 o 1 a 10)
+
+- Tasa de finalización de sesiones colaborativas
+
+- % de usuarios que repiten una colaboración luego de su primera experiencia
+
+**Pregunta 3:** ¿Qué barreras encuentran los nuevos usuarios al registrarse e iniciar un proyecto?
+Goal:
+Reducir las fricciones en el onboarding y disminuir el abandono temprano.
+
+KPI:
+- Tasa de abandono durante los primeros pasos del onboarding.
+
+Measures:
+
+- Tasa de abandono durante el onboarding (usuarios que se registran pero no completan el perfil o no inician un proyecto)
+
+- Número de clics o errores en los pasos del onboarding
+
+- % de usuarios que abandonan la plataforma en los primeros 3 días
+
+**Pregunta 4:** ¿Cuál es la tasa de conversión de registros a publicaciones colaborativas?
+Goal:
+Aumentar la conversión de usuarios registrados en creadores de publicaciones colaborativas.
+
+KPI:
+- % de conversión de registro a publicación colaborativa.
+
+Measures:
+
+Tasa de conversión por etapa del funnel:
+
+- % de usuarios registrados que completan su perfil
+
+- % de perfiles completos que crean un proyecto
+
+- % de proyectos creados que resultan en una publicación colaborativa
+
+Número de publicaciones colaborativas por nuevo usuario en el primer mes
+
+Total de publicaciones colaborativas generadas por nuevos usuarios
 
 ---
 
@@ -3916,13 +4006,6 @@ Se establecerá un plan de monitoreo para ambas versiones (web y móvil) mediant
 <td>Escenario 1: Registro de intención de crear proyecto<br>Dado que un usuario complete su perfil<br>Cuando presione “crear proyecto”<br>Entonces se registrará como paso 1 dentro del funnel de conversión<br>Escenario 2: Validación de publicación colaborativa<br>Dado que se publique una obra con ilustración añadida<br>Cuando se complete la publicación y se relacione con una colaboración activa<br>Entonces se marcará como una conversión completada</td>
 <td>8</td>
 </tr>
-<tr class="even">
-<td>E6-US25</td>
-<td>Portafolio y solicitudes de colaboración</td>
-<td>COMO ilustrador<br>QUIERO poder completar y mostrar fácilmente mi portafolio<br>PARA recibir más solicitudes de colaboración y oportunidades creativas</td>
-<td>Escenario 1: Editor de portafolio<br>Dado que el usuario accede a su perfil<br>Cuando hace clic en “Editar Portafolio”<br>Entonces podrá subir obras, agregar descripciones y etiquetas<br>Escenario 2: Visibilidad del perfil<br>Dado que otro usuario navega por la sección de colaboradores<br>Cuando entra al perfil de un artista con portafolio completo<br>Entonces podrá ver sus trabajos destacados y enviar una solicitud de colaboración</td>
-<td>6</td>
-</tr>
 </tbody>
 </table>
 
@@ -3964,16 +4047,6 @@ Se establecerá un plan de monitoreo para ambas versiones (web y móvil) mediant
 <p>Quiero recibir notificaciones relevantes</p>
 <p>Para reactivarme cuando haya contenido nuevo que me importe</p></td>
 <td>3</td>
-</tr>
-<tr class="odd">
-<td>3</td>
-<td>E6-US25</td>
-<td>Portafolio y solicitudes de colaboración</td>
-<td><p>COMO ilustrador</p>
-<p>QUIERO poder completar y mostrar fácilmente mi portafolio</p>
-<p>PARA recibir más solicitudes de colaboración y oportunidades creativas</p></td>
-<td>5</td>
-</tr>
 <tr class="odd">
 <td>4</td>
 <td>US22</td>
@@ -3984,7 +4057,7 @@ Se establecerá un plan de monitoreo para ambas versiones (web y móvil) mediant
 <td>3</td>
 </tr>
 <tr class="even">
-<td>5</td>
+<td>4</td>
 <td>US23</td>
 <td>Registro de barreras en onboarding inicial</td>
 <td><p>Como administrador</p>
@@ -3994,7 +4067,7 @@ Se establecerá un plan de monitoreo para ambas versiones (web y móvil) mediant
 </tr>
 </tr>
 <tr class="even">
-<td>6</td>
+<td>5</td>
 <td>US24</td>
 <td>Análisis del Funnel de Conversión a Publicaciones</td>
 <td><p>Como administrador</p>
@@ -4008,6 +4081,78 @@ Se establecerá un plan de monitoreo para ambas versiones (web y móvil) mediant
 #### 8.3.3 Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle
 
 ##### 8.3.3.1. To-Be Sprint Backlogs
+
+<table style="width:400px; height:100px;">
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 1 </th>
+   </tr>
+   <tr>
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item /Task</th>
+   </tr>
+   <tr>
+     <th> Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th> Title </th>
+     <th> Description </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th>
+     <th> Status (To-do / In-Process / To-Review / Done) </th>
+   </tr>
+   <tr>
+      <th> E7-US20 </th>
+      <th colspan="3">Colaboraciones activas y publicaciones </th>
+      <th> W01 </th>
+      <th> Panel de colaboraciones </th>
+      <th> Crear panel de colaboraciones y sistema de publicación conjunta </th>
+      <th> 6 </th>
+      <th> Niurka Huarcaya </th>
+      <th> In process </th>
+   </tr>
+   <tr>
+      <th> E8-US21 </th>
+      <th colspan="3"> Notificaciones Personalizadas </th>
+      <th> W02 </th>
+      <th> Notificaciones Personalizadas </th>
+      <th> Enviar notificaciones según preferencias y actividad </th>
+      <th> 4 </th>
+      <th> Christopher More </th>
+      <th> In process </th>
+   </tr>
+   <tr>
+      <th> US22 </th>
+      <th colspan="3"> Guía interactiva para nuevos usuarios </th>
+      <th> W03 </th>
+      <th> Guía interactiva </th>
+      <th> Implementar tour interactivo activado en el primer ingreso </th>
+      <th> 5 </th>
+      <th> Frida Dam </th>
+      <th> In process </th>
+   </tr>
+   <tr>
+      <th> US23 </th>
+      <th colspan="3"> Registro de barreras en onboarding inicial </th>
+      <th> W04 </th>
+      <th> Registro de barreras </th>
+      <th> Grabar eventos, generar reporte de pasos abandonados </th>
+      <th> 4 </th>
+      <th> Carlos Adrianzen </th>
+      <th> In process </th>
+   </tr>
+   <tr>
+      <th> US24 </th>
+      <th colspan="3"> Análisis del Funnel de Conversión a Publicaciones </th>
+      <th> W05 </th>
+      <th> Análisis del Funnel </th>
+      <th> Visualizar embudo: registro > perfil > proyecto > publicación </th>
+      <th> 2 </th>
+      <th> Carlos Adrianzen </th>
+      <th> In process </th>
+   </tr>
+   
+</table>
 
 ##### 8.3.3.2. Implemented To-Be Landing Page Evidence
 
